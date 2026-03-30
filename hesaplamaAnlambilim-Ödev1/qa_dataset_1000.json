@@ -1,0 +1,4005 @@
+{
+  "train": [
+    {
+      "question": "el-Zij es-sabi'nin vatikanda olan nüshasını kim yazmıştır?",
+      "answer": "Plato"
+    },
+    {
+      "question": "El-Marrakuşi tarafından tarif edilen silindir güneş saatinin silindiri hangi maddelerden yapılmıştır?",
+      "answer": "Ahşaptan veya pirinçten"
+    },
+    {
+      "question": "Yeni gazete'nin ünlü yazarları kimlerdir?",
+      "answer": "Cenab Şehabeddin, Süleyman Nazif, Mehmed Rauf"
+    },
+    {
+      "question": "Müyessiretü'l-Ulûm eseri kim tarafından Türkçeye çevrilmiştir?",
+      "answer": " Eser Besim Atalay"
+    },
+    {
+      "question": "Hulusi Behçet kiminle evlenmştir? ",
+      "answer": "Refika Davaz ile"
+    },
+    {
+      "question": "İbn-i Batuta Kahire'ye nasıl ulaşmıştır?",
+      "answer": "Kuzey Afrika kıyılarından kara yoluyla"
+    },
+    {
+      "question": "Düzensiz çalışmasına rağmen Papa VII. Alexander'ın övgüsünü alan civalı saat hangi yılda sunulmuştur?",
+      "answer": "1656"
+    },
+    {
+      "question": "Şakir Kocabaş kaç yılında İTÜ Kimya ve Metalurji Fakültesinden mezun olmuştur?",
+      "answer": "1970"
+    },
+    {
+      "question": "İbn Kesir nerede vefat etmiştir?",
+      "answer": "Şam'da"
+    },
+    {
+      "question": "Ebu Nasr Mansur El-Biruni'ye hangi konuları öğretti?",
+      "answer": "Öklid geometrisi ve Batlamyus astronomisini"
+    },
+    {
+      "question": "Türksat 3A nereden fırlatılmıştır ?",
+      "answer": "Fransız Guyanası'ndaki Guyana Uzay Merkezi"
+    },
+    {
+      "question": "İTÜRO mikro sumo kategorisindeki dohyoların çapı nedir?",
+      "answer": "38.5cm"
+    },
+    {
+      "question": "Aşık çelebi Şakaayık zeyli'yi kime takdim etmiştir ?",
+      "answer": "Sokullu Mehmed Paşa’ya"
+    },
+    {
+      "question": "Nazım Hikmet Vala Nureddin ile ne zaman Anadolu'ya geçti, Bolu'da öğretmenlik yaptı?",
+      "answer": "1920'de"
+    },
+    {
+      "question": "Kerim Erim ilköğrenimini hangi şehirde tamamlamıştır?",
+      "answer": "Halep"
+    },
+    {
+      "question": "İbnü'n Nedîm el-Fihrist'te her alanın uzmanı gibi bilgi verebilmesinden anlaşılan nedir?",
+      "answer": "çok yönlü ve esaslı bir tahsil gördüğü"
+    },
+    {
+      "question": "Emre Kongar'ın doğum günü yıl olmadan nedir?",
+      "answer": "13 Ekim"
+    },
+    {
+      "question": "TÜBİTAK'ta 1993 yılında ne yapılmaya başlanmıştır?",
+      "answer": "Popüler Bilim Kitapları basılmaya başlanmıştır"
+    },
+    {
+      "question": "Mustafa Behçet Efendi nereye defnedilmiştir ?",
+      "answer": "Üsküdar’daki Nasuhi Dergahı’na"
+    },
+    {
+      "question": "Sabahattin Ali’nin babasının adı nedir?",
+      "answer": "Ali Selahattin Bey"
+    },
+    {
+      "question": "Prof. Dr. Fuat Sezgin İslam Bilim Tarihi Enstitüsü hangi üniversite bünyesinde kurulmuştur?",
+      "answer": "Fatih Sultan Mehmet Vakıf Üniversitesi"
+    },
+    {
+      "question": "Kara Harp Okulu'nun geleneksel adı nedir?",
+      "answer": "Harbiye"
+    },
+    {
+      "question": "Harezmi, Batlamyus’un neyle ilgili verilerini sistematize edip düzeltmiştir?",
+      "answer": "Batlamyus’un Afrika ve Orta Doğu'yla ilgili verilerini "
+    },
+    {
+      "question": "el-Mizzi’nin eserinin adı nedir?",
+      "answer": "Tehzîbü'l Kemal"
+    },
+    {
+      "question": "Kutbeddin Şirazi kaç yıl büyükelçi olarak görev yapmıştır?",
+      "answer": "sekiz yıl"
+    },
+    {
+      "question": "el-Fihrist'te bulabileceğimiz tek Yahudi aliminin ismi nedir?",
+      "answer": "Saîd el-Feyyûmî"
+    },
+    {
+      "question": "İsenbike Togan nerede doğmuştur?",
+      "answer": "İstanbul"
+    },
+    {
+      "question": "Türksat A.Ş kaç adet televizyon ve radyo yayını vardır ? ",
+      "answer": "800 civarında"
+    },
+    {
+      "question": "Besim Tanyel hangi yıllar arasında yaşamıştır?",
+      "answer": "d. 16 Mart 1915, İstanbul - ö. 14 Ağustos 1998"
+    },
+    {
+      "question": "12. Yüzyılın ortalarına doğru görüş alanına çıkan yeni bir çeviri merkezi nerededir?",
+      "answer": "Toulouse’da"
+    },
+    {
+      "question": "İsenbike Togan doktorasının ardından Türkiye’de hangi üniversitede çalışmıştır?",
+      "answer": "Hacettepe Üniversites"
+    },
+    {
+      "question": "İTÜRO labirent kategorisinde ne gibi durumlar puanlamada eksi olarak değerlendirilir?",
+      "answer": "duvara çarpma, uygulama bölümünde yanlış yöne girme gibi durumlar"
+    },
+    {
+      "question": "Koç Üniversitesi bünyesinde ne kara laboratuvar vardır?",
+      "answer": "72 adet"
+    },
+    {
+      "question": "Besim Tanyel’in herhangi bir kuruma üyeliği var mıdır?",
+      "answer": "Ankara Üniversitesi Fen Fakültesi Kurucu Öğretim üyesidir"
+    },
+    {
+      "question": "Zıpkın nedir?",
+      "answer": "atışa hazır 4 adet FIM-92 Stinger füzesini kullanan, çeşitli algılayıcılar ile donatılmış ve tüm fonksiyonları bilgisayar tarafından denetlenen bir Alçak İrtifa Hava Savunma Sistemidir"
+    },
+    {
+      "question": "Ali bin Rıdvan ne zaman Süpernova gözlemleri yapmıştır?",
+      "answer": "1006"
+    },
+    {
+      "question": "KORAL'ın teslimatı ne zaman yapılmıştır?",
+      "answer": "Şubat 2016'da"
+    },
+    {
+      "question": "Feridüddin Attar kaç yılında Mantıku't-Tayr eserini yazmıştır?",
+      "answer": "1187"
+    },
+    {
+      "question": "Cahit Arf kaç yılında profesör ünvanını almıştır?",
+      "answer": "1943"
+    },
+    {
+      "question": "Cabir Bin Eflah'ın dini nedir?",
+      "answer": "müslüman"
+    },
+    {
+      "question": "Türklere göre evren neyin etrafında dönüyordu?",
+      "answer": "Kutup Yıldızı"
+    },
+    {
+      "question": "Salih Zeki kimin eserlerini çevirmiştir?",
+      "answer": "Henri Poincaré ve Alexis Bertrand'ın"
+    },
+    {
+      "question": "Ülkü Azrak hangi fakültenin kuruluşunda yer almıştır ?",
+      "answer": "İstanbul Üniversitesi Siyasal Bilgiler Fakültesi"
+    },
+    {
+      "question": "Reşideddin Fazlullah hangi amaçla bir yazıhane düzenler?",
+      "answer": " resimli kitapları üretmek için büyük bir yazıhane düzenler."
+    },
+    {
+      "question": "Başbakanlık tarafından yayınlanan genelgede F klavyenin kamu kurum ve kuruluşlarında kullanımının arttırılması talimatının verilmesinin gerekçesi nedir?",
+      "answer": "Türkçeye en uygun klavye olmasından ötürü"
+    },
+    {
+      "question": " Eski Türk Edebiyatı asistanı ne zaman oldu?",
+      "answer": "1964 yılında"
+    },
+    {
+      "question": "Gözlemevi ana binasına hangi malzemelerle takviye ve iyileştirme yapılmıştır?",
+      "answer": "karbon fiberlerle ve çeliklerle"
+    },
+    {
+      "question": "Turkcell T50 ile birlikte hangi saati tanıtmıştır?",
+      "answer": "Turkcell T-Fit"
+    },
+    {
+      "question": "İslam'ın Altın Çağı şeklinde adlandırılan dönemde hangi medeniyyetlere ait eserler Arapça'ya aktarılmıştır?",
+      "answer": "Hint, Fars, Sabii ve özellikle Yunan uygarlıklarına"
+    },
+    {
+      "question": "Berham Kurşunoğlu hangi iki saygın tarihçi ile beraber simetrik olmayan yerçekimi kuramları üzerine çalışmıştır ?",
+      "answer": "Albert Einstein ve Erwin Schrödinger"
+    },
+    {
+      "question": "Devrim, 1961 yılında nerede üretildi?",
+      "answer": "Eskişehir Demiryolu Fabrikasında"
+    },
+    {
+      "question": "Türkiye toplamda kaç panter teslim alacaktır?",
+      "answer": "400"
+    },
+    {
+      "question": "Yıldız Teknik Üniversitesinde kaç fakülte vardır?",
+      "answer": "10"
+    },
+    {
+      "question": "Güneş enerjili araçlar nasıl hareket ettirilir?",
+      "answer": " motor milinden tekerleğe kadar olan bir zincir veya kayış ile hareket ettirilirler"
+    },
+    {
+      "question": "Güneş arabalarında neden DC motorları kullanılmaktadır?",
+      "answer": "verimi daha yüksek olduğu için ve aküden çıkacak doğru gerilimle çalışabildiği için"
+    },
+    {
+      "question": "Salih Zeki, Asar-i Bakiye eserinde hangi çalışmaları sergilemiştir?",
+      "answer": "matematik ve astronomi çalışmalarını"
+    },
+    {
+      "question": "Taktik İnsansız Hava Aracı Sistemi Geliştirme programı testleri sırasında hangi özellikler test edilmiştir?",
+      "answer": "tam otomatik taksi, kalkış, uçuş, iniş, frenleme ve tekrar hangara dönüş gibi özellikler"
+    },
+    {
+      "question": "Bîrûnî'nin hükümdar Ebû'l-Abbas'a ithaf ettiği eserinin adı nedir?",
+      "answer": "\"Şahın Çemberi\""
+    },
+    {
+      "question": "Râzî nerelidir?",
+      "answer": "Rey"
+    },
+    {
+      "question": "Nerede vefat etmiştir",
+      "answer": "İstanbul’da"
+    },
+    {
+      "question": "TAI Sivrisinek'te kullanılan Cirit füzesini hangi şirket üretmiştir?",
+      "answer": "Roketsan"
+    },
+    {
+      "question": "İbn Battuta'nın Çin'e elçi olmayı kabul etmesinin iki sebebi nedir?",
+      "answer": "yeni ülkeler görmek hem de Sultan'ın egemenlik bölgesinden uzaklaşmak"
+    },
+    {
+      "question": "Akdeniz Üniversitesi hangi illerdeki yüksek öğretim kurumlarını kapsamaktadır?",
+      "answer": "Antalya, Burdur ve Isparta"
+    },
+    {
+      "question": "MAN 630'un depo hacmi ne kadardır?",
+      "answer": "110 litre"
+    },
+    {
+      "question": "Emre Kongar hangi bilimle uğraşır?",
+      "answer": "toplum"
+    },
+    {
+      "question": "Muhibbe Darga kaç yılında profesör olmuştur?",
+      "answer": "1973"
+    },
+    {
+      "question": "Cabir bin Eflah'ıın kendini üne kavuşturan eserinin adı nedir?",
+      "answer": "Kitabül-Hey'e fi ıstıhi'l Mecisti"
+    },
+    {
+      "question": "Besim Tanyel üniversite eğitimini kaç yılında tamamlamıştır?",
+      "answer": "1937 yılında"
+    },
+    {
+      "question": "Aydın Sayılı Ordinaryüs Profesör unvanını ne zaman almıştır?",
+      "answer": "1958"
+    },
+    {
+      "question": "Plorian Cajori'nin Ebu'l Vefa el-Buzcani hakkında yorum yaptığı eserin ismi nedir?",
+      "answer": "History of Mathematics"
+    },
+    {
+      "question": "Araştırma ve röportajları hangi gazetelerde yayınlanmıştır ?",
+      "answer": "Cumhuriyet ve Milliyet"
+    },
+    {
+      "question": "Erdem dergisi hangi kurum tarafından çıkarılmıştır?",
+      "answer": "Atatürk Kültür Merkezi"
+    },
+    {
+      "question": "Behçet 1922'den itibaren hangi hastalık hakkında çalışmalar yaptı?",
+      "answer": "frengi"
+    },
+    {
+      "question": "Molla Abdülvacid’in kabri nerededir?",
+      "answer": "Kütahya'da Umur Bey Medresesi"
+    },
+    {
+      "question": "F Klavye'nin Bakanlıklararası Standardizasyon Komitesi tarafından onaylandığı tarih nedir?",
+      "answer": "20 Ekim 1955"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman  Paris Üniversitesi'nde konuk profesör olarak dersler verdi?",
+      "answer": "1983 yılında"
+    },
+    {
+      "question": "Asuman Özdağlar hangi üniversiteden mezun olmuştur?",
+      "answer": "Orta Doğu Teknik Üniversitesi "
+    },
+    {
+      "question": "Cebir alanındaki çalışmaları, 16. yüzyıla kadar hangi üniversitelerde temel matematik ders kitabı olarak kullanılmıştır?",
+      "answer": "Avrupa üniversitelerinde"
+    },
+    {
+      "question": "Halil İnalcık'ın ölüm tarihi nedir?",
+      "answer": "25 Temmuz 2016"
+    },
+    {
+      "question": "Matbaada basılan ilk kitap nedir?",
+      "answer": " Vankulu Lügatı"
+    },
+    {
+      "question": "Ebu'l Vefa el-Buzcani'nin astronomik gözlemler için ürettiği çizelgelerin aralıkları nelerdir?",
+      "answer": "on beşer dakikalık açı aralıkları"
+    },
+    {
+      "question": "Hangi eserde Kemal Reis'in adının Ahmed Kemal olduğu belirtilir?",
+      "answer": "Kitab-ı Bahriye"
+    },
+    {
+      "question": "İslam bilim aletlerinin modellerini yapan fizikçi kimdir?",
+      "answer": "Eilhard Wiedemann"
+    },
+    {
+      "question": "Hasköy Cinsel Hastalıkları Hastane'si nerededir? ",
+      "answer": "Haliç"
+    },
+    {
+      "question": "Çekmece Nükleer Araştırma ve Eğitim Merkezi'nin kaç ana hizmet birimi vardır?",
+      "answer": "5"
+    },
+    {
+      "question": "el-Muradî'nin tasarladığı bu otomatta Arap tekniğinin hangi tipik unsurları bulunmaz?",
+      "answer": "konik supaplar, geciktirici sistemler, reaksiyon kontrolleri"
+    },
+    {
+      "question": "Mehmet Nimet Özdaş İstanbul Teknik Üniversitesi Bilgisayar Merkezinde hangi vasıf ile görev almıştır?",
+      "answer": "kurucu başkanı"
+    },
+    {
+      "question": "Türksat 4A uydusu ne kadar süre boyunca 50.0° Doğu boylamında test aşmasından geçmiştir ?",
+      "answer": "4 Ay"
+    },
+    {
+      "question": " sin x = a cos x eşitliğini bulan türk-islam bilim adamı kimdir?",
+      "answer": "Battani"
+    },
+    {
+      "question": "Devasa yay nasıl bir yapıya sahiptir?",
+      "answer": "birbirine  yapıştırılmış  çok  sayıdaki  ahşap  ve  boy-  nuz  plaka  katlarından"
+    },
+    {
+      "question": "el-Fihrist adlı eser hangi alanlarda Arapça te'lif edilen eserler hakkında bilgi vermiştir?",
+      "answer": "dinî, fikrî ve ilmî"
+    },
+    {
+      "question": "TCG Bayraktar nedir?",
+      "answer": "yerli ve milli amfibi tank çıkarma gemisi"
+    },
+    {
+      "question": "Evliya Çelebi,  Hicaz, Mekke ve Medine'ye seyahatini hangi tarihte yapmıştır?",
+      "answer": "1671"
+    },
+    {
+      "question": "Seylan'daki kutsal olan ve İbn-i Batuta'nın ziyarete gittiği şey nedir?",
+      "answer": "kutsal Sri Pada tapınağı"
+    },
+    {
+      "question": "Aşık çelebi şiirlerini nasıl bir tavırla kaleme almıştır ?",
+      "answer": "Rindane bir tavırla "
+    },
+    {
+      "question": "Sobee şirketinin 2004 yılında ki oyunlarının türleri nelerdir ?",
+      "answer": "bilardo"
+    },
+    {
+      "question": "Harp Okulu ilk mezunlarını ne zaman vermiştir",
+      "answer": "1 Kasım 1920"
+    },
+    {
+      "question": "Fatih Gökmen temellerini attığı Kandilli Gözlemevi'nin hangi gözlemevi gibi olmasını istemiştir?",
+      "answer": "Uccle Kraliyet Gözlemevi"
+    },
+    {
+      "question": "Seydi Ali Reis İstanbul’a ne zaman dönüş yapmıştır?",
+      "answer": "1557 mayıs ayı başlarında"
+    },
+    {
+      "question": "Enstitüde kaç çeşit laboratuvar bulunmaktadır?",
+      "answer": "6"
+    },
+    {
+      "question": "Ülkü Azrak doçentliğini nerede yapmıştır?",
+      "answer": "İstanbul Üniversitesi Hukuk Fakültesi İdare Hukuku kürsüsünde"
+    },
+    {
+      "question": "İbn-i Yunus Avrupa'da hangi isimle tanınır ?",
+      "answer": "Aben Jenis"
+    },
+    {
+      "question": "Asuman Baytop'un farmakobotanik ve farmakognozi laboratuvarında asistanlığını yaptığı kişi kimdir?",
+      "answer": "Ord. Prof. Dr. Alfred Heilbronn"
+    },
+    {
+      "question": "Altay tankı projesinin proje ana yüklenicisi kimdir?",
+      "answer": "Otokar Otomotiv ve Savunma Sanayi A.Ş. "
+    },
+    {
+      "question": "el -Melik el-Eşref’in alet yapımcısı olarak yüksek yeteneğe sahip olduğunu gösteren alet nedir?",
+      "answer": "usturlab"
+    },
+    {
+      "question": "Tarık Zafer Tunaya'nın doktora tezi konusu nedir",
+      "answer": "Müessese Teorisinde Fikir Unsuru ve bazı Hususiyetleri"
+    },
+    {
+      "question": "Makina ve Kimya Endüstrisi Kurumu'nun sermayesinin tamamı neden devlet tarafından karşılanmasının başlıca sebebi nedir?",
+      "answer": "değişen Dünya ve Türkiye koşulları"
+    },
+    {
+      "question": "İstanbul Üniversitesi Gözlemevi Araştırma ve Uygulama Merkezi hangi fakülte bünyesinde kurulmuştur?",
+      "answer": "Fen Fakültesi"
+    },
+    {
+      "question": "Kutbeddin Şirazî'nin tam adı nedir?",
+      "answer": "Kutbeddin Mahmud İbn Mes'ud İbn Muslih eş-Şirazî"
+    },
+    {
+      "question": "Râzî özellikle hangi iki fizik konusu üzerine çalışmıştır?",
+      "answer": "cisimlerin hareketi ve ses "
+    },
+    {
+      "question": "Âşıkpaşazâde Konya'da kime müridlik etmiştir?",
+      "answer": "Şeyh Abdüllatif el-Kudsi'ye"
+    },
+    {
+      "question": " Kemal Reis İstanbul’a kimin davetiyle gelmiştir?",
+      "answer": "II. Bayezid’in"
+    },
+    {
+      "question": "Prof. Dr. Fuat Sezgin İslam Bilim Tarihi Enstitüsü kaç yılında faaliyetlerini başlamıştır?",
+      "answer": "2013"
+    },
+    {
+      "question": "Turkcell üç taşıyıcılı mobil internet teknolojisi sayesinde 3G ile ne kadar indirme hızına ulaşmıştır?",
+      "answer": "63,3 Mbps"
+    },
+    {
+      "question": "Ebu'l Kasım El-Zehravi'nin tıbba yaptığı en büyük katkı nedir?",
+      "answer": "Kitab al-Tasrif"
+    },
+    {
+      "question": "Yusuf Yağcı'nın üye olduğu kuruluşlar hangileridir?",
+      "answer": "Yağcı, TÜBA asli üyesi ve Türk Kimya Derneği şeref üyesidir"
+    },
+    {
+      "question": "Turkcell Almanya'da hangi markayla hizmet vermektedir?",
+      "answer": "Turkcell Europe"
+    },
+    {
+      "question": "Şükrullâh'ın yazdığı Behcetü't Tevârîh isimli eser hangi yıllarda Türkçe'ye çevrilerek neşredilmiştir?",
+      "answer": "1939-49'da iki defa Türkçe’ye çevrilerek neşredilmiştir"
+    },
+    {
+      "question": "Fatih sürümünün özellikleri nelerdir?",
+      "answer": " FATİH Projesindeki akıllı tahtalarda kullanmak üzere hazırlanmıştır."
+    },
+    {
+      "question": "Sait Akpınar'ın babası nerenin imamlığını yapmıştır?",
+      "answer": "Feshane-i Amire’nin"
+    },
+    {
+      "question": "el-Fihrist adlı eserin sayesinde bugün bildiğimiz bilgiler nelerdir?",
+      "answer": "Zamanla kaybolmuş pek çok eserin adı, konusu ve müellifi hakkındaki bilgiler"
+    },
+    {
+      "question": "Günümüze ulaşan filli su saatleri var mıdır?",
+      "answer": "Günümüzde birçok fil saati bilinmektedir. Bunlardan birisi erken 17. yüzyıldandır ve Bayerisches Nationalmuseum'da, Münih, bulunmaktadır. Bir ikincisi, yaklaşık 1580'lerden, özel mülkiyette bulunmaktadır, yine Münih. 1600 civarında Augsburg'da imal edilmiş ve 1980 yılında özel mülkiyette bulunan üçüncü bir saat için bkz. Die Welt als Uhr, s. 266, no. 92."
+    },
+    {
+      "question": "Kemaleddin ibn Yunus'un ders verdiği cami hangi isimle anılır?",
+      "answer": "Kemaliyye Medresesi"
+    },
+    {
+      "question": "Erol Tümertekin ne konuda önemli katkılarda olmuştur?",
+      "answer": "yaptığı çok yönlü ve \"uygulamalı coğrafya\" konulu çalışmalarıyla \"geleneksel\" türdeki çalışmaların dışında, \"çağdaş\" yöntembilimle ele alınan yeni konuların ülkemiz coğrafyasında yerleşmesinde"
+    },
+    {
+      "question": "Oktay Sinanoğlu'na kaç yılında cumhuriyet profesörü ünvanı verildi?",
+      "answer": "1975"
+    },
+    {
+      "question": "Neden köyün Sovyetine katip oldu",
+      "answer": "II. Dünya Savaşı sırasında köyünde erkek nüfusun azalmasından dolayı"
+    },
+    {
+      "question": "Deneysel yöntemin gülenmesini sağlayan mıknatıs üzerine deneysel incelemeler kim tarafından yapılmıştır?",
+      "answer": "Gilbert"
+    },
+    {
+      "question": "Nazan Aksoy kaç yılında doğmuştur?",
+      "answer": "1950"
+    },
+    {
+      "question": "SAGUAR X5’te lastik nasıl seçiliyor?",
+      "answer": "Lastiklerin hava basıncı uygun şekilde seçilerek yerle temas eden yüzeyi sürtünmeyi en aza indirecek şekilde seçilmelidir"
+    },
+    {
+      "question": "İsenbike Togan Türkiye’de hangi kurumlara üyedir?",
+      "answer": "Türk Tarih Kurumu, 'Türk-Rus Tarihçileri Karma Komisyonu' "
+    },
+    {
+      "question": "İTÜRO yangın söndüren kategorisinde labirentteki yolların genişliği kaç cmdir?",
+      "answer": "40cm"
+    },
+    {
+      "question": "Caferiye haritalarının özelliği nedir?",
+      "answer": "Caferiye haritaları, çok eskiye dayanan, Abbasî halifelerinden Me'mun zamanında kopyalanmış olan, Büyük İskender zamanına ait haritalardır."
+    },
+    {
+      "question": "Riyaziyeci Mehmet Nadir Bey 1882’de hangi okulu kurmuştur?",
+      "answer": "Şems-ül-maarif Mektebini"
+    },
+    {
+      "question": "deniz harp okulunun ilk adı nedir",
+      "answer": "Mühendishane-i Bahr-i Hümayun"
+    },
+    {
+      "question": "Erol Tümertekin nereyi araştırmalarında kendine arazi olarak seçmiştir?",
+      "answer": "İstanbul’u"
+    },
+    {
+      "question": "Piri Reisin haritasında ki Avrupa'da hangi yarımadalar iyi çizilmiştir?",
+      "answer": "Fransa ve İber Yarımadası iyi çizilmiştir"
+    },
+    {
+      "question": "Hakkı Ögelman'ın babasının adı nedir?",
+      "answer": "Salehettin Ögelman"
+    },
+    {
+      "question": "Yetkililer Hürjet projesinin Türkiye'de hangi sanayi dalında oldukça önemli olduğunu görmektedir?",
+      "answer": "havacılık sanayisi"
+    },
+    {
+      "question": "Asım Akın'ın nükleer tıp konusunda yazdığı ders kitabının ismi nedir",
+      "answer": "Temel Nükleer Tıp"
+    },
+    {
+      "question": "Türkiye hangi yılda 255 tane Panter teslim almıştır?",
+      "answer": "2012"
+    },
+    {
+      "question": "Dante Alighieri kosmografisi de kimin el kitabından yararlanmıştır?",
+      "answer": "el-Fergani’nin "
+    },
+    {
+      "question": "Alarmlı su saati ile simetrik bir zaman belirlemek niçin mümkün değildir?",
+      "answer": "Su, zaman süresince azalan basınç dengeleyicisi nedeniyle farklı hızda aktığı için"
+    },
+    {
+      "question": "Turkcell ne zaman hizmete başlamıştır?",
+      "answer": "Şubat 1994'te"
+    },
+    {
+      "question": "Asuman Özdağlar yüksek lisans ve doktorasını nerede tamamlamıştır?",
+      "answer": "Massachusetts Teknoloji Enstitüsü"
+    },
+    {
+      "question": "Süleyman Aydan Belen'in 1976 yılında mezun olduğu okulun adı nedir?",
+      "answer": "Ankara Yükseliş Koleji"
+    },
+    {
+      "question": "Koç Üniversitesi bünyesinde çalışmalarını sürdüren öğretim üyelerinin aldıkları ödüller nelerdir?",
+      "answer": "37 öğretim üyesi TÜBA GEBİP Ödülü"
+    },
+    {
+      "question": "El-Marrakuşi tarafından tarif edilen silindir güneş saatinde değerler nasıl elde edilir?",
+      "answer": "Gölge geçişinin okunması yoluyla"
+    },
+    {
+      "question": "Yıldız Teknik Üniversitesinde 1942 1943 yıllarında hangi bölümler açılmıştır?",
+      "answer": "elektrik ve mimarlık bölümleri"
+    },
+    {
+      "question": "İbn Rüşd'ün kaç adet eseri vardır?",
+      "answer": "150'den fazla"
+    },
+    {
+      "question": "İsenbike Togan doktorasını hangi bölümde tamamlamıştır?",
+      "answer": "Doğu Asya Dilleri ve Uygarlıkları"
+    },
+    {
+      "question": "Aydın Sayılı Bilim Tarihi Akademisi'ne kaç yıl as-başkanlık yaptı?",
+      "answer": "3 yıl"
+    },
+    {
+      "question": "Heinrich Schipperges  ele alınan  konuyu geniş bir zeminde işleyen  çalışmalarından birini söyleyiniz ?",
+      "answer": "Ideologie und Historiographie des Arabismus"
+    },
+    {
+      "question": "ASELSAN hangi yılda kurulmuştur?",
+      "answer": "1975"
+    },
+    {
+      "question": "hakkedilmiş bir galerinin diğer ismi nedir?",
+      "answer": "şurfa"
+    },
+    {
+      "question": "Münci Kalayoğlu ne zaman doğmuştur?",
+      "answer": "1940"
+    },
+    {
+      "question": "Kemaleddin ibn Yunus'ın doğum yılı nedir?",
+      "answer": "1156"
+    },
+    {
+      "question": "Ali Kuşçu'nun ders aldığı ve yanında çalıştığı ünlü Türk bilgini ve devlet adamı Uluğ Bey nerede öldürülmüştür?",
+      "answer": "Semerkant"
+    },
+    {
+      "question": "SAGUAR X5’in teker aralığı kaç cm?",
+      "answer": "220cm"
+    },
+    {
+      "question": "Ali bin Abbas'ın günümüzden yaklaşık 1000 yıl önce yaptığı ameliyat hangi hastalıkla alakalıydı?",
+      "answer": "kanser "
+    },
+    {
+      "question": "Modern trigonometrinin temelini kim atmıştır?",
+      "answer": "Battani"
+    },
+    {
+      "question": "İbrahim Müteferrika İstanbula ne olarak gelmiştir?",
+      "answer": " Türkler tarafından esir olarak"
+    },
+    {
+      "question": "Kara Harp Okulu nerede bulunmaktadır?",
+      "answer": "Ankara'da"
+    },
+    {
+      "question": "Şakir Kocabaş'ın 1985'te yayınladığı kitabın adı nedir? ",
+      "answer": "İfadelerin Gramatik Ayrımı"
+    },
+    {
+      "question": "Aydın Sayılı doktorasını kaç yılında tamamlamıştır?",
+      "answer": "1942 yılında"
+    },
+    {
+      "question": "Turkcell 2G/EDGE teknolojisinde Türkiye nüfusunun ne kadarını kapsamı altına almıştır?",
+      "answer": "%99,81'ini"
+    },
+    {
+      "question": "Piri Reis 1547'de ne olarak tayin edilmiştir?",
+      "answer": "Hint Kaptanı"
+    },
+    {
+      "question": "el-Hasan b. Muhammed el-Vezzan’ın Afrika kitabı kaç bölümden oluşmaktadır ?",
+      "answer": "9"
+    },
+    {
+      "question": "Mustafa Behçet Efendi hangi alanlarda Türkçe çeviri yapmıştır ?",
+      "answer": " tıp ve tabiyat "
+    },
+    {
+      "question": "Emin Kansu'nun 1987'de aldığı ödülün adı nedir?",
+      "answer": "Eczacıbaşı Bilim Ödülü"
+    },
+    {
+      "question": "Sait Akpınar'ın gittiği ortaokulun adı nedir?",
+      "answer": "Eyüp Ortaokulu’"
+    },
+    {
+      "question": "Abdülkadir Onsekiz yaşlarında Gilan'dan nereye gitmiştir?",
+      "answer": "Bağdad’a"
+    },
+    {
+      "question": "İbn eş-Şatir'e ait (Şam Ümeyye Camisi) güneş saati insanlar tarafından tekrar ne zaman, nasıl bir halde bulunmuştur? ",
+      "answer": "Orijinal 1958 yılına kadar kaybolmuş kabul edilmekteydi. Tamir çalışmaları esnasında üç parçaya ayrılmış halde yeniden bulunmuştur."
+    },
+    {
+      "question": "Sait Akpınar TÜBİTAK Hizmet Ödülü’nü hangi tarihte almıştır?",
+      "answer": "27 Aralık 1983 yılında"
+    },
+    {
+      "question": "Ahmet Cevdet Paşa zamanında ilk defa Osmanlı kanunlarının yayımlandığı kitap nedir ?",
+      "answer": "Düstur"
+    },
+    {
+      "question": "İTÜpSAT1 hangi tarihte uzaya fırlatılmıştır?",
+      "answer": "23 Eylül 2009 tarihinde"
+    },
+    {
+      "question": "Hüseyin Namık  Orkun, Eski Türk Yazıtları adlı eserini hangi tarihler arasında yayınlamıştır?",
+      "answer": "1936-1941"
+    },
+    {
+      "question": "Yücel Oğurlu hangi yıl Uluslararası Saraybosna Üniversitesine Rektör olarak atandı?",
+      "answer": "2013"
+    },
+    {
+      "question": "İstanbul Üniversitesi Siyasal Bilgiler Fakültesi hangi yılda kurulmuştur?",
+      "answer": "1979"
+    },
+    {
+      "question": "Devrim, 1961 yılında kaç günde üretildi?",
+      "answer": "129"
+    },
+    {
+      "question": "Ali bin İsa hangi alanlarda çalışmalar yapmıştır?",
+      "answer": " astronomi, coğrafya ve özellikle optik"
+    },
+    {
+      "question": "fas su saatinde küçük küreler ne kadar sürede bir düşer?",
+      "answer": " Her  dört  dakikada"
+    },
+    {
+      "question": "Razi'nin Mani dininden esinlendiğini kim iddia etmektedir?",
+      "answer": "Biruni"
+    },
+    {
+      "question": "Alman şarkiyatçının adı nedir?",
+      "answer": "Helmut Ritter"
+    },
+    {
+      "question": "Hint, Yunan, Çin, İran uygarlıklarına ait tercümelerin geniş bir alana yayılmasına yardımcı olan kurumlar hangileridir?",
+      "answer": "Urfa, Nusaybin, Harran ve Cündişapur Medreseleri"
+    },
+    {
+      "question": "Fatımi halifesi El Aziz tarafından yaptırılan Dar'ül Hikmet hangi kütüphaneye rakip olarak kurulmuştur?",
+      "answer": "Bağdat'taki Beyt-ül Hikme"
+    },
+    {
+      "question": "Türkiye'ye ilk bilgisayar hangi yılda gelmiştir?",
+      "answer": "1960 yılında"
+    },
+    {
+      "question": "Kemalpaşazâde hangi iki dili çok iyi bilirdi?",
+      "answer": "Arapça ve Farsça"
+    },
+    {
+      "question": "2000 yılından sonra kaç tane üniversite kurulmuştur?",
+      "answer": "51"
+    },
+    {
+      "question": "İbn Ebî Useybia hangi ailede doğmuştur?",
+      "answer": "Hazrec"
+    },
+    {
+      "question": "Fahreddin er-Râzî'nin Tefsir-i Kebir olarak bilinen kitabın adı nedir?",
+      "answer": "Mefatih'ul Gayb"
+    },
+    {
+      "question": "Fenike alfabesini hangi uygarlık bulmuştur?",
+      "answer": "Firigya uygarlığı"
+    },
+    {
+      "question": "Adana Bilim ve Teknoloji Üniversitesi kaç yılında kurulmuştur ?",
+      "answer": "31 Mart 2011"
+    },
+    {
+      "question": "İTÜRO kendini dengeleyen robot kategorisinde birinci turda hangi testlerde başarılı olan robotlar ekstra puan alır?",
+      "answer": "açılı başlangıç ve dış etki testlerinde"
+    },
+    {
+      "question": "Asuman Baytop Crocus asumaniae'yi hangi yıl toplamıştır?",
+      "answer": "1979"
+    },
+    {
+      "question": "Turkcell 3G teknolojisinde Türkiye nüfusunun ne kadarını kapsamı altına almıştır? ",
+      "answer": "%91,21'ini"
+    },
+    {
+      "question": "Yıldızlar arasındaki mesafeyi ölçmeye yarayan alete Tycho Brahe ne ad vermiştir?",
+      "answer": "Parallaticum aliud, sive regulae tam altitudines quam azimutha expedientes"
+    },
+    {
+      "question": "ibn tağrıberdi döneminde hangi tarihçilerden ders almıştır",
+      "answer": "Makrîzî ve El-Aynî"
+    },
+    {
+      "question": "Pardus projesinde görev alınacak kişiler nasıl seçildi?",
+      "answer": " en uygun kişiler Türkiye'nin dört bir yanından seçilerek TÜBİTAK/UEKAE bünyesinde bir araya geldiler"
+    },
+    {
+      "question": "Şakir Kocabaş Hindistandaki hangi dergide makalelerini yayınlamıştır? ",
+      "answer": "MAAS Journal of Islamic Science"
+    },
+    {
+      "question": "en-Nücûmü'z-Zâhire fî Mülûki Mısr ve'l-Kâhire adlı eser ne anlatmaktadır?",
+      "answer": "Mısır tarihini, 641 yılındaki fetihten itibaren sekizbuçuk asırlık dönemini"
+    },
+    {
+      "question": "Akdeniz Üniversitesi ne zaman kurulmuştur?",
+      "answer": "20 Temmuz 1982'de"
+    },
+    {
+      "question": "İsenbike Togan hangi yılda doçentliğini almıştır?",
+      "answer": "1992'de "
+    },
+    {
+      "question": "Prof. Dr. Yunus Söylet mezuniyetinin ardından nerede ve ne süreçte uzmanlık öğrencisi olarak görev yapmıştır?",
+      "answer": "1982'ye dek genel cerrahi kliniğinde"
+    },
+    {
+      "question": "1511 senesinde Kemal Reis'in denize açılma amacı neydi? ",
+      "answer": "Rodos şövalyelerinin yaptığı saldırıların intikamını almak"
+    },
+    {
+      "question": "İbn-i Batuta'nın ikinci hacca çıktığı şehir hangisidir?",
+      "answer": "Tebriz"
+    },
+    {
+      "question": "Riyaziyeci Mehmet Nadir Bey 1903’te İstanbul’dan hangi şehre geçmiştir?",
+      "answer": "Halep"
+    },
+    {
+      "question": "YÖK üyeliğine yapılan seçimi kim tarafından onaylanmıştır?",
+      "answer": "Cumhurbaşkanı Recep Tayyip Erdoğan"
+    },
+    {
+      "question": "Ahmed Ağaoğlu Şarkiyatçılar kongresine hangi tebliği ile katıldı?",
+      "answer": "Şii mezhebinin doğuşu ve gelişmesi"
+    },
+    {
+      "question": "Çanakkale Onsekiz Mart Üniversitesi Astrofizik Araştırma Merkezi niçin kurulmuştur ?",
+      "answer": "Astrofizik alanında etkinlikler planlamak ve yürütmek amacıyla"
+    },
+    {
+      "question": "Okan Ersoy Boğaziçi Üniversitesi'nde hangi bölümden mezun olmuştur?",
+      "answer": "Elektrik Mühendisliği"
+    },
+    {
+      "question": "İbn-i Batuta'nın karşılaştığı salgın hangisidir?",
+      "answer": "veba"
+    },
+    {
+      "question": "ÇAAM nerede bulunmaktadır ?",
+      "answer": "Çanakkale merkezine 10km uzaklıkta \"Radar Tepesi\" nin güney yamacında Ulupınar Köyü'ne yakın bir bölgede, 410 m yükseklikte"
+    },
+    {
+      "question": "el-Fihrist'te geçen eski Mezopotamya ve Pers din ve kültürlerinin uzantısı olan din, mezhep ve kültürler örnekleri nelerdir?",
+      "answer": "Kaideliler, Sâbiîler, Maniheistler, Mezdekîler"
+    },
+    {
+      "question": ": Kayser II. Friedriche neden Arap kültürüne yönelmiştir?",
+      "answer": "kişisel eğilimi ve özel temaslar nedeniyle"
+    },
+    {
+      "question": "Halil İnalcık'ın dünya üniversitelerinde ders kitabı olarak kullanılan eserleri nelerdir?",
+      "answer": "\"The Ottoman Empire The Classical Age 1300-1600\" ve \"An Economic and Social History of the Otoman Empire\""
+    },
+    {
+      "question": "SAGUAR X5 ilk yarışında kaç kupa kazandı?",
+      "answer": " iki kupa "
+    },
+    {
+      "question": "Metin Gürses doktora derecesini nereden almıştır?",
+      "answer": "Ortadoğu Teknik Üniversitesi Fizik Bölümü"
+    },
+    {
+      "question": "İbn-i Batuta'nın kararlarının hangi vasıfından dolayı adadakiler onun kararını beğenmeyip ada dışı etmişlerdir?",
+      "answer": "sert"
+    },
+    {
+      "question": "Vamık Volkan’ın Ferhat Atik’in kalemiyle yazılan biyografisinin adı nedir?",
+      "answer": "Kendi divanında bir psikanalist"
+    },
+    {
+      "question": "Aşık çelebinin annesi kimdir ?",
+      "answer": "II. Bayezid devrinin ünlü alim ve kazaskeri Müeyyedzade’nin kızıdır."
+    },
+    {
+      "question": "Ibni-Heysem Ibsar adlı kitabında neleri incelemiştir ? ",
+      "answer": "Gözün yapısı ve görme olayının incelenmesi"
+    },
+    {
+      "question": "Halil İnalcık Ankara Üniversitesi'nde kaç yıl görev almıştır?",
+      "answer": "32 yıl"
+    },
+    {
+      "question": "Pardus’un 2013 sürümünden sonra bireysel kullanıma yönelik olan  Pardus Topluluk Sürümü ne tarafından paylaşılmıştır?",
+      "answer": "TÜBİTAK'tan bağımsız bir topluluk"
+    },
+    {
+      "question": "Ali Murat Daryal, kaç yılında vefat etmiştir?",
+      "answer": "2017"
+    },
+    {
+      "question": "Bilkent Holding AŞ veya Tepe Grubu Şirketleri hangi alanlarda faaliyet gösterir?",
+      "answer": " inşaat, bilişim, mobilya, finans, turizm, kâğıt ve kâğıt ürünleri, enerji üretimi, havaalanı işletmeciliği, alışveriş merkezi işletmeciliği"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman \"Marx’ta İktisadi Büyüme\" adlı tezi ile doçent olmaya hak kazandı?",
+      "answer": "1959 yılında"
+    },
+    {
+      "question": "fas su saatinde her saat başı akustik uyarılara ek olarak, saat ne yapmaktadır?",
+      "answer": "geçen  zamana  dair  genel  bir  bakış  veren  ve  uzaktan  da  görülebilen  ahşap  kapılardan  birisi  kapanır"
+    },
+    {
+      "question": "Bahmenyar'ın 1066 yılında vefat ettiğini kim belirlemiştir?",
+      "answer": "Zakir Memmedov"
+    },
+    {
+      "question": "Turkcell 3G teknolojisinde Türkiye nüfusunun ne kadarını kapsamı altına almıştır? ",
+      "answer": "%91,21'ini"
+    },
+    {
+      "question": "Ebu Yusuf Yakub bin İshak el-Sebbah el-Kindi'nin kökeni neresdir?",
+      "answer": "Arap bilim insanı."
+    },
+    {
+      "question": "Hangiokul yetiştirdiği subayları Deniz Kuvvetleri Komutanlığına verir?",
+      "answer": " Deniz Harp Okulu"
+    },
+    {
+      "question": "Proje kapsamında milli olan tasarımlar nelerdir?",
+      "answer": "platform, elektronik donanım ve yazılım"
+    },
+    {
+      "question": "Abdurrahman es-Sufî'nin yaptığı rivayet edilen 10 kg ağırlığındaki gümüş gök küresi nerede bulunmaktadır?",
+      "answer": "Kahire"
+    },
+    {
+      "question": "Ömer Hayyam'ın aynı mederese eğitim gördüğü isimler kimlerdir?",
+      "answer": "Nizamül-Mülk ve Hasan Sabbah"
+    },
+    {
+      "question": "Cavid Erginsoy yüksek öğrenimini hangi fakülteden bitirmiştir?",
+      "answer": "Elektrik Mühendisliği"
+    },
+    {
+      "question": "Gıyasettin Cemşid iç içe poligonlar yöntemi ile pi sayısının virgülden sonra kaçıncı basamağına kadar gitmiştir",
+      "answer": "14. basamağa kadar"
+    },
+    {
+      "question": "Fars kökenli Hucendî'nin tam ismi nedir?",
+      "answer": "Ebu Mahmud Hamid bin el-Hıdr el-Hucendî"
+    },
+    {
+      "question": "İbrahim Hakkı'nın annesinin adı nedir?",
+      "answer": "Hanife Hanım"
+    },
+    {
+      "question": "Mısırlılar hangi takvimi kullanmışlardır?",
+      "answer": "Güneş takvimi"
+    },
+    {
+      "question": "İ.T.Ü'den sonra bilgisayara sahip olan ilk devlet üniversitesi neresidir?",
+      "answer": "Orta Doğu Teknik Üniversitesi "
+    },
+    {
+      "question": "Razi daha çok hangi alanlardaki başarısıyla bilinir?",
+      "answer": "tıp-eczacılık alanındaki başarısıyla"
+    },
+    {
+      "question": "Molla güraninin babası kimdir?",
+      "answer": "II. Murad"
+    },
+    {
+      "question": "İTÜRO Senaryo kategorisine ait görev nereden açıklanır?",
+      "answer": "İTÜRO resmi websitesi üzerinden"
+    },
+    {
+      "question": "Dilhan Eryurt’un hangi derse lisede iken özel bir ilgisi vardı?",
+      "answer": " Lise yıllarında matematiğe özel bir ilgisi vardı"
+    },
+    {
+      "question": "Hakkı Ögelman ne zaman ölmüştür?",
+      "answer": "4 Eylül 2011"
+    },
+    {
+      "question": "Evliya Çelebi hangi tarihte vefat etmiştir?",
+      "answer": "1682"
+    },
+    {
+      "question": "MAN 630 hangi ülkede üretilmiştir ?",
+      "answer": "Batı Almanya"
+    },
+    {
+      "question": "Hoca Sadeddin Efendi hangi sıfatla devlet işlerinde etkili olmuştur?",
+      "answer": "Hace-i Sultani "
+    },
+    {
+      "question": "Kepler,çalışmalarında hangi sistemi ele aldı?",
+      "answer": "Copernicus sistemini"
+    },
+    {
+      "question": "Mustafa Behçet Efendi , tıp biliminin medresede değil, okullarda modern yöntemlerle öğretilmesi gerektiği görüşünde olduğu için bu konuda çeşitli girişimler sonucu hangi okulun kurulmasında katkısı olmuştur?",
+      "answer": "Tıphane-i Amire ve Cerrahhane-i Amire"
+    },
+    {
+      "question": "Kara Harp Okulu brövesi’nin zemin rengi neden kırmızı?",
+      "answer": "emin renginin kırmızı olması ise Türkiye Cumhuriyeti'nin bayrağını ve Kara Harp Okulunun verdiği şehitleri betimler"
+    },
+    {
+      "question": "TUSAŞ Hürjet uçağı hangi modeli silahlandırılacaktır ?",
+      "answer": "Hafif Taarruz Uçağı"
+    },
+    {
+      "question": "Francis Bacon hangi yıllar arasında yaşamıştır?",
+      "answer": "1561-1626"
+    },
+    {
+      "question": "Kenan Tevfik Erim'in babası 1948'den itibaren nerede görev yapmıştır? ",
+      "answer": "Türkiye'nin Birleşmiş Milletler Daimi Temsilciliği'nde"
+    },
+    {
+      "question": "Bîrûnî'nin Kâs'tan ayrılıp bir dönem yoksulluk yaşadığı yer neresidir?",
+      "answer": "Rey'de"
+    },
+    {
+      "question": "Hucendî hangi yıl ölmüştür?",
+      "answer": "1000"
+    },
+    {
+      "question": "Turkcell T50 ile birlikte hangi saati tanıtmıştır?",
+      "answer": "Turkcell T-Fit"
+    },
+    {
+      "question": "el-Hedyü ve's-Sünen fi. Ahadisi'l-Mesânîd ve's-Sünen adlı eser kime aittir?",
+      "answer": "İbn Kesir"
+    },
+    {
+      "question": "Aşıkpaşazade'nin mesleği nedir?",
+      "answer": "Osmanlı tarihçisi"
+    },
+    {
+      "question": "Akşemseddin nerede doğmuştur?",
+      "answer": "Şam"
+    },
+    {
+      "question": "Bilkent Holding AŞ veya Tepe Grubu Şirketleri bünyesindeki sanayi sirketlerinin adları nelerdir ?",
+      "answer": "Tepe Mobilya (1969), Meteksan Matbaacılık (1969), Tepe Prefabrik (1977), Tepe Betopan (1984), Bilenerji (1993)"
+    },
+    {
+      "question": "Kalâvûn Hastanesi'nin kurucusu kimdir?",
+      "answer": "Seyfeddîn Kalâvûn"
+    },
+    {
+      "question": "Menahem Hodara'nın doğum yılı nedir? ",
+      "answer": "1869"
+    },
+    {
+      "question": "İbn Tağrıberdî kimlerden ders aldı?",
+      "answer": "devrin Hanefi alimlerinden"
+    },
+    {
+      "question": "Mühendishane’i Bahri Hümayun'da Türk Resim Sanatının başlangıcı sayılan kuşak hangi adla nitelendirilmişlerdir?",
+      "answer": "Asker Ressamlar Kuşağı"
+    },
+    {
+      "question": "Times Higher Education'ın World University Rankings sıralamasındaki en genç Türk üniversitesi hangisidir?",
+      "answer": "TOBB ETÜ"
+    },
+    {
+      "question": "Büyük İskender nerede ölmüştür?",
+      "answer": "Babil"
+    },
+    {
+      "question": "Câbir bin Hayyan Yemen'de okuduktan sonra nereye gitmiştir?",
+      "answer": "Kufe'ye"
+    },
+    {
+      "question": "harezmininTarih ile ilgili eserleri nelerdir?",
+      "answer": "Kitab'ul Tarih"
+    },
+    {
+      "question": "Turkcell Astelit şirketinin hisselerinin ne kadarına sahiptir?",
+      "answer": "%100"
+    },
+    {
+      "question": "Sait Faik Halıcıoğlu Ermeni Yetim Mektebi’­nde hangi görevde çalışmıştır?",
+      "answer": "Türkçe gurup dersleri öğretmenliği"
+    },
+    {
+      "question": "Kerim Erim matematik eğitimi almaya hangi üniversiteye gitmiştir?",
+      "answer": "Berlin Üniversitesi"
+    },
+    {
+      "question": "I.Muaviye ilaçların hazırlanmasında kime güvenirdi?",
+      "answer": "Ebū el-Ḥakem"
+    },
+    {
+      "question": "Ömer Lütfi Akadlı'nın milliyeti nedir?",
+      "answer": "Türk"
+    },
+    {
+      "question": "Tahir Harimî Balcıoğlu'na göre bir milletin felsefesinin anlaşılabilmesi için bilinmesi gereken nedir?",
+      "answer": "o milletin dinî ve kültürel değerlerinin"
+    },
+    {
+      "question": "Fas su saatinde küreler nereye düşer?",
+      "answer": "kaselere  ve  oradan  bir  toplama  haznesine "
+    },
+    {
+      "question": "Celâl Şengör yüksek lisansını hangi üniversitede tamamladı?",
+      "answer": "State University of New York at Albany"
+    },
+    {
+      "question": "Asuman Baytop'un 1946'da bulunduğu bölge neresidir?",
+      "answer": "Güneybatı Anadolu"
+    },
+    {
+      "question": "dilhan eryurt neden hayatını kaybetmiştir",
+      "answer": " kalp krizi sonucu"
+    },
+    {
+      "question": "Metin Gürses nerden  lisans ve yüksek lisans almıştır?",
+      "answer": "Ortadoğu Teknik Üniversitesi Fizik Bölümü"
+    },
+    {
+      "question": "El İdrisi kaç yılında doğmuştur?",
+      "answer": "1100"
+    },
+    {
+      "question": "Behram Kurşunoğlu hangi yıl vefat etmiştir?",
+      "answer": "2003"
+    },
+    {
+      "question": "Maimonides ekolünün tamamı Averroes (İbn Rüşd)’un hangi (meşşaiyye) öğretisine sadık kalmıştır.",
+      "answer": "peripatetik (meşşaiyye)"
+    },
+    {
+      "question": "Aşıkpaşazade neden bu isimle anılmaktadır?",
+      "answer": "büyük dedesi Âşık Paşa olduğu için"
+    },
+    {
+      "question": "Proje neden Çekmece Nükleer Araştırma ve Eğitim Merkezi olarak isimlendirilmiştir ?",
+      "answer": "kenarında bulunduğu göle izafeten"
+    },
+    {
+      "question": "Necip Camuşcu doktorasını hangi okulda yapmıştır?",
+      "answer": "University of Newcastle upon Tyne"
+    },
+    {
+      "question": "Kemal Reis'in ilk katıldığı seferde ünvanı nedir?",
+      "answer": "azaplar reisi"
+    },
+    {
+      "question": "İTÜRO basketbol kategorisinde kaç farklı pota vardır?",
+      "answer": "4"
+    },
+    {
+      "question": "Miller dünya haritasını nerede yayınlamıştır?",
+      "answer": "kitabında"
+    },
+    {
+      "question": "Umran İnan yüksek lisansını hangi yılda tamamladı?",
+      "answer": "1973"
+    },
+    {
+      "question": "fas su saatinin 763/1362 de yapılan versyonunu kim yapmıştır?",
+      "answer": "Ebū  Zeyd  ʿAbdurraḥmān  b.  Süleymān  el-Leccāʾī’dir"
+    },
+    {
+      "question": "Huneyn bin İshak kaç yıl Bizans’da kalmıştır?",
+      "answer": "iki yıl"
+    },
+    {
+      "question": "Gazi Yaşargil hangi yıllar arasında Amerika Birleşik Devletleri'nde çalışmıştır?",
+      "answer": "1965 ve 1967 yılları"
+    },
+    {
+      "question": "mustafa Şekip Tunç hangi alanlarda faaliyet göstermiştir ?",
+      "answer": "psikoloji ve felsefe"
+    },
+    {
+      "question": "Bölgesel Konumlama ve Zamanlama Sistemi şu anda hangi durumdadır?",
+      "answer": "fizibilite çalışmasının değerlendirilmesini içeren ilk aşamasında"
+    },
+    {
+      "question": "Metin Gürses hangi tarihte doğmuştur?",
+      "answer": "2 Nisan 1945"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'ın uçuş test tarihi nedir?",
+      "answer": "Mart 2014"
+    },
+    {
+      "question": "Rauf Saygın’ın doğum tarihi nedir?",
+      "answer": "1914"
+    },
+    {
+      "question": "Kolera Risalesi adlı kitapçık başka hangi dile çevrilmiştir?",
+      "answer": "Almanca"
+    },
+    {
+      "question": "I. Kitâbu'l-İbâre kim tarafından tercüme edilmiştir?",
+      "answer": "Balmesli Abraham tarafından"
+    },
+    {
+      "question": "Hüseyin Namık  Orkun nerede doğmuştur?",
+      "answer": "İstanbul'da"
+    },
+    {
+      "question": "Câbir bin Hayyan hangi ülkeden Kûfe'ye göç etmiştir?",
+      "answer": "İran"
+    },
+    {
+      "question": "Yusuf Yağcı doktorasını hangi üniversitede yapmıştır?",
+      "answer": "Liverpool Üniversitesi'nde yaptı"
+    },
+    {
+      "question": "İbn Hurdâzbih'in büyükbabası hangi ailenin çağrısı üzerine İslam'ı kabul etmiştir?",
+      "answer": "Bermekîler"
+    },
+    {
+      "question": "İbn eş-Şâtir astronomi tahsili yapmaya nereye gitmiştir?",
+      "answer": "Kahire ve İskenderiye'ye "
+    },
+    {
+      "question": "Farabi eğitim ve öğretimini hangi iki şehirde tamamlamıştır?",
+      "answer": "Bağdat ve Harran"
+    },
+    {
+      "question": "Altay projesinin güç grubu üretim sürecinin ne kadar sürmesi planlanmaktadır?",
+      "answer": "54 ay "
+    },
+    {
+      "question": "Gıyaseddin Cemşid'ın pi sayısı hesaplama rekoru virgülden sonra kaç basamak ile kırılmıştır?",
+      "answer": "15"
+    },
+    {
+      "question": "Kemaleddin ibn Yunus hangi yıl vefat etmiştir?",
+      "answer": "1241"
+    },
+    {
+      "question": "MAN 630'un motor hacmi ne kadardır?",
+      "answer": "8275 cc"
+    },
+    {
+      "question": "Harezmî ne zaman ölmüştür?",
+      "answer": "850"
+    },
+    {
+      "question": "Ali bin Abbas kaç yılında doğmuştur?",
+      "answer": "932"
+    },
+    {
+      "question": "Piri Reisin haritası hangi tarzda yapılmıştır?",
+      "answer": "portolan tarzında yapılmıştır"
+    },
+    {
+      "question": "Notebook of Oculist kimler tarafından Almanca'ya çevrilmiştir ?",
+      "answer": "Hirschberg ve Litter"
+    },
+    {
+      "question": "Arap-İslam bilimi batıya hangi yüzyıllarda geçmiştir?",
+      "answer": "13.yüzyılın ikinci yarısında"
+    },
+    {
+      "question": "Cezerinin otomasyon konusundaki en önemli katkısı nedir?",
+      "answer": "su gücü ve basınç etkisinden yararlanarak kendi kendine denge kuran ve ayarlama yapan dengeyi oluşturması"
+    },
+    {
+      "question": "Aziz Sancar'a verilen Nobel Kimya Ödülü hangi kurum tarafından verilmiştir?",
+      "answer": "İsveç Kraliyet Bilimler Akademisi tarafından"
+    },
+    {
+      "question": "Uluğ Bey rasathaneyi nereye yaptırmıştır?",
+      "answer": "Semerkant'ta"
+    },
+    {
+      "question": "Kemal Reis’in ilk katıldığı sefer nedir? ",
+      "answer": "Eğriboz seferi"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'nın ilk prototiplerinden sonra ne yapılmıştır?",
+      "answer": "uçuş testleri"
+    },
+    {
+      "question": "Prof. Kahle; harita ile ilgili inceleme sonuçlarını ne zaman ve nerede sunmuştur?",
+      "answer": " 1931 yılında 18. Doğubilimleri Kongresi'nde"
+    },
+    {
+      "question": "ne zaman Haydarpaşa Lisesi edebiyat öğretmeni  olmuştur ?",
+      "answer": "21 Eylül 1950 de "
+    },
+    {
+      "question": "Güneş enerjili araçlar ne ile hareket ettirilir?",
+      "answer": "motor milinden tekerleğe kadar olan bir zincir veya kayış ile"
+    },
+    {
+      "question": "Emin Mehmed Bey, Rumeli payesini ne zaman almıştır?",
+      "answer": "Receb 1223 (Eylül 1808)"
+    },
+    {
+      "question": "Kutbeddin Şirazi, Maraga'dan kimin emri sonrasında Horasan ve İsfahan'a geçmiştir?",
+      "answer": "hükümdarın"
+    },
+    {
+      "question": "Altay projesi kapsamında ilk prototip teslimatının hangi yılda olacağı öngörülmüştür?",
+      "answer": "2020 yılı başında"
+    },
+    {
+      "question": "Yusuf Yağcı nerede doğmuştur?",
+      "answer": "Bursa'da doğdu"
+    },
+    {
+      "question": "Halil Nadaroğlu hangi yıllar arasında Bakanlar kurulu kontenjanında görev yapmıştır?",
+      "answer": "1993-1997"
+    },
+    {
+      "question": "İstanbul Üniversitesi Gözlemevi hangi amaçla açılmıştır?",
+      "answer": "Fen Fakültesi bünyesinde kurulan Astronomi ve Uzay Bilimleri Bölümü'nün araştırma ve gözlemlerinde kullanılması amacıyla"
+    },
+    {
+      "question": "Osmanlı İmparatorluğu'ndaki ilk Avrupa tarzı üniversite olarak kabul edilen okulun adı nedir?",
+      "answer": " Darülfünun"
+    },
+    {
+      "question": "Öktem Vardar yüksek lisans eğitimini nerede almıştır?",
+      "answer": "Kaliforniya Üniversitesi, Berkeley’de"
+    },
+    {
+      "question": "Piri Reis hangi haritalarını Gelibolu'da hazırlamıştır?",
+      "answer": "Dünya Haritası"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman Boğaziçi Üniversitesi'nde doktora dersleri verdi?",
+      "answer": "1975'te"
+    },
+    {
+      "question": "Kenan Erim'in eğitimine nerede başlamıştır?",
+      "answer": "İsviçre'de"
+    },
+    {
+      "question": "Asım Orhan Barut hangi üniversitede eğitimine başlamıştır?",
+      "answer": "İstanbul Teknik Üniversitesi"
+    },
+    {
+      "question": "Atom enerjisi Komisyonu Genel Sekreterliği hangi kuruluşa bağlı olarak kurulmuştur ?",
+      "answer": "Başbakanlık'a"
+    },
+    {
+      "question": "Tarık Zafer Tunaya nerede doğmuştur",
+      "answer": "İstanbul"
+    },
+    {
+      "question": "Bilkent Üniversitesi arazisine karar verildiken sonra İhsan Doğramacı'nın hamleleri neler olmuştur?",
+      "answer": "Kararını verdikten sonra meslektaşlarıyla birlikte orada bulunan köylülerle görüşmüş, üniversite kurma niyetini onlara anlatmış, uzun süren pazarlıklar yapmış ve sonucunda araziyi satın almıştır."
+    },
+    {
+      "question": "Sadrazam İbrahim Paşa’yı tutan valide nasıl etkisiz hale getirilmiştir?",
+      "answer": "Safiye Sultan'ın etkisiyle"
+    },
+    {
+      "question": "Seydi Ali Reis'ten önceki Hint kaptanı kimdir ? ",
+      "answer": "Murat Reis"
+    },
+    {
+      "question": "Feza Günergun, Türk Bilim Tarihi Kurumu Genel Sekreterliği görevine hangi yılda başlamıştır?",
+      "answer": "1989 "
+    },
+    {
+      "question": "İstanbul Üniversitesi'nin kuruluşunu neden 30 Mayıs 1453'e dayandırabiliriz?",
+      "answer": "okulun bazı birimleri temelleri İstanbul'un fethinin ertesi günü 30 Mayıs 1453'te Fatih Sultan Mehmet'in emriyle kurulan Sahn-ı Seman medreselerine kadar dayandığından"
+    },
+    {
+      "question": "İbn Rüşd'ün ölüm yeri neresidir?",
+      "answer": "Marakeş, Fas"
+    },
+    {
+      "question": "1120 ve 1130 yılları arasında Muḥammed b. Mūsā el-Ḫārizmī ’nin astronomik çizelgeleri kim tarafından yeniden gözden geçirilmişitir?",
+      "answer": "Muhammed b. Musa el-harizmi"
+    },
+    {
+      "question": "Bakır Çağlar Anayasa mahkemesi hukuk danışmanlığını hangi düşünce ile kabul etmiştir?",
+      "answer": "\"Türkiye'nin iç hukukunun Strazburg hukukuyla uyumlu hale sokulmasını sağlamak ve insan hakları açısından bir kazanım olur\" düşüncesi ile"
+    },
+    {
+      "question": "SAGUAR X5’in motor tipi?",
+      "answer": "DC Sabit Mıknatıs"
+    },
+    {
+      "question": "Fuat Sezgin müzede bulunan objeleri tanıtmak ve İslam kültür çevresindeki bilimsel gelişmeyi göstermek için hazırladığı katoloğu kaç yılında yayınlamıştır?",
+      "answer": "2003"
+    },
+    {
+      "question": "Muhibbe Darga ilköğretimini hangi okulda okumuştur?",
+      "answer": "Gazi İlkokulu"
+    },
+    {
+      "question": "Jorge Luis Borges'un hangi eserinde İbn Rüşd'den bahsedilmiştir?",
+      "answer": "La Busca de Averroes (Averroes'in Arayışı)"
+    },
+    {
+      "question": "2015 ilk çeyreği ölçümlerine göre Türkiye'deki Turkcell kullanıcılarının oranı nedir?",
+      "answer": "yüzde 47,6"
+    },
+    {
+      "question": "Asuman Baytop'un ilk araştırmalarını yaptığı alan nedir?",
+      "answer": "farmakognozi"
+    },
+    {
+      "question": "TÜBİTAK nasıl bir politika takip etmektedir?",
+      "answer": "Kurum, Türkiye'de müspet bilimlerde araştırma ve geliştirme faaliyetlerini ülke kalkınmasındaki önceliklere göre geliştirmek, özendirmek, düzenlemek ve koordine etmek; mevcut bilimsel ve teknik bilgilere erişmek ve erişilmesini sağlamak amacı gütmektedir."
+    },
+    {
+      "question": "Kindi'ni eserlerini nasıl bir hava içinde kaleme almıştır bulunmaktadır?",
+      "answer": "eserlerinin önemli bir kısmını aralarında hoca-talebe ilişkisinin ötesinde dostluğa dayanan bir yakınlık bulunan bu veliahdın isteği üzerine kaleme almış ve eserlerini de bu veliahta ithaf etmiştir."
+    },
+    {
+      "question": "Ebu Ruh Muhammed ibn Mansur ibn abi Abdallah ibn Mansur Jamani ne profesörüdür?",
+      "answer": "Pers Oftalmoloji profesorü"
+    },
+    {
+      "question": "Kitab el-Maliki kim tarafından Latinceye çevrildi?",
+      "answer": "Constantinus Africanus"
+    },
+    {
+      "question": "Hulusi Behçet neden sivil tıp eğitimi almamıştır? ",
+      "answer": "o dönemlerde Osmanlı Devleti'nde sivil tıp eğitimi almak mümkün değildir"
+    },
+    {
+      "question": "Vakıf Gureba Hastane'sindeki görevi nedir?",
+      "answer": "profesörlük "
+    },
+    {
+      "question": "Gerçek adı nedir?",
+      "answer": "Ahmed Kemal"
+    },
+    {
+      "question": "Altay tankı güç grubu hangi enjeksiyon sistemini kullanmaktadır?",
+      "answer": "Common-Rail "
+    },
+    {
+      "question": "Havâdisü'd-Duhûr fî Mede'l-Eyyâm ve'ş-Şuhûr adlı eserin İstanbul'daki yazması hangi kütüphanededir?",
+      "answer": "Ayasofya Kütüpahnesi’ndedir"
+    },
+    {
+      "question": "İbn Kesir’in kaynak bir eser olarak tabir edilen eserinin adı nedir?",
+      "answer": "El Bidaye ve'n Nihaye"
+    },
+    {
+      "question": "Ahmed bin Musa hangi alanlarda eserler vermiştir ?",
+      "answer": "matematik ve astronomi alanı"
+    },
+    {
+      "question": "Basılan kitapları daha çok kimler almıştır?",
+      "answer": " Kethüda, Mektupçu, Çavuşbaşı gibi Osmanlı Bürokrasisi ve Şeyhülislam, Kadı v.b."
+    },
+    {
+      "question": "MAN 630 nerede üretilmektedir?",
+      "answer": "Batı Almanya"
+    },
+    {
+      "question": "Hitit kaynaklarını kullanarak yazdığı en önemli eserinin adı nedir?",
+      "answer": "Eski Anadolu Kadını"
+    },
+    {
+      "question": "Orta Çağ Fransız uzman P. Gautier Dalché hangi araştırmayı yapmıştır?",
+      "answer": "İber Yarımadası tasviri ve haritasını"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman ölmüştür?",
+      "answer": "ö. 8 Eylül 2014"
+    },
+    {
+      "question": "Okan Ersoy'un araştırma konuları nelerdir?",
+      "answer": "Yapay sinir ağları, Sinyal işleme, Enformasyon, Bilgi işlem, Görüntü işleme, Taramalı elektron mikroskobu"
+    },
+    {
+      "question": "Seydi Ali Reis Preveze Deniz Muharebesi'nde ne yaparak faydalı olmuştur ?",
+      "answer": "Osmanlı donanmasının sol tarafına komuta ederek"
+    },
+    {
+      "question": "Umran İnan yaklaşık kaç doktora öğrencisi mezun etmiştir?",
+      "answer": "50"
+    },
+    {
+      "question": "Teo Grünberg 1966 yılında hangi üniversitenin Beşeri İlimler Bölümü'nde göreve başlamıştır?",
+      "answer": "ODTÜ"
+    },
+    {
+      "question": "Hekimbaşı Abdülaziz Efendi'nin tercüme ettiği Türk tıp tarihinde tercüme edilen ilk batı tıp eserinin adı nedir?",
+      "answer": "Meşhur Hollandalı hekim Herman Boerhaave tarafından yazılmış olan Aphorismi de cognoscendis et curandis morbis"
+    },
+    {
+      "question": "Takiyyeddin Muhammed b. Ma'ruf pnömatik düzenekler hakkındaki kitabını ne zaman kaleme almıştır?",
+      "answer": "959/1552 yılında"
+    },
+    {
+      "question": "Mimar Sinan 1516–17 tarihleri arasında hangi sefere katılmıştır?",
+      "answer": "Mısır"
+    },
+    {
+      "question": "Zıpın’ın ana görevi nedir?",
+      "answer": "radar üssü, hava alanı, liman gibi hayati öneme sahip stratejik tesislerin hava tehditlerine karşı alçak irtifa savunmasını sağlamaktır"
+    },
+    {
+      "question": "TEK'in 2ye ayrılmasıyla üretim ve iletimden sorumlu kurul hangisidir ?",
+      "answer": "TEAŞ"
+    },
+    {
+      "question": "Bursalı Kadızade Rumi'nin mesleği nedir ?",
+      "answer": "ortaçağın ünlü Türk matematik ve astronomi bilgini"
+    },
+    {
+      "question": "Ibni Bacce neden dinsizlikle suçlanmıştır?",
+      "answer": "Metafizik ve felsefedeki çeşitli düşünceleri nedeniyle"
+    },
+    {
+      "question": "Rasathane , 1982 tarihine kadar hangi bakanlığa bağlı kalmıştır?",
+      "answer": " Millî Eğitim Bakanlığı'na"
+    },
+    {
+      "question": "Fırlatma aracı hangi sistemlere lojistik üstünlük sağlamak için kullanılmaktadır? ",
+      "answer": "T-122 Sakarya ve T-300 Kasırga ÇNRA (Çok Namlu Roket Atar) sistemleri"
+    },
+    {
+      "question": "İbn el-Fakih el-Hamadani hangi ırka mensuptur?",
+      "answer": "Fars"
+    },
+    {
+      "question": "Ebu'l Vefa el-Buzcani'nin Bağdad'a ne zaman gitmiştir?",
+      "answer": "959 yılında"
+    },
+    {
+      "question": "ASELSAN'ın ilk yurtdışı şirketinin adı nedir?",
+      "answer": "ASELSAN BAKÜ"
+    },
+    {
+      "question": "TÜBİTAK'ın ismi son halini ne zaman aldı?",
+      "answer": "2005"
+    },
+    {
+      "question": "Sait Akpınar daha lisedeyken ne eğitimi görmüştür?",
+      "answer": "Almanca"
+    },
+    {
+      "question": "Asım Akın hangi yılda uzman olmuştur?",
+      "answer": "1969"
+    },
+    {
+      "question": "Câbir bin Hayyan'ın yaklaşık kaç eseri günümüze ulaşmıştır?",
+      "answer": "20"
+    },
+    {
+      "question": "Aziz Sancar Nobel Kimya Ödülünü hangi önemli buluşları sayesinde kazanmıştır?",
+      "answer": "DNA onarım mekanizmaları"
+    },
+    {
+      "question": "Ebu'l Vefa el-Buzcani'nin Bağdad'a ne zaman gitmiştir?",
+      "answer": "959 yılında"
+    },
+    {
+      "question": "Muhtasaru Tarih il-Beşer eserinin tercüme edilmiş halleri ne zaman ve nerelerde basılmıştır?",
+      "answer": "1870 yılında İstanbul'da ve 1908 yılında Mısır'da"
+    },
+    {
+      "question": "Öğrenimini nerede yapmıştır?",
+      "answer": "Edirne’de"
+    },
+    {
+      "question": "Constantinus’un adını taşıyan eserler nasıl nitelendirilir?",
+      "answer": "serbest çevirilerdir"
+    },
+    {
+      "question": "cüneyt budak türk mimarlık ofislerimde ne gibi çalışmalarda bulundu",
+      "answer": " serbest mimar olarak projeler üretti"
+    },
+    {
+      "question": "Bilkent Üniversitesi kampüsünün Ankara'nın güneybatısında bulunmasına sebep teşkil eden nedir?",
+      "answer": "Arazinin uygunluğundaki ana etken arazinin yeraltı sularının bol olmasıydı."
+    },
+    {
+      "question": "Ege Tarımsal Araştırma Enstitüsü'nün 1974 yılında ismi değiştikten sonra aldığı ad nedir?",
+      "answer": "Ege Bölge Zirai Araştırma Enstitüsü"
+    },
+    {
+      "question": "Füze fırlatıldıktan sonra hedef güncellemesi yapılabilecek mi?",
+      "answer": "hedef güncellemesi yapılabilecek"
+    },
+    {
+      "question": "Aydın Sayılı'nın çalışma alanı nedir?",
+      "answer": "bilim tarihçiliği"
+    },
+    {
+      "question": "Notebook of Oculist Venedik'te kaç senesinde basılmıştır?",
+      "answer": "1497"
+    },
+    {
+      "question": "T-155 Panter Türkiye'de nerede üretilmiştir?",
+      "answer": "Makina ve Kimya Endüstrisi Kurumu"
+    },
+    {
+      "question": "Süreyya Ciliv hangi tarihte Turkcell Genel Müdürü olarak atanmıştır?",
+      "answer": "9 Ocak 2007"
+    },
+    {
+      "question": "Fuat Sezgin kaç dili çok iyi derecede biliyordu?",
+      "answer": "27"
+    },
+    {
+      "question": "Johannes Regiomontanus  Padua Üniversitesi’nde el-Ferġānī’nin kitabı hakkında dersleri hangi yılda vermiştir?",
+      "answer": "1464 yılında"
+    },
+    {
+      "question": "İbn Tağrıberdî hangi dersi en çok sevdi?",
+      "answer": "tarihi"
+    },
+    {
+      "question": "Mühendishane’i Bahri Hümayun adını hangi padişah döneminde almıştır?",
+      "answer": " Padişah I. Abdülhamit döneminde"
+    },
+    {
+      "question": "Fedailu'l Kur'an adlı eser kime aittir?",
+      "answer": "İbn Kesir"
+    },
+    {
+      "question": "gazeteciliğe ne zaman yönelmiştir ?",
+      "answer": "Savaştan sonra"
+    },
+    {
+      "question": "Hulusi Behçet hangi yabancı dilleri öğrenmiştir?",
+      "answer": "Fransızca, Almanca ve Latince"
+    },
+    {
+      "question": "Şükrullâh'ın yazdığı Behcetü't Tevârîh isimli eser hangi dilde yazılmıştır?",
+      "answer": "Farsça olarak yazılan bu eser"
+    },
+    {
+      "question": "Pakistan ilk 12 adet T-155 Panter'i hangi yıllar arasında almıştır?",
+      "answer": "2008-2009"
+    },
+    {
+      "question": "Besim Tanyel hangi okullarda ders vermiştir?",
+      "answer": "Ankara Üniversitesi ve Ege Üniversitesi'nde"
+    },
+    {
+      "question": "Abdus Salam ilk derecesini hangi bölümden almıştır?",
+      "answer": "Matematik"
+    },
+    {
+      "question": "Algoritmayı keşfeden Ortaçağ İslam dünyası matematikçisi kimdir?",
+      "answer": "Harizmi (780 civarı - 850 civarı)"
+    },
+    {
+      "question": "İstanbulu ne zaman fethetmiştir?",
+      "answer": "1453 yılında"
+    },
+    {
+      "question": "Emine Çaykara'nın Muhibbe Darga ile yaptığı söyleşi 2002 yılında hangi adla neşredilmiştir?",
+      "answer": "\"Arkeolojinin Delikanlısı Muhibbe Darga Kitabı\" adıyla"
+    },
+    {
+      "question": "Hıfzı Veldet Velidedeoğlu doktora çalışmasını hangi ülkede tamamlamıştır ?",
+      "answer": "İsviçre"
+    },
+    {
+      "question": "Haydarpaşa Lisesi'ndeyken neden öğretmenlikten alınmıştır ?",
+      "answer": "Türkiyenin kuruluşu konferansı üzerine "
+    },
+    {
+      "question": "çengelhan kim tarafından restore edilmiştir",
+      "answer": "Rahmi M. Koç Müzecilik ve Kültür Vakfı "
+    },
+    {
+      "question": "Doğu Ergil hangi alanlarda yüksek lisans yapmıştır?",
+      "answer": "Sosyoloji ve sosyal psikoloji"
+    },
+    {
+      "question": "Kenan Erim'in mezarının kuzeyinde bulunan Anıtsal Tören Kapısı nerededir? ",
+      "answer": "Aphrodias Antik kentinde"
+    },
+    {
+      "question": "Hangi hizmetleriyle bilim tarihinde önemli bir yer tutmuştur.?",
+      "answer": "Matematik ve astronomideki"
+    },
+    {
+      "question": "Şakir Kocabaş 1985-90 yılları arasında yapay zeka çalışmasıyla elde ettiği doktora ünvanını hangi üniversiteden almıştır?",
+      "answer": "Londra Üniversitesi"
+    },
+    {
+      "question": "Edirne garı ne zaman işletmeye başlanılmıştır ?",
+      "answer": "1930’da"
+    },
+    {
+      "question": "Fuat Sezgin ikinci doktora tezini hangi üniversiteye sunmuştur?",
+      "answer": "Frankfurt Üniversitesi"
+    },
+    {
+      "question": "SAGUAR X5’in MPPT gerilim girişi kaçtır?",
+      "answer": " 72-80 Volt"
+    },
+    {
+      "question": "Huneyn bin İshak’ın mesleği nedir?",
+      "answer": "mütercim ve hekimdir"
+    },
+    {
+      "question": "İlk çevrilen tıp kitabının orjinal dili nedir?",
+      "answer": "Yunanca"
+    },
+    {
+      "question": "Aydın Sayılı Türk Tarih Kurumu tam üyeliğine hangi tarihte seçilmiştir?",
+      "answer": "1947’de"
+    },
+    {
+      "question": "Emre Kongar Hacettepe Üniversitesi'ne ne zaman geri dönmüştür?",
+      "answer": "Kasım 1995"
+    },
+    {
+      "question": "Dilhan Eryurt hangi şirkette görev alarak ilk Türk bilim kadını oldu?",
+      "answer": "NASA’da"
+    },
+    {
+      "question": "Abdullah Zühdü hangi okulu bitirmiştir?",
+      "answer": "Galatasaray Sultanisini"
+    },
+    {
+      "question": "Münci Kalayoğlu günümüze kadar kaç tane karaciğer nakli yapmıştır?",
+      "answer": "1500"
+    },
+    {
+      "question": "Hürkuş-B ilk uçuşunu hangi yıl yapmıştır ?",
+      "answer": "2017 "
+    },
+    {
+      "question": "Dilhan Eryurt'un babası kimdi?",
+      "answer": "Abidin Ege"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman profesörlüğe yükseldi?",
+      "answer": "1976 yılında"
+    },
+    {
+      "question": "Kenan Tevfik Erim'in doğum tarihi nedir? ",
+      "answer": "13 Şubat 1929"
+    },
+    {
+      "question": "İsenbike Togan Sudan’daki çalışmalarını nasıl finanse etmiştir?",
+      "answer": "MEAwards (Middle Eastern Award) bursu ile"
+    },
+    {
+      "question": "Piri Reis'in asıl adı nedir?",
+      "answer": "Muhyiddin Piri"
+    },
+    {
+      "question": "Kamil Gediz Akdeniz'in doğduğu hastane hangi semttedir?",
+      "answer": "Üsküdar"
+    },
+    {
+      "question": "Orhun’u yeniden çıkarmağa ne zaman başladı ?",
+      "answer": "1 Ekim 1943 te "
+    },
+    {
+      "question": "Nusret Hızır TDK Deneme Ödülü'nü hangi yılda aldı?",
+      "answer": "1977"
+    },
+    {
+      "question": "İbn-i Batuta'nın kabilesinin ismi nedir?",
+      "answer": "Levâte"
+    },
+    {
+      "question": "Ali Kuşçu kimlerden Matematik ve astronomi dersleri almıştır?",
+      "answer": "Bursalı Kadızâde Rûmî, Gıyaseddin Cemşid ve Muînuddîn Kâşî’den"
+    },
+    {
+      "question": "destūr el-aḳṭār nedir?",
+      "answer": "«değişik uzunluklardaki doğru parçalarını sunulan tarzda bir ve aynı ölçeğe göre bölümleme şablonudur"
+    },
+    {
+      "question": "Nezih Fıratlı 1978-1979 yıllarında hangi görevde bulunmuştur?",
+      "answer": "İstanbul Arkeoloji Müzeleri müdürlüğü"
+    },
+    {
+      "question": "Ahmed Cevdet Paşa öğrencilik yıllarında ne yapmıştır ?",
+      "answer": "Öğrencilik yıllarında ayrıca takip ettiği derslerle ilgili olarak kitap yazdı ve kendisi de ders verdi"
+    },
+    {
+      "question": "Sultanın ismi nedir?",
+      "answer": "Muhammed bin Tuğluk"
+    },
+    {
+      "question": "İbn-i Batuta'yı yolculuk yapmaya sevk eden nedir?",
+      "answer": "yaşadığı maceralar"
+    },
+    {
+      "question": "Ahmet Cevdet ne zamana kadar Reşid Paşa’nın dairesinden ayrılmadı?",
+      "answer": "Reşid Paşa’nın ölümüne kadar"
+    },
+    {
+      "question": "Türkiye'ye ilk bilgisayar hangi amaçla gelmiştir?",
+      "answer": "yol yapımında gereken hesaplamaları daha hızlı yapabilmek için"
+    },
+    {
+      "question": "Bîrûnî hangi eserinde İbn Sînâ'yı \"fâzıl delikanlı\" olarak nitelendirmiştir?",
+      "answer": "el-Âşârü'l-bâkıye"
+    },
+    {
+      "question": "Oyalı nerede doğmuştur?",
+      "answer": "İstanbul Üniversitesi Veteriner Fakültesi Dölerme ve Suni Tohumlama Ana Bilim Dalı’nda"
+    },
+    {
+      "question": "TUSAŞ Airbus A350'nin hangi parçasını üretmektedir?",
+      "answer": "kanatçık"
+    },
+    {
+      "question": "Bilkent Holding AŞ veya Tepe Grubu İnşaat şirketleri adları nelerdir?",
+      "answer": "Bilbak İnşaat (1968), Tepe İnşaat(1969)."
+    },
+    {
+      "question": "Râzî'nin Bağdat hastanesindeki görevi neydi?",
+      "answer": "başhekim"
+    },
+    {
+      "question": "BMC ilk yıllarından hangi markalı araçları üretti?",
+      "answer": "Austin ve Morris markalı ticari araçları üretti"
+    },
+    {
+      "question": "Uzay Teknolojileri Araştırma Enstitüsü'nde kaç farklı araştırma grubu bulunur ?",
+      "answer": "12 "
+    },
+    {
+      "question": "Makina ve Kimya Endüstrisi Kurumu'nun kaç personeli bulunmaktadır?",
+      "answer": "5548 personeli"
+    },
+    {
+      "question": "Kemaleddin ibn Yunus Musul'a geri dönerek nerede dersler verdi?",
+      "answer": "Emir Zeyneddin Camii"
+    },
+    {
+      "question": "Pardus CeBIT Eurasia'ya neden katıldı",
+      "answer": " Pardus hakkındaki gelişmeleri halka duyurmak ve tasarıya olan ilgiyi arttırmak amacıyla CeBIT Eurasia Bilişim Fuarı'na katılım sağlanmaktadır. "
+    },
+    {
+      "question": "TAI Hürkuş ismi nerden gelmektedir ?",
+      "answer": "Türk Pilot ve Mühendis Vecihi Hürkuş"
+    },
+    {
+      "question": "Sabahattin Ali hangi cezaevlerinde kaldı?",
+      "answer": "Konya ve Sinop"
+    },
+    {
+      "question": "Takiyyeddin Muhammed b. Ma'ruf mekanik saatler hakkındaki kitabını ne zaman kaleme almıştır?",
+      "answer": "966/1559 yılında"
+    },
+    {
+      "question": "RASAT kırmızı, mavi, yeşil bantlarında bantlarında ne kadar yer örneklem mesafesine sahiptir?",
+      "answer": "15 m"
+    },
+    {
+      "question": "Ömer Hayyam için hangi lakap verilmiştir?",
+      "answer": "savaş karşıtı eylemci"
+    },
+    {
+      "question": "Şükrullah'ın adının tamamı nedir?",
+      "answer": "Tüm adı Şükrüllah bin İmâm Şihâbeddîn Ahmed bin İmâm Zeyneddîn Zekîdir"
+    },
+    {
+      "question": "1956 yılında Türkiye Atom Enerjisi Kurumu nerede bulunmaktadır ?",
+      "answer": "İstanbul'da Küçükçekmece Gölü kenarında"
+    },
+    {
+      "question": "Malatya Ortaokulu Türkçe öğretmenliğine neden sürüldü ?",
+      "answer": "Prof. Zeki Validi’ye hakaret eden Reşit Galib’e hocasını müdafaa eden bir telgraf çekince "
+    },
+    {
+      "question": "Uluğ Bey'e komplo kurarak öldürten oğlunun adı nedir?",
+      "answer": "Abdüllatif"
+    },
+    {
+      "question": "Pîrî Reis haritasının Kristof Kolomb haritasından kaynaklandığının önemli bir delili nedir?",
+      "answer": "Pîrî Reis haritasının Kristof Kolomb haritasından kaynaklandığının önemli bir delili, Küba'nın yokluğudur."
+    },
+    {
+      "question": "Victor Hugo'nun hangi eserinde İbn Rüşd'e referans verilmiştir?",
+      "answer": " Notre Dame'ın Kamburu "
+    },
+    {
+      "question": "Kandilli Rasathanesi ve Deprem Araştırma Enstitüsü kim tarafından Kandilli'ye taşınmıştır?",
+      "answer": "Matematikçi hem de din adamı Fatin Hoca (Gökmen) tarafından"
+    },
+    {
+      "question": "II. Telhîsu Kitâbi'l-İbâre/Bari Ermenias adlı eserin başka çevirisi var mıdır?",
+      "answer": "Eserin ayrıca William de Lune’nun yaptığı bir başka çevirisi daha vardır."
+    },
+    {
+      "question": "İbn Tağrıberdî hangi dersi en çok sevdi?",
+      "answer": "tarihi"
+    },
+    {
+      "question": "İbn_Bacce nerede doğmuştur?",
+      "answer": "Zaragoza"
+    },
+    {
+      "question": "1 Şubat 2005’te yayımlanan Pardus’un ilk çalışan ürünün adı nedir?",
+      "answer": "Pardus Çalışan CD 1.0"
+    },
+    {
+      "question": "Takiyyeddin Muhammed b. Ma'ruf et-Turuk es-Seniyye fi el-Alat er-Ruhaniyye isimli eserinde hangi konuya yer vermiştir?",
+      "answer": "su saatlerinin yapımı"
+    },
+    {
+      "question": "1950'lerde sürülen izostazi'yi kim sürmüştür?",
+      "answer": "Airy ve Pratt"
+    },
+    {
+      "question": "Yüksek sanayi katılım oranı kaçtır?",
+      "answer": "%93"
+    },
+    {
+      "question": "Gazi Yaşargil Geleneksel Sinir Cerrahları Kongresi tarafından 1999'da hangi ünvana layık görülmüştür?",
+      "answer": "\"Yüzyılın Sinir Cerrahı\""
+    },
+    {
+      "question": "bütün bilimlerin başı ve hepsinin özeti mahiyetinde olan bilim dalı nedir?",
+      "answer": "sosyoloji"
+    },
+    {
+      "question": "Şark Üniversitesi nerededir",
+      "answer": "Moskova’da"
+    },
+    {
+      "question": "İbn Tağrıberdî nerede yaşamıştır?",
+      "answer": "Memlûk Sultanlığı'nda"
+    },
+    {
+      "question": "Kutup Yıldızı’nın veya kutup yakını diğer sabit yıldızların 24 saat içerisinde değişen",
+      "answer": "enlem derecelerini elde etme metodu. "
+    },
+    {
+      "question": "Feza Günergun İstanbul Üniversitesi'nin hangi fakültesinden mezun olmuştur?",
+      "answer": "Kimya Mühendisliği Fakültesi"
+    },
+    {
+      "question": "Süreyya Ciliv hangi tarihte Turkcell Genel Müdürü görevinden ayrılmıştır?",
+      "answer": "31 Ocak 2015"
+    },
+    {
+      "question": "Türksat 4A uydusu 2014 yılında hangi uydudan kanal geçişleri yapılarak hizmete başlamıştır?",
+      "answer": "Türksat 2A'dan"
+    },
+    {
+      "question": "Hıfzı Veldet Velidedeoğlu hangi ay doğmuştur?",
+      "answer": " Ağustos"
+    },
+    {
+      "question": "Sivas kütüphanesinin yakılması sonucu ne kadar kitap ortadan kalkmıştır?",
+      "answer": "250.000 kitap"
+    },
+    {
+      "question": "İbni Sina felsefenin hangi iki alt dalını birleştirmeye uğraşmıştır?",
+      "answer": "idealizm ve doğa felsefesini"
+    },
+    {
+      "question": "Kemal Beydilli'nin doğum yeri neresidir?",
+      "answer": "İstanbul"
+    },
+    {
+      "question": "Kitab-ül-Menazir'ı açıklayarak genişleten Müslüman bilim adamı kimdir ? ",
+      "answer": " Kemaleddin el-Farisi"
+    },
+    {
+      "question": "SAGUAR X5’in Rejeneratif Frenleme var mı?",
+      "answer": "Var"
+    },
+    {
+      "question": "Kenan Erim yüksek lisans ve doktorasını hangi üniversitede tamamlamıştır? ",
+      "answer": "Princeton Üniversitesi'nde"
+    },
+    {
+      "question": "Prof. Dr. Yunus Söylet hangi tarihli rektör seçiminde 1207 oyla toplam oyların yaklaşık %50'sini alarak İstanbul Üniversitesi tarihinin en yüksek oy sayılarından birine ulaşmıştır?",
+      "answer": "20 Aralık 2012"
+    },
+    {
+      "question": "Seydi Ali Reis eserini hangi Osmanlı kağanına sunmuştur ?",
+      "answer": " Kanuni Sultan Süleyman"
+    },
+    {
+      "question": "Kemaleddin ibn Yunus lakabı dışında hangi isimlerle bilinir?",
+      "answer": "İbn-i Yunus ve Mewsilî"
+    },
+    {
+      "question": "Muhibbe Darga üniversitede hangi dersleri vermiştir?",
+      "answer": "Kültepe-Kaneş uygarlığı, Asur Koloni Çağı, Hitit sanatı ve Hitit dili ağırlıklı dersler"
+    },
+    {
+      "question": "Ebul Vefa,  Bağdad'a ne zaman gitti?",
+      "answer": "959"
+    },
+    {
+      "question": "İbn-i Heysem gözün ışıkla ilgili nasıl bir aktivasyon sonucunda acı duyacağını söylemiştir?",
+      "answer": "parlak bir nesneye ya da ışığa uzun süre bakarsa"
+    },
+    {
+      "question": "1945'te düzenlenen Uludağ gezisinin organizatörü kimdir?",
+      "answer": " Heilbronn"
+    },
+    {
+      "question": "hangi Eğitim-Öğretim Yılı itibarıyla Kara Harp Okulunda çoklu lisans programında eğitim verilmeye başlanmış?",
+      "answer": "2011-2012 "
+    },
+    {
+      "question": "crytek 2003'te katıldığı GCD'de hangi çalışmalarını sergilediler",
+      "answer": "oyun motorunu ve yeni teknolojileri"
+    },
+    {
+      "question": "Kaliforniya Üniversitesi Kaliforniya'nın hangi şehrindedir?",
+      "answer": "Los Angeles"
+    },
+    {
+      "question": "9.asırda hayat sürmüş bulunan bilim insanı Huneyn bin İshak hangi çalışmalarda bulunmuştur?",
+      "answer": "çevirilerinde antik dönemin metinlerini sadece aktarmakla kalmadı, yorumladı ve düzeltmeler yaptı. Bazı çevirileri Avrupa'da yüzlerce yıl kullanıldı. Çevirilerinin yanı sıra fizik ve tıp, özellikle de 'insan gözü' üzerine yazılar yazdı. Göz üzerine bilimsel yazılar kitabı 17. yüzyıla kadar kullanıldı."
+    },
+    {
+      "question": "Bîrûnî Sâmâniler'in hükümdarı II. Mansûr'un sarayında hangi yıl ikâmet etmiştir?",
+      "answer": "997"
+    },
+    {
+      "question": "Hasan Uçarsunun babasının ismi nedir?",
+      "answer": " İhsan Uçarsu"
+    },
+    {
+      "question": "Kemal Beydilli doktorasını hangi üniversitede tamamlamıştır?",
+      "answer": "Münih Ünivesitesi"
+    },
+    {
+      "question": "Mehmet Nimet Özdaş hangi tarihte vefat etmiştir?",
+      "answer": "17 Haziran 2014"
+    },
+    {
+      "question": "Behçet hastalığı ilk kez ortaya ne zaman çıkmıştır?",
+      "answer": "1937"
+    },
+    {
+      "question": "Ahi Mehmet Çelebi'nin ismi nerelerde kullanılmıştır ?",
+      "answer": "İstanbul’da bir mahalleye, Edirne’de bir köye ve Bulgaristan’da bir yöreye"
+    },
+    {
+      "question": "Uluğ Bey kaç yılında doğmuştur?",
+      "answer": "1393"
+    },
+    {
+      "question": "Adnan Ataman 1935 yılında hangi mektebe gitmiştir ?",
+      "answer": "Yüksek Mühendis Mektebi"
+    },
+    {
+      "question": "Tahir Harimî Balcıoğlu Türk-İslam inancıyla alakalı eserleri nerede yazmıştır?",
+      "answer": "Edremit’te"
+    },
+    {
+      "question": "TOBB ETÜ ne zaman kurulmuştur?",
+      "answer": "2003"
+    },
+    {
+      "question": "el-Hasan b. Muhammed el-Vezzan Afrika kitabını hangi yılda tamamlamıştır ?",
+      "answer": "1526’da"
+    },
+    {
+      "question": "Ibni bacce'ye göre ilimin elde etme'nın kolay yolu nedir?",
+      "answer": "İbn Bacce'ye göre ilim elde etmenin tek aracı akıldır"
+    },
+    {
+      "question": "Ratip berker Büğaziçi Üniversitesindeki görevlerini kime devretmiştir?",
+      "answer": "Fikret Kortel"
+    },
+    {
+      "question": " Doğu Ergil'in raporu hazırladığı zaman görevi nedir?",
+      "answer": "TOBB Başkanlık Danışmanlığı"
+    },
+    {
+      "question": "Abdus Salam'a doktora çalışmaları sırasında kimler danışmanlık etmiştir?",
+      "answer": "Dirac ve Feynman"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı, kalite açısından nasıl tasarlandı? ",
+      "answer": "isterlerin çok üstünde"
+    },
+    {
+      "question": "Adana Bilim ve Teknoloji Üniversitesi kaç yılında kurulmuştur ?",
+      "answer": "31 Mart 2011"
+    },
+    {
+      "question": "Altay projesine verilen adın asıl kökeni nedir?",
+      "answer": "Orta Asya'da bulunan sıradağlardır"
+    },
+    {
+      "question": "TCG Anadolunun kullanım maksadı nedir?",
+      "answer": "Çok amaçlı amfibi hücum gemisi"
+    },
+    {
+      "question": "Ahmed Zevail'e Grand Collar of the Nile adlı Mısır devlet nişanı hangi yılda verildi?",
+      "answer": "1999"
+    },
+    {
+      "question": "Notebook of Oculist'in Almanca'ya çevirisini yapan çevirmenler kimlerdir?",
+      "answer": "Hirschberg ve Litter"
+    },
+    {
+      "question": "Ali bin İsa dünyanın çevresini kaç km bulmuştur?",
+      "answer": "40.248km"
+    },
+    {
+      "question": "Asuman Baytop Emekliliğinden sonra neye yöneldi?",
+      "answer": "İstanbul florasına"
+    },
+    {
+      "question": "Pardus’un ilk çalışan ürünün yayımlanma tarihi nedir?",
+      "answer": "1 Şubat 2005"
+    },
+    {
+      "question": "Cavid Erginsoy doktorasını hangi yılda tamamladı?",
+      "answer": "1952"
+    },
+    {
+      "question": "el-Marrākuşī'nin çizelgesi el-Meʾmūn  coğrafyacılarının sonuçlarıyla karşılaştırıldığında kaç derecelik bir düzeltme görülür?",
+      "answer": "8°lik"
+    },
+    {
+      "question": "Altay tankı güç grubunun motor hacmi ne kadardır?",
+      "answer": "26 litre hacminde"
+    },
+    {
+      "question": "Ali bin İsa dünyanın çevresini ne kadar bulmuştur?",
+      "answer": "40.248km"
+    },
+    {
+      "question": "Yasemin İnceoğlu İstanbul Üniversitesi'nde hangi bülümden mezun olmuştur?",
+      "answer": "İngiliz Dili ve Edebiyatı"
+    },
+    {
+      "question": "Hangi organizasyonlara Gümüş sponsorluk ile destek sağlanıp Pardus standı açılmıştır?",
+      "answer": "BİLİŞİM’2014 TBD 31. Ulusal Bilişim Kurultayı ve CITEX’2014 Ankara Bilişim Fuarı"
+    },
+    {
+      "question": "Umran İnan yazdığı 4 ders kitabının 2'sini kiminle yazmıştır?",
+      "answer": "Aziz İnan"
+    },
+    {
+      "question": "Kitab'ul Kamil'in tercümesini kim yapmıştır?",
+      "answer": "Sedilot"
+    },
+    {
+      "question": "Hangi parçaları arasındaki oran aracın gücünü değiştirir?",
+      "answer": "Motor dişlisi ile tekerlek dişlisi arasındaki"
+    },
+    {
+      "question": "Battani yaptığı gözlemler ile neyi keşfetmiştir?",
+      "answer": "Güneş'in dışmerkez kuvvetinin değiştiğini, modern astronomide Dünya'nın Güneş etrafındaki bir eliptik yörünge üzerindeki hareketinin eşitliğini"
+    },
+    {
+      "question": "Kerim Erim'in doktora tezinin adı nedir?",
+      "answer": "Über die Trägheitsformen eines Modulsystems"
+    },
+    {
+      "question": "Emre Kongar' ne zaman Polonya tarafından ödüllendirildi?",
+      "answer": "15 Şubat 1996'da"
+    },
+    {
+      "question": "Darga'nın 1947'de tamamladığı doktora tezinin başlığı nedir? ",
+      "answer": "Muvattaliş Dillerindeki Tanrı Adları Üzerine Araştırmalar"
+    },
+    {
+      "question": "Tebriz'in ticaret merkezi olmasında rol oynayan nedir?",
+      "answer": "İpek yolu üzerinde de yer aldığından"
+    },
+    {
+      "question": "Mehmet Nimet Özdaş hangi kurumun kuruce genel sekreteridir?",
+      "answer": "TÜBİTAK'ın"
+    },
+    {
+      "question": "Jogesh Pati ne alanda çalışmaktadır?",
+      "answer": "teorik fizikçi"
+    },
+    {
+      "question": "Ahmet Cevdet Kozan’a komiserolarak ne zaman gönderildi?",
+      "answer": "1865"
+    },
+    {
+      "question": "Hangi yılda Fransada yapılan bir şiir yarışmasında birinci oldu",
+      "answer": "1938 yılında"
+    },
+    {
+      "question": "Hulusi Behçet Hasköy Cinsel Hastalıkları Hastane'sinden sonra hangi hastaneye geçmiştir? ",
+      "answer": "Vakıf Gureba Hastanesi'ne"
+    },
+    {
+      "question": "Kemalpaşazâde kaç yıl şeyhülislamlık yaptı?",
+      "answer": "8"
+    },
+    {
+      "question": "İbrahim Müteferrika Grammaire Turque den nereye satmıştır?",
+      "answer": "Cizvit Mektebine"
+    },
+    {
+      "question": "İbn Rüşd nerelidir?",
+      "answer": "Endülüslü"
+    },
+    {
+      "question": "Necip Camuşcu'nun TOBB'da rektörlükten önceki görevi nedir?",
+      "answer": "Rektör Danışmanlığı "
+    },
+    {
+      "question": "CubeSat 1U türünden uydu'nun ikinci amacı nedir?",
+      "answer": " üzerinde, düşük 640 x 480 çözünürlüklü bir kamera ile fotoğraf çekmek ve ivmeölçer, manyetometre gibi diğer algılayıcıların verilerini dünyaya yollamaktır."
+    },
+    {
+      "question": "SAGUAR-X5 Yarış sırasında en yüksek ne kadar şarj değeri görülmüştür?",
+      "answer": "15A "
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'ndaki sistemler hangi iki kategoridedir?",
+      "answer": "elektronik ve yazılım bileşenli"
+    },
+    {
+      "question": "Bîrûnî'nin Tahdîdü nihâyâti'l-emâkin eserinin önemli bölümlerini ilk yayımlayan kimdir?",
+      "answer": "Zeki V. Togan"
+    },
+    {
+      "question": "Gediz Akdeniz'in Kara Kefali kitabı ne zaman yayımlanmıştır?",
+      "answer": "2008"
+    },
+    {
+      "question": "el cezerinin kupa saatinde  En  uzun  günde  rakamlarla  başlanılacak  olursa,  en  kısa  günde  sadece  hangi rakam kayıt edilmelidir?",
+      "answer": "180"
+    },
+    {
+      "question": "Google Summer of Code'un misyonu nedir?",
+      "answer": "öğrencilerle staj ve kendini geliştirme imkânı ile tasarılara geliştirici ve katkı sağlama"
+    },
+    {
+      "question": "Hulusi Behçet hastalığı ilk ne zaman tarif edilmiştir? ",
+      "answer": "1937 yılında"
+    },
+    {
+      "question": "Derin Orhon yüksek lisans eğitimini hangi okulda tamamlamıştır?",
+      "answer": "University of California, Berkeley'de "
+    },
+    {
+      "question": "Altay projesinin testleri hangi yılda tamamlanmıştır?",
+      "answer": "2012 yılında"
+    },
+    {
+      "question": "er-Razi’nin muhteşem en son eseri 100 yıl sonra kim tarafından çevrilmiştir?",
+      "answer": "Ferec ben Salim"
+    },
+    {
+      "question": "Mimar Sinan'ın doğduğu Kayseri'de bulunan köyün adı nedir?",
+      "answer": "Ağırnas"
+    },
+    {
+      "question": "Razi'nin Mani dininden esinlendiğini kim iddia etmektedir?",
+      "answer": "Biruni"
+    },
+    {
+      "question": "İbnü’n-Nedîm'in hangi hususlar sebep gösterilerek Şiî-Mu'tezilî olduğu söylenmiştir?",
+      "answer": "Ebu'l-Hasen el-Eş'ârî’yi Cebriyye’den sayması, hoca ve dostları arasında İsmâilî ve Mu'tezilîler’in bulunması gibi hususlar"
+    },
+    {
+      "question": "Hulusi Behçet Leishmaniasis üstüne ilk kez ne zaman çalışmıştır?",
+      "answer": "1923"
+    },
+    {
+      "question": "Feza Günergun hangi yılda doğmuştur?",
+      "answer": "1956 "
+    },
+    {
+      "question": "Ahmed Zevail doktorasını almasından sonra hangi nereden çalışma teklifi almıştır?",
+      "answer": "Caltech"
+    },
+    {
+      "question": "Câbir bin Hayyan Simya alanında nereye büyük oranda  etki etmiştir?",
+      "answer": "Orta Çağ Avrupası"
+    },
+    {
+      "question": "Fuat Sezgin nerede doğmuştur?",
+      "answer": "Bitlis'te"
+    },
+    {
+      "question": " Kenan Erim'in Afrodisias kazılarının başkanlığı görevini yürüttüğü üniversite hangi üniversitedir? ",
+      "answer": " New York Üniversitesi"
+    },
+    {
+      "question": "2012 tarihinde düzenlenen fahri doktora töreninde Prof. Dr. Yunus Söylet'e cübbesini giydiren ve fahri doktora diplomasını takdim eden kişi kimdir?",
+      "answer": "Prof. Velimir Stojkovski"
+    },
+    {
+      "question": "Feza Günergun, M.Sc.Dr. unvanını ne zaman almıştır?",
+      "answer": "1984 yılında"
+    },
+    {
+      "question": "el-Kindi mekan ve hareket hakkında ne fikirdedir?",
+      "answer": "Mekan ve hareketin izafi olduğunu, zamanın cisim ve hareketten ayrı düşünülemeyeceğini söylemiştir."
+    },
+    {
+      "question": "Ahmed Zevail kaç yılında ABD vatandaşı olmuştur?",
+      "answer": "1982"
+    },
+    {
+      "question": "Ebu'l Vefa, ne sahasında özellike trigonometri üzerinde çalışmalar yapmıştır?",
+      "answer": "matematik"
+    },
+    {
+      "question": "Farabi eğitim ve öğretimini hangi iki şehirde tamamlamıştır?",
+      "answer": "Bağdat ve Harran"
+    },
+    {
+      "question": "Fuat Sezgin hangi enstitüde doçent olmuştur?",
+      "answer": "İslam Araştırmaları Enstitüsü'nde"
+    },
+    {
+      "question": "Piri Reisin haritasının diğer kısmına ne olduğuna inanılır?",
+      "answer": "öbür yarısı kayıp"
+    },
+    {
+      "question": "Yönetim ile üniversite ilk olarak kaç yılında anlaşmazlık yaşamıştır?",
+      "answer": "1923"
+    },
+    {
+      "question": "Derin Orhon lisans eğitimini kaç yılında tamamlamıştır?",
+      "answer": "1965 yılında"
+    },
+    {
+      "question": " İbrahim Müteferrika'nın ölümünden sonra matbaada hangi kitap basılmıştır?",
+      "answer": "Vankulu Lûgatı'nın ikinci baskısı"
+    },
+    {
+      "question": " Tübitak'ın vizyonu nedir?",
+      "answer": " Türkiye'de bilim ve teknolojiyi teşvik etme, yönlendirme ve popülerleştirmeyi"
+    },
+    {
+      "question": "Turkcell'in operatör markasıyla çıkarmış olduğu telefonlar kim tarafından üretilmiştir?",
+      "answer": "büyük bir kısmı ZTE tarafından"
+    },
+    {
+      "question": "İbn Kesir’in doğum adı nedir?",
+      "answer": "Ebu'l-Fida İsmail İmadu'd-Din îbn Ömer îbn Kesîr İbn Davud îbn Kesîr el-Dımaşkî el-Kureyşî'"
+    },
+    {
+      "question": "Huneyn bin İshak Galenos’un eserlerini hangi dillere çevirmiştir?",
+      "answer": "Süryanice'ye"
+    },
+    {
+      "question": "İsenbike Togan Sudan’da ne üzerine çalışmalarda bulunmuştur?",
+      "answer": "göçebe kabileler üzerine"
+    },
+    {
+      "question": "Kemalpaşazâde'nin babası kimdir?",
+      "answer": "Süleyman Bey"
+    },
+    {
+      "question": "İsenbike Togan lisans eğitimini kaç yılında tamamlamıştır?",
+      "answer": "1964 yılında"
+    },
+    {
+      "question": "2003 yılında sökülerek Aliağa'ya taşınan fabrika hangisidir?",
+      "answer": "Çanakkale Plastik İşleme Fabrikası sökülerek Aliağa'ya taşındı."
+    },
+    {
+      "question": "Modon Deniz Muharebesini kim kaybetmiştir?",
+      "answer": "Venedik donanması"
+    },
+    {
+      "question": "Ege Tarımsal Araştırma Enstitüsü'nün altındaki bölümlerde neler yapılmaktadır?",
+      "answer": "hem araştırma geliştirme hem de araştırmaları doğrultusunda üretim uygulamaları da yapmaktadır."
+    },
+    {
+      "question": "Takvim ül Buldan hangi tarihte yazılmıştır?",
+      "answer": "1316-1321 tarihleri arasında"
+    },
+    {
+      "question": "Feza Günergun, İstanbul Üniversitesi Bilim Tarihi Müze ve Dokümantasyon Merkezi Yönetim Kurulu üyeliği görevine hangi yılda başlamıştır?",
+      "answer": "1994 "
+    },
+    {
+      "question": "1938 yılında Prof. Dr. Franz Doppler öğretim amacıyla nerede küçük bir odada kurulmuştur?",
+      "answer": "Gümüşsuyu yerleşkesinde"
+    },
+    {
+      "question": "SAGUAR X5’in Formula G 2006'te Araç Numarası neydi?",
+      "answer": " 36"
+    },
+    {
+      "question": "Asım Orhan Barut hangi ödülü almıştır?",
+      "answer": "TÜBİTAK Bilim Ödülü"
+    },
+    {
+      "question": "Enerji üretimi, dağıtımı, ve satışları kaç yılından itibaren TEK tarafından yapılmıştır ?",
+      "answer": "1982"
+    },
+    {
+      "question": "Nedenleri ve Belirtileri Kitabı'nın konusu nedir?",
+      "answer": "terapötik ve patoloji "
+    },
+    {
+      "question": "Şakir Kocabaş hangi yıllar arasında yapay zeka üzerine çalışmıştır?",
+      "answer": "1985-90"
+    },
+    {
+      "question": "Kemal Reis'in Küçük Davut Paşa ile hangi sefere katılmıştır?",
+      "answer": "İnebahtı seferine"
+    },
+    {
+      "question": "Emre Kongar, hangi üniversite bünyesinde sosyoloji dersi verdi?",
+      "answer": " Yıldız Teknik Üniversitesi"
+    },
+    {
+      "question": "Üretilen ilk elektrik enerjisi ile ilk olarak ne yapıldı ?",
+      "answer": "Tarsus'un sokakları aydınlatıldı"
+    },
+    {
+      "question": "Roketsan Cirit hangi araçlar için geliştirilmiştir?",
+      "answer": "T-129 Atak, AH-1P Cobra ve AH-1W Super Cobra saldırı helikopterleri"
+    },
+    {
+      "question": "Tayyare Mektebi bir yıl boyunca kaç pilot yetiştirmekteydi?",
+      "answer": "45 ile 60 pilot"
+    },
+    {
+      "question": "Türkiye'nin ilk yerli ve milli mobil tabanlı arama motoru hangisidir?",
+      "answer": "Yaani"
+    },
+    {
+      "question": "Necip Camuşcu lisansta hangi bölümden mezundur?",
+      "answer": " Makine Mühendisliği"
+    },
+    {
+      "question": "Kupa Saati nin yapılışını kim istemiştir?",
+      "answer": "Sultan el-Salih Ebu el-Feth Mahmud b. Muhammed b. Karaarslan"
+    },
+    {
+      "question": "Uzay Teknolojileri Araştırma Enstitüsü ODTÜ’deki yeni binasına hangi tarihte taşınmıştır?",
+      "answer": "1998"
+    },
+    {
+      "question": "İbn-i Batuta'nın yolundaki en son şehir neydi?",
+      "answer": "Sijilmasa"
+    },
+    {
+      "question": "CERN'ün açılımı nedir?",
+      "answer": "Avrupa Nükleer Araştırma Merkezi"
+    },
+    {
+      "question": "Nazan Aksoy nerede doğmuştur?",
+      "answer": "İstanbul'da"
+    },
+    {
+      "question": "Ebu Hasan Bahmenyar hangi felsefe akımının görkemli temsilcilerinden biridir?",
+      "answer": "Doğu peripatetizmi"
+    },
+    {
+      "question": "Nazariye-i adad kürsüsünü kurup Riyaziyeci Mehmet Nadir Bey’i kürsünün başına getiren kimdir?",
+      "answer": "Öğrencisi Salih Zeki"
+    },
+    {
+      "question": "İTÜpSAT kaç dakikada bir yeryüzünü dönecektir?",
+      "answer": "her 90 dakikada"
+    },
+    {
+      "question": "İbn-i Heysem'in başarılarını duyup onu Mısır'a davet eden Fatimi Devleti hükümdarı kimdir?",
+      "answer": " El-Hakim"
+    },
+    {
+      "question": "İbn-i Heysem ışığın hangi durumda kırılmaya uğrayacağını belirtmiştir ?",
+      "answer": " Heysem ışığın gelme ortamından daha yoğun bir ortamın yüzeyine çarptığında kırılma olacağını söylemiş"
+    },
+    {
+      "question": "Rauf Saygın TÜSAD’da kimlerle çalışmıştır?",
+      "answer": "Prof. Dr. Meliha Terzioğlu ve ileri gelen akademisyenlerle"
+    },
+    {
+      "question": "Arçelik hangi yılda Güney Afrika'nın beyaz eşya üreticisi Defy şirketini almak üzere anlaşmıştır?",
+      "answer": "2011"
+    },
+    {
+      "question": "Pediyatri'nin babası olarak bilinen ünlü bilim insanı kimdir?",
+      "answer": "Razî"
+    },
+    {
+      "question": "Cami’üt-Tevarih’teki destan yazılırken neler kaynak olarak gösterilebilir?",
+      "answer": "halkın hatırında yaşayan rivayetler"
+    },
+    {
+      "question": "Emin Kansu ne zaman Eczacıbaşı Bilim Ödülü’nü kazanmıştır?",
+      "answer": "1987"
+    },
+    {
+      "question": "Kutbeddin Şirazi Kur'an tefsirinin adı nedir?",
+      "answer": "Kuran'ın tefsirine dair Merhametlinin açması"
+    },
+    {
+      "question": "Sencer Ayata 1980 sonrası dönemde hangi kuruluşlarda çalışmıştır?",
+      "answer": "Türkiye Sosyal Ekonomik Siyasi Araştırmalar Vakfı ve Sosyal Demokrasi Derneği"
+    },
+    {
+      "question": "Yusuf Yağcı yüksek lisansını hangi üniversitede yapmıştır?",
+      "answer": "Liverpool Üniversitesi'nde yaptı"
+    },
+    {
+      "question": "Abdülkadir Bağdad’a ne için gitmiştir?",
+      "answer": "tahsil için"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'ndaki sistemler hangi iki kategoridedir?",
+      "answer": "elektronik ve yazılım bileşenli"
+    },
+    {
+      "question": " 1980-84 yılları arasında nerede konuk öğretim üyeliği yaptı?",
+      "answer": "TODAI Sevk ve İdare Yüksek Okulu'nda"
+    },
+    {
+      "question": "İbn Hurdâzbih'in eseri olan Kitab-ül-Mesalik ve'l-Memalik'in adı ne anlama gelir?",
+      "answer": "Yollar ve Ülkeler"
+    },
+    {
+      "question": "Constantinus Africanus’un Ysagoge lohannicii ad tegni Galieni adıyla anılan çevirisi hangi eserdir?",
+      "answer": "Tıbba Giriş eseri"
+    },
+    {
+      "question": "Uzay Teknolojileri Araştırma Enstitüsü’nde hangi alandan mühendisler çalışmaktadır?",
+      "answer": "bilgisayar, elektronik ve endüstri mühendisleri"
+    },
+    {
+      "question": "El-Kanun fi't-Tıbadlı adlı eser kime aittir?",
+      "answer": "İbn-i Sina"
+    },
+    {
+      "question": "Âşıkpaşazâde hangi yılda doğmuştur?",
+      "answer": "yaklaşık 1400 yılında"
+    },
+    {
+      "question": "Kutbeddin Şirazi Bağdat'a hangi yılda gitmiştir?",
+      "answer": "1268"
+    },
+    {
+      "question": "Turkcell Genel Müdürü görevine Süreyya Ciliv sonrasında kim atanmıştır?",
+      "answer": "Kaan Terzioğlu"
+    },
+    {
+      "question": "el Ahkam ala Ebvabi't Tenbih adlı eser kime aittir?",
+      "answer": "İbn Kesir"
+    },
+    {
+      "question": "Cami’üt-Tevarih ın ikinci cildi kim tarafından hangi isimle yayınlanmıştır?",
+      "answer": "Zeki Velidi Togan tarafından \"Oğuz Destanı\" adıyla yayımlanmıştır."
+    },
+    {
+      "question": "el-Fihrist'in ilk basımı için ne zaman çalışılmaya başlanmıştır?",
+      "answer": "1850"
+    },
+    {
+      "question": "Sait Akpınar ilkokula devam ederken aynı zamanda hangi dilde eğitim görmüştür?",
+      "answer": "Fransızca"
+    },
+    {
+      "question": "Tarih ve tabakât yazarlarının İbnü'n-Nedîm'i ve eserini tamamen ihmalinin sebebi ne olmuştur? ",
+      "answer": "muhtemelen Şiî ve Mu‘tezilî olduğu şeklindeki yaygın kanaat sebebiyle"
+    },
+    {
+      "question": "Büşra Ersanlı Liseyi nerede okumuştur ?",
+      "answer": "İstanbul Robert Kolej"
+    },
+    {
+      "question": "İbn Tağrıberdî'nin asıl adı nedir?",
+      "answer": "Yûsuf bin Tagrîberdî bin Abdullah ez-Zâhirî"
+    },
+    {
+      "question": "Arif Nihat Asya 1959 yılında nereye gönderildi?",
+      "answer": "Kıbrıs’a"
+    },
+    {
+      "question": "Demirağ'ın gökokulu günümüzde ne olarak kullanılır?",
+      "answer": "günümüzdeki Atatürk Havalimanı’dır"
+    },
+    {
+      "question": "Cirit füzesi neye karşı kullanılmaktadır?",
+      "answer": "yer hedeflerine karşı kullandığı"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman Türkiye'ye dönerek İstanbul Üniversitesi İktisat Fakültesi'nde öğretim üyesi olarak çalıştı?",
+      "answer": "1957'de"
+    },
+    {
+      "question": "Byaraktar Taktik İHA sisteminde yedekli uçuş kontrol bilgisayarı vardır?",
+      "answer": "3"
+    },
+    {
+      "question": "İbn Ebî Useybia nerede doğmuştur?",
+      "answer": "Şam"
+    },
+    {
+      "question": "Hakkı Ögelman'ın annesinin adı nedir?",
+      "answer": "Vedya Özlem"
+    },
+    {
+      "question": "9. asır başlarında Beyt'ül Hikmetde çalışan ve otomasyon ile alakalı Kitab al-Hiyal adlı kitabı kaleme alanl kardeşler kimlerdir?",
+      "answer": "Beni Musa kardeşler (Musa'nın oğulları) (9. yüzyıl başları)"
+    },
+    {
+      "question": "SAGUAR X5’in kaç motor içeriyor?",
+      "answer": "1"
+    },
+    {
+      "question": "Sabahattin Ali Muallim Mektebi’nin zaman bitirdi?",
+      "answer": "1927"
+    },
+    {
+      "question": "Sinanoğlu'nun eserleri nelerdir?",
+      "answer": "\"Bye Bye Türkçe\""
+    },
+    {
+      "question": "Burhaneddin Berken kaç yılında hangi mektebde muallim muavini oldu?",
+      "answer": "1913 yılında Yüksek Mühendis Mektebi'"
+    },
+    {
+      "question": "Fuat Sezgin hangi tarihte hayatını kaybetmiştir?",
+      "answer": "30 Haziran 2018"
+    },
+    {
+      "question": "Umran İnan hangi yılda Doçent oldu?",
+      "answer": "1985"
+    },
+    {
+      "question": "Sabahattin Ali nerede hüküm giydi?",
+      "answer": "Konya’da"
+    },
+    {
+      "question": "Şakir Kocabaş lise eğitimini nerede almıştır?",
+      "answer": "İstanbul’da "
+    },
+    {
+      "question": "Makina ve Kimya Endüstrisi Kurumu nerelerden sipariş almaktadır?",
+      "answer": "gerek yurt içi, gerekse yurt dışından"
+    },
+    {
+      "question": "Fen alanında Nobel Ödülü kazanan ilk müslüman kimdir?",
+      "answer": "Abdüs Salam"
+    },
+    {
+      "question": "Göktürk-2 uydusunun çözünürlük değerleri nelerdir?",
+      "answer": "2,5 metre siyah-beyaz ve 5 metre renkli çözünürlüğe sahiptir."
+    },
+    {
+      "question": "Benu Musa'nın bitmeyen lambalarına verdikleri ad nedir?",
+      "answer": "Allah lambası"
+    },
+    {
+      "question": "Leksikografik  kaynakları  arasında  Yāḳūt neleri değerlendirmiştir?",
+      "answer": "bölgesel  beşeri  coğrafyaya  ve  matematiksel  coğrafyaya  ilişkin  bir  dizi  eseri  ve  de  seyahatnameleri"
+    },
+    {
+      "question": "Câbir bin Hayyan neyin esasını oluşturmuştur?",
+      "answer": "Kimya'nın"
+    },
+    {
+      "question": "Profilo kim tarafından kurulmuştur?",
+      "answer": "Ünlü Yahudi asıllı Türk iş adamı Jak Kamhi"
+    },
+    {
+      "question": "TOROS-230 roketinin güdüm ve menzil özellikleri nelerdir?",
+      "answer": "güdümsüz orta menzilli"
+    },
+    {
+      "question": "Asuman Baytop kaç bitki örneği topladı?",
+      "answer": "23.000"
+    },
+    {
+      "question": "MAN 630'un ağırlığı ne kadardır?",
+      "answer": "13.000kg"
+    },
+    {
+      "question": "Teo Grünberg kimdir?",
+      "answer": " Türk felsefeci ve yazar"
+    },
+    {
+      "question": "1994 yılında üniversitedeki görevine ne olarak başlamıştır?",
+      "answer": "Yardımcı Doçent"
+    },
+    {
+      "question": "Bilkent Holding AŞ veya Tepe Grubu Şirketleri nerede faaliyet gösterir?",
+      "answer": " Türkiye’de"
+    },
+    {
+      "question": "Çizgi izleyen yarışması kaç etaptan oluşur?",
+      "answer": "üç etaptan oluşur"
+    },
+    {
+      "question": "Evliya Çelebi'nin babasının dedesi hangi padişahın akıncılarındandı?",
+      "answer": "Fatih Sultan Mehmed'in"
+    },
+    {
+      "question": "Emin Mehmed Bey, Mekke payesini ne zaman almıştır?",
+      "answer": "Rebiülâhir 1211 (Ekim 1796) "
+    },
+    {
+      "question": "Nusret Hızır 1934'te İstanbul Üniversitesi'nde kime asistanlık yapmıştır?",
+      "answer": "Hans Reichenbach"
+    },
+    {
+      "question": "Abdülkadir doğduğunda rivayete göre annesi kaç yaşındadır?",
+      "answer": "altmış yaşında"
+    },
+    {
+      "question": "Engin Umut Akkaya  şuan hangi üniversitede öğretim üyeliği yapmaktadır?",
+      "answer": "Bilkent Üniversitesi"
+    },
+    {
+      "question": "Nazan Ersoy İngiliz Dili ve Edebiyatı bölümüne hangi bölümden geçmiştir ?",
+      "answer": "Mühendislik bölümünden"
+    },
+    {
+      "question": "İsfahan'ı yerle bir eden hükümdar kimdir?",
+      "answer": "Timurlenk"
+    },
+    {
+      "question": "Harezminin Doğrusal ve ikinci dereceden denklemleri çözmeye yönelik sistematik yaklaşımıyla cebrin ortaya çıkmasına neden olan kitabının başlığı nedir?",
+      "answer": "Tamamlama ve Dengeleme ile Hesaplama Üzerine Özlü Kitap"
+    },
+    {
+      "question": "Liber pantegni nerede basıldı?",
+      "answer": "Venedik"
+    },
+    {
+      "question": "Harezminin tamamlama ve Dengeleme ile Hesaplama Üzerine Özlü Kitap 820 yılı dolaylarında yazılmış olup ne kitabıdır",
+      "answer": "matematik kitabıdır"
+    },
+    {
+      "question": "Ötüken’in hangi sayılarında  Doğu Anadolu’daki bölücülük ve Kürtçülük hareketleri ile ilgili yazılar yazmıştır ?",
+      "answer": "1967 Nisan - Temmuz sayılarında "
+    },
+    {
+      "question": "Aşık Çelebinin dedeleri nerelidir ?",
+      "answer": "Bağdat'lı"
+    },
+    {
+      "question": "Rodos şövalyeleri tarafından seyehat ve ticareti sekteye uğratılan gemiler hangi gemilerdir?",
+      "answer": "Türk ve Müslüman gemileri"
+    },
+    {
+      "question": "Ali Kuşçu nerede doğdu?",
+      "answer": "Semerkand'da"
+    },
+    {
+      "question": "Abdülkadir halkı irşadının yanı sıra ne için gayret sarfetmiştir?",
+      "answer": "yahudi ve hıristiyanları da hidayete erdirmek"
+    },
+    {
+      "question": "SAGUAR X5’in motor tipi?",
+      "answer": "DC Sabit Mıknatıs"
+    },
+    {
+      "question": "Nazan Aksoy, 1984-2001 yılları arasında hangi üniversitede çalışmıştır?",
+      "answer": "Marmara Üniversitesi Eğitim Fakültesi'nde"
+    },
+    {
+      "question": "Asım Orhan Barut hangi liseden mezun olmuştur?",
+      "answer": "Malatya Lisesi"
+    },
+    {
+      "question": "Beyt el-Hikme'nin tercümanlarının kökeni hakkında ne bilinen nedir?",
+      "answer": "çoğu Arap asıllı değildi."
+    },
+    {
+      "question": "Cavid Erginsoy hangi yılda TÜBİTAK Bilim Kurulu üyesi oldu?",
+      "answer": "1967"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman Kemal Tahir'in önerisiyle başlayarak tamamladığı Asya Üretim Tarzı ve Osmanlı Toplumu adlı çalışması Fransızca, Yunanca dahil birçok dile çevrildi?",
+      "answer": "1967'de"
+    },
+    {
+      "question": "Alarmlı su saati'nin tarifini yapan yazma ne zamana aittir?",
+      "answer": "13. yüzyıl"
+    },
+    {
+      "question": "Fuat Sezgin Almanya hükümeti tarafından Üstün Hizmet Büyük Madalyasına kaç yılında layık görülmüştür?",
+      "answer": "2001"
+    },
+    {
+      "question": "İbnü'n Nedîm hangi bilimle uğraşmıştır?",
+      "answer": "bibliyografya"
+    },
+    {
+      "question": "Ahmed Zevail'in hayatını kaybettiği şehrin adı nedir?",
+      "answer": "Pasadena"
+    },
+    {
+      "question": "Abdullah Atalar Stanford Üniversitesi'nde hangi laboratuvarda çalışmıştır ?",
+      "answer": " Ginzton Laboratuvarları"
+    },
+    {
+      "question": "Hulusi Behçet kaç yılında doğmuştur?",
+      "answer": "1889 "
+    },
+    {
+      "question": "İbnü'n-Nedîm'in kültür çevresini oluşturanlar nasıl insanlardı?",
+      "answer": "Mu‘tezile kelâmcıları ile Fârâbî okulundan yetişen mantıkçılardı"
+    },
+    {
+      "question": "İbn_Bacce nerede vefat etmiştir?",
+      "answer": "Fas"
+    },
+    {
+      "question": "Adana Bilim ve Teknoloji Üniversitesi 2017 Eğitim yılında nerede eğitime devam edecektir ?",
+      "answer": "Sarıçam Kampüsünde"
+    },
+    {
+      "question": "Mustafa İlhan nerede doğmuştur?",
+      "answer": "Yozgat"
+    },
+    {
+      "question": "Gerardo Cremonesse tarafından tercüme edilen tefsir hangi eser üzerine yapılmıştır?",
+      "answer": "Ars Parva"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'nın sivil hava sahasında uçması için nelere sahip olmalıdır?",
+      "answer": "güvenilirlik ve teknik yeterliliğe"
+    },
+    {
+      "question": "AHMED Cevdet Bey  İkdam’ı ne zaman kurdu?",
+      "answer": "1894"
+    },
+    {
+      "question": "ibn tağrıberdi ne tür saray etkinliklerine katılmıştır",
+      "answer": "sarayda düzenlenen çeşitli etkinliklere, av partilerine, bilim adamı ve sanatçıların toplantılarına"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'ndaki elektronik ve yazılımsal sistemlerin hangi özelliği onu ilk yapar?",
+      "answer": "milli ve özgün"
+    },
+    {
+      "question": "Arif Müfid Mansel Side ve Perge kazılarını hangi yıllarda başlatmıştır ?",
+      "answer": "1940’larda"
+    },
+    {
+      "question": "Filiz Balta Peltekoğlu'nun seminer verdiği alanlar hangileridir?",
+      "answer": "Halkla ilişkiler, medya konuları"
+    },
+    {
+      "question": "İhsan Ketin depremlerle ilgili yaptığı çalışmaları 1948 yılında hangi ad ile yayınlamıştır?",
+      "answer": "\"Anadolu Bloku\""
+    },
+    {
+      "question": "Nüzhetü'r-Re‘y fi't-Târîh'in hangi cildi günümüze ulaşmıştır?",
+      "answer": "IX. Cildi"
+    },
+    {
+      "question": "Burhaneddin Berken 1912 senesınde nereden diploma almıştır?",
+      "answer": "Ecole Nationale des Ponts et Chausséesten "
+    },
+    {
+      "question": "SAGUAR X5 proje devamini nasıl sağlanacak",
+      "answer": "üniversitemizde kurulan öğrenci kulüpleri aracılığıyla bu projelerin devamlılığı sağlanacak ve yeni gelen öğrencilere aktarılacaktır"
+    },
+    {
+      "question": "TOBB ETÜ Mesa hastanesini hangi yılda satın almıştır?",
+      "answer": "2010 yılında"
+    },
+    {
+      "question": "Feridüddin Attar hangi dini ilimlerin öğrenimini görmüştür?",
+      "answer": "Arapça, tefsir, hadis, kelam, fıkıh"
+    },
+    {
+      "question": "Câbir bin Hayyan hangi alanlarla ilgilenmiştir",
+      "answer": "fen bilgini; simyacı, kimyacı ve eczacı; fizikçi, astronom ve astrolog; tıp ve fizik tedavi uzmanı; mühendis, coğrafyacı, filozof ve sûfi"
+    },
+    {
+      "question": "Mustafa Behçet Efendi kaç ay sürgünde kalmıştır ? ",
+      "answer": "Onbir"
+    },
+    {
+      "question": "Prof. Dr. Yunus Söylet çocuk cerrahisi kliniğinde kaç yılında çocuk cerrahisi uzmanı olmuştur?",
+      "answer": "1986 yılında"
+    },
+    {
+      "question": "Kamu Maliyesi alanında çalışmış olan Halil Nadaroğlu hangi yabancı dile hakimdir?",
+      "answer": "Fransızca"
+    },
+    {
+      "question": "Fatih Sultan Mehmed kimdir?",
+      "answer": "Şair ve padişahdır."
+    },
+    {
+      "question": "Kara Davud'a neden İzmiti ünvanı verilmiştir?",
+      "answer": "İzmit'de doğduğu için"
+    },
+    {
+      "question": "Alman ordusu kaç yılında Bulgaristan sınırına ilerlemiştir?",
+      "answer": "1943"
+    },
+    {
+      "question": "Turkcell BeST'in hisselerini ne zaman almıştır?",
+      "answer": "2008'de"
+    },
+    {
+      "question": "Umran İnan'ın 2. adı nedir?",
+      "answer": "Savaş"
+    },
+    {
+      "question": "Selman Akbulut hangi alanlarda çalışmıştır?",
+      "answer": "Handlebody teorisi, düşük boyutlu manifoldlar, simplektik topoloji ve G2 manifoldları"
+    },
+    {
+      "question": "Ali bin Abbas , Kitab el-Maliki de hangi sağlık sorunlarını tanımlamıştır?",
+      "answer": " kısmi felç"
+    },
+    {
+      "question": "TÜBİTAK nerede faaliyet yürütmektedir?",
+      "answer": "Türkiye'de"
+    },
+    {
+      "question": "Hoca Sadeddin Efendi, Abdülkadir Geylani’nin hangi eserini Türkçeye tercüme etmiştir?",
+      "answer": "Menakıb"
+    },
+    {
+      "question": "Naci Bengisu hangi yıllarda Türk Oftalmoloji Derneğinde başkanlık yapmıştır ?",
+      "answer": "1953-1962 ve 1968-1970 yıllarında"
+    },
+    {
+      "question": "Fransız Jean Fernel’in birçok belirsizliklere rağmen böylesine şaşırtıcı derecede iyi bir sonuca ulaşması kimi kuşkulandırmıştır?",
+      "answer": "Willebrord Snellius’u"
+    },
+    {
+      "question": "Kutbeddin Şirazi'nin \"Kuran'ın tefsirine dair Merhametlinin açması\" eseri kaç ciltten oluşur?",
+      "answer": "yaklaşık kırk cilt"
+    },
+    {
+      "question": "Sait Akpınar nerede labaratuvar yapmıştır?",
+      "answer": "Uludağ’da "
+    },
+    {
+      "question": "Yavuz Nutku 1979 yılında Boğaziçi Üniversitesine hangi ünvanla gelmiştir?",
+      "answer": "Doçent"
+    },
+    {
+      "question": "Halil İnalcık ne zaman ölmüştür?",
+      "answer": "25 Temmuz 2016 tarihinde saat 19.10'da"
+    },
+    {
+      "question": "Sait Akpınar doktora çalışmalarını hangi akademisyen ile yapmıştır?",
+      "answer": "Prof. Dr. R.W Phol ile"
+    },
+    {
+      "question": "Gerçekleştiği zamana kadar bilinmeyen dördüncü dereceden denklemlerin çözümünü kim yapmıştır?",
+      "answer": "Ebu'l Vefa"
+    },
+    {
+      "question": "Şakir Kocabaş hangi üniversite ve fakültede okumuştur?",
+      "answer": "İTÜ Kimya Metalurji Fakültesi"
+    },
+    {
+      "question": "Berna Moran’a armağan edilen yayında hangi yazarlar yer almıştır?",
+      "answer": "Orhan Pamuk, Jale Parla, Murat Belge, Fatih Özgüven gibi yazarlar"
+    },
+    {
+      "question": "İbn Tağrıberdî nerelidir?",
+      "answer": "Mısırlı "
+    },
+    {
+      "question": "Emre Kongar'ın annesinin mesleği nedir?",
+      "answer": "felsefe öğretmenliği"
+    },
+    {
+      "question": "Feza Günergun, Türk Bilim Tarihi Kurumu Genel Sekreterliği görevine hangi yılda başlamıştır?",
+      "answer": "1989 "
+    },
+    {
+      "question": "harezminin şehirlere ait 2402 adet koordinatın listesini ve coğrafi özellikleri içeren kitabının ismi?",
+      "answer": "Dünyanın Tanımı Kitabı"
+    },
+    {
+      "question": "Türksat 3A hangi şirketler ortaklığında fırlatılmıştır ? ",
+      "answer": "Türksat A.Ş. ile Fransız iletişim sirketi Thales Alenia Space"
+    },
+    {
+      "question": "SAGUAR X5'i kim tasarlamıştır?",
+      "answer": "Sakarya Üniversitesi öğrencileri"
+    },
+    {
+      "question": "Kaan Terzioğlu Turkcell Genel Müdürü görevine ne zaman başlamıştır?",
+      "answer": "26 Mart 2015"
+    },
+    {
+      "question": "Sabancı Üniversitesi'nin kuruluş yılı nedir?",
+      "answer": "1994"
+    },
+    {
+      "question": "Ahmed Zevail'in kaç çocuğu vardır?",
+      "answer": "dört"
+    },
+    {
+      "question": "İbn Tağrıberdî ne zaman ölmüştür?",
+      "answer": " 5 Haziran 1470"
+    },
+    {
+      "question": "Burhaneddin Berkan Türkiyede hangi laboratuvarların kurulmasında emeği geçmiştir?",
+      "answer": "su laboratuvarlarının"
+    },
+    {
+      "question": "İhraç edilen ürünlerin standartlara uygunluğunun en önemli aşaması nedir ?",
+      "answer": "üretim sırasında ve sonrasında yapılan ölçümlerin uluslararası geçerliliğinin sağlanması"
+    },
+    {
+      "question": "TCG Anadolu ne zaman göreve başlayacaktır?",
+      "answer": "2021 yılında"
+    },
+    {
+      "question": "leishmania olgusunda görülen \"çivi belirtisini\" ilk defa kim tanımlamıştır ? ",
+      "answer": "Dr. Behçet"
+    },
+    {
+      "question": "Hibetallāh b. el-Hüseyn el-Bedīʿ el-Asṭurlābī kaç yılında ölmüştür?",
+      "answer": "534/1140"
+    },
+    {
+      "question": "Tepe Grubu tarafından Akfen Grubu ile ortak olarak 1997 yılında kurulan firmanın adı nedir?",
+      "answer": "TAV Havalimanları A.Ş."
+    },
+    {
+      "question": "İsenbike Togan doktorasının ardından Türkiye’de hangi üniversitede çalışmıştır?",
+      "answer": "Hacettepe Üniversites"
+    },
+    {
+      "question": "Ömer Hayyam nasıl bir toplum içinde felsefe ile ilgilenebilmiştir?",
+      "answer": "Felsefeyi günah saymayan bir toplum içinde"
+    },
+    {
+      "question": "Ahmed Zevail hangi tür kimyanın öncülerindendir?",
+      "answer": "femtokimyanın"
+    },
+    {
+      "question": "Uluğ Bey'in medresesinde kim başkanlık yapmıştır?",
+      "answer": "Kadızade Rumi"
+    },
+    {
+      "question": "Nevşehirli Damat İbrahim Paşa'nın Paris'e elçi olarak gönderdiği kişi kimdir?",
+      "answer": "Yirmisekiz Mehmed Çelebi"
+    },
+    {
+      "question": "Sencer Divitçioğlu nerede doğmuştur?",
+      "answer": "İstanbul"
+    },
+    {
+      "question": "Cirit füzesinin sahip olduğu başlıklardan çok maksatlı olanın sahip olduğu etkiler nelerdir?",
+      "answer": "yangın çıkarıcı anti personel ve parçacık etkisi"
+    },
+    {
+      "question": "Arif Nihat Asya Kastamonu Sultanisi’nden sonra nereye girdi?",
+      "answer": "İstanbul Darülmuallimin-i Aliye’sine"
+    },
+    {
+      "question": " el-Cezerī’nin  tarifine göre, el cezerinin kupa saatindeki diskte  bir yay 180 uzaklık geceye nerede tekabül eder?",
+      "answer": "devamlı  gündüz  yayında"
+    },
+    {
+      "question": "Ne zaman profesör olmuştur?",
+      "answer": " 1963'te"
+    },
+    {
+      "question": "Bahsedilen kişi Padua'ya dönüşünde yanında neler götürmüştür?",
+      "answer": "birçok  Arapça  kitap"
+    },
+    {
+      "question": "Sait Akpınar'ın kurduğu labaratuvar nerenin ilk kozmik ışın araştırmaları labaratuvarıdır?",
+      "answer": "Türkiye’nin ve Ortadoğu’nun"
+    },
+    {
+      "question": "Asuman Baytop'un Türkiye florasına kazandırdıkları nelerdir?",
+      "answer": "yeni 8 tür ve 3 alttür"
+    },
+    {
+      "question": "İhsan Karaman'ın kaç adet uluslararası atfı vardır?",
+      "answer": "700'ü aşkın"
+    },
+    {
+      "question": "Paket yöneticisi uygulaması nedir?",
+      "answer": "Pisi paketlerini çizgelik arayüzünden kolayca kurmak için kullanılabilen bir uygulamadır."
+    },
+    {
+      "question": "Koç Üniversitesi bünyesindeki öğrencilerin sosyal ve akademik yaşamlarında rahat edebilmeleri için sağladığı imkan nedir?",
+      "answer": "bir akran destek grubuna dahil edilir"
+    },
+    {
+      "question": "Profesyonel yatırımının maliyeti kaç milyon Dolardır?",
+      "answer": "120 milyon"
+    },
+    {
+      "question": "Nijer Nehri'nin kaynağı olarak haritada neresi görülmektedir?",
+      "answer": "Nijer Nehri'nin kaynağı olarak, Sahra Çölü'nde görünen göller vardır."
+    },
+    {
+      "question": "Başarıları sonrası Ebu'l Fida'ya hangi ünvanlar verilmiştir?",
+      "answer": "Hama emirliği ve Malik ül Müeyyed"
+    },
+    {
+      "question": "Miller dünya haritasının hangi şekilde olması gerektiğine inanmıştır?",
+      "answer": "dikdörtgen"
+    },
+    {
+      "question": "Latin dünyasında bazı Avrupa şehirlerinin koordinat çizelgesini genişletmeye yönelik en eski deneme ne zaman yapılmıştır?",
+      "answer": "12 yüzyılın sonuna doğru"
+    },
+    {
+      "question": "Havâdisü'd-Duhûr fî Mede'l-Eyyâm ve'ş-Şuhûr içinde hangi yıldan itibaren olaylara yer verilmiştir?",
+      "answer": "1436 "
+    },
+    {
+      "question": "er-Râzî'nin kitabında belirttiği Latince adı Cannatum olan cam kabın özelliği nedir?",
+      "answer": "ruhları çözmek"
+    },
+    {
+      "question": "Ali bin İsa hangi dine mensuptur?",
+      "answer": "Müslüman "
+    },
+    {
+      "question": "Dr. Oğurlu`nun yurtiçi ve yurtdışında yayınlanmış kaç tane kitabı bulunmaktadır?",
+      "answer": "yedi adet kitap"
+    },
+    {
+      "question": "Dünya haritası neyden yapılmıştır?",
+      "answer": "Gümüşten"
+    },
+    {
+      "question": "Oyalı koyunu nerede dünyaya gelmiştir?",
+      "answer": "İstanbul Üniversitesi Veteriner Fakültesi Dölerme ve Suni Tohumlama Ana Bilim Dalı’nda"
+    },
+    {
+      "question": "İbn Fadlan'ı konu alan The Roof of the World dizisi hangi yılda yayınlanmıştır?",
+      "answer": "2007"
+    },
+    {
+      "question": "Hoca Sadeddin Efendi ne zamandan itibaren devlet işlerinde etkili olmuştur?",
+      "answer": "1574 yılında III. Murad'ın tahta çıkması ile"
+    },
+    {
+      "question": "Akpınar 1961-69 yılları arasında ne görevi yapmıştır?",
+      "answer": "Çekmece Nükleer Araştırma ve Eğitim Merkezi Müdürlüğü"
+    },
+    {
+      "question": "İbn Kesir nerede vefat etmiştir?",
+      "answer": "Şam'da"
+    },
+    {
+      "question": "Abay nerelerde okumuştur?",
+      "answer": "hem medreseye hem Rus usülü mektebe"
+    },
+    {
+      "question": "Kerim Erim kaç yılında doğmuştur?",
+      "answer": "1894"
+    },
+    {
+      "question": "Mimarlık Fakültesinin kaçtan fazla mezunu vardır?",
+      "answer": "10000"
+    },
+    {
+      "question": "Fahreddin er-Râzî'nin özellikle ilgilendiği pozitif bilim dalı nedir?",
+      "answer": "fizik"
+    },
+    {
+      "question": "2015 yılında yapılan testlerde isabet oranı nedir?",
+      "answer": "%100 isabet"
+    },
+    {
+      "question": "Ömer Hayyam ne kadar iyi bir matematikçiydi?",
+      "answer": "çok iyi bir matematikçiydi"
+    },
+    {
+      "question": "Ahmet Cevdet Paşa'nın zamanın politik olaylarını ele aldığı eserinin ismi nedir?",
+      "answer": "“Tezâkir-i Cevdet”"
+    },
+    {
+      "question": "Umran İnan yazdığı 4 ders kitabının 2'sini kiminle yazmıştır?",
+      "answer": "Aziz İnan"
+    },
+    {
+      "question": "Şükrullah ne zaman vefat etmiştir?",
+      "answer": "1488 yılında"
+    },
+    {
+      "question": "Kan damar enflamasyonunun diğer adı nedir ?",
+      "answer": "vaskülit"
+    },
+    {
+      "question": "Cavid Erginsoy hangi yılda TÜBİTAK Bilim Ödülü'nü almıştır?",
+      "answer": "1967"
+    },
+    {
+      "question": "Boğaziçi Üniversitesi'nin eski adı nedir?",
+      "answer": "Robert Kolej"
+    },
+    {
+      "question": "Farabi kaç yılında doğmuştur?",
+      "answer": "870"
+    },
+    {
+      "question": "Ülkü Azrak neden emekli olmuştur ?",
+      "answer": " yaş haddinden"
+    },
+    {
+      "question": "İTÜ Güneş Arabası Ekibi kim tarafından kurulmuştur?",
+      "answer": "İTÜ Elektrik Mühendisliği bölümü öğrencileri tarafından"
+    },
+    {
+      "question": "Times Higher Education'ın World University Rankings sıralamasındaki en genç Türk üniversitesi hangisidir?",
+      "answer": "TOBB ETÜ"
+    },
+    {
+      "question": "Işığın kırılması konusunu ilk olarak gerçekleştiren kişi kimdir ?",
+      "answer": "Ptolemaios "
+    },
+    {
+      "question": "Uzay Teknolojileri Araştırma Enstitüsü ODTÜ’deki yeni binasına hangi tarihte taşınmıştır?",
+      "answer": "1998"
+    },
+    {
+      "question": "Erdem dergisi hangi kurum tarafından çıkarılmıştır?",
+      "answer": "Atatürk Kültür Merkezi"
+    },
+    {
+      "question": "Türksat 4A hangi konumdan uzaya fırlatılmıştır ?",
+      "answer": "Kazakistan’ın Baykonur Uzay Üssü"
+    },
+    {
+      "question": "Mukaddime kimin eseridir?",
+      "answer": "İbn-i Haldun’un"
+    },
+    {
+      "question": "Asım Akin kaç yılında doğmuştur",
+      "answer": "1940"
+    },
+    {
+      "question": "İbn-i Batuta Kastilya kralının nasıl bir akıbetiyle karşılaştı?",
+      "answer": "vebadan öldüğü"
+    },
+    {
+      "question": "Prof. Dr. Yunus Söylet orta öğrenimini kaç yılında nerede tamamlamıştır?",
+      "answer": "İstanbul Erkek Lisesi'nde 1974 yılında"
+    },
+    {
+      "question": "eş-Şifâ adlı büyük aklî ilimler ansiklopedisi hangi bilim adamına aittir?",
+      "answer": "İbn Sînâ"
+    },
+    {
+      "question": "Dünyanın ilk çevrim içi 11 e 11 futbol oyununun adı nedir ?",
+      "answer": "I Can Football"
+    },
+    {
+      "question": "Aziz Sancar kimlerle birlikte Nobel Kimya Ödülü'ne layık görülmüştür?",
+      "answer": "Amerikalı Paul Modrich ve İsveçli Tomas Lindahl ile birlikte"
+    },
+    {
+      "question": "Turkcell hangi firmaların telefonlarını kendi markası altında satmaktadır?",
+      "answer": "ZTE ve Huawei"
+    },
+    {
+      "question": "Harezmî kaç yılında doğmuştur?",
+      "answer": "780"
+    },
+    {
+      "question": "Bîrûnî'nin Hârizm sarayında kaç yaşında görev almıştır?",
+      "answer": "Yirmi iki"
+    },
+    {
+      "question": "Bahaüddin Amilî çocuk yaşta gittiği ülke neresidir?",
+      "answer": "Safevi İran'ı"
+    },
+    {
+      "question": "İTÜ Fuat Külünk Yüksek Gerilim Laboratuvarı neye aittir?",
+      "answer": "İstanbul Teknik Üniversitesi bünyesinde Gümüşsuyu yerleşkesinde yer alan elektrik elektronik fakültesine ait"
+    },
+    {
+      "question": "Ebu'l Fida öldükten sonra yerine kim gelmiştir?",
+      "answer": "Efdal Muhammed"
+    },
+    {
+      "question": "Türksat A.Ş.'deki hak ve yetkiler hangi kurum kullanılmaktadır ?",
+      "answer": "Ulaştırma Bakanlığı"
+    },
+    {
+      "question": "bu saatte hareket ettirici güç nedir?",
+      "answer": "ağırlık"
+    },
+    {
+      "question": "Notlarda \"Antilya\" olarak değinilen yer neresidir?",
+      "answer": " Karayipler"
+    },
+    {
+      "question": "Bursalı Kadızade Rumi nerede müderrislik yaptı?",
+      "answer": "Uluğ Bey'in 1417'de inşa etttirmeye başladığı medresede "
+    },
+    {
+      "question": "Muhibbe Darga'nın Bossert başkanlığında yer aldığı keşif kazıları nerede yapılmıştır?",
+      "answer": "Karatepe (Adana)"
+    },
+    {
+      "question": "Bîrûnî ünlü Tahdîdü nihâyâti'l-emâkin adlı eserini hangi şehirde yazmıştır?",
+      "answer": "Gazne"
+    },
+    {
+      "question": "crysis warhead pc-özel oyunu olarak ne zaman piyasaya çıktı",
+      "answer": "12 Eylül 2008"
+    },
+    {
+      "question": "İbn Battuta neden kadı seçildi?",
+      "answer": "Mekke'de görmüş olduğu öğrenim nedeniyle"
+    },
+    {
+      "question": "Darülfünun'da hangi tarihlerde ders vermiştir?",
+      "answer": "1908- 1909 yıllarında"
+    },
+    {
+      "question": "El-biruni kitabı hangi gelenekten yararlanmaktadır?",
+      "answer": "yabancı  kültürleri  ve  dinleri  tanımaya  yönelik  bir  anlayış  geleneğinden"
+    },
+    {
+      "question": "Câbir bin Hayyan Kimya'da hangi kavramı ortaya atmıştır",
+      "answer": "Baz kavramı"
+    },
+    {
+      "question": "Sait Faik babasının isteği üzerine nereye gitmiştir?",
+      "answer": "İsviçre’ye"
+    },
+    {
+      "question": "Dr. Hasan Aydın'a göre Memun dönemi tercüme faaliyetleri arkasında hangi sebepler yatar?",
+      "answer": "gittikçe genişleyen imparatorluğun ihtiyaçlarını, İran asıllı annelerden doğan Abbasi halifelerinin Helenistik ve diğer kültürlere ilgisi, vezirlerin yabancı kökenli Bermeki ailseinden oluşu ve mevali aydınların kültürel miraslarının kaybolmasını engelleme ve Arapça'da yaşatma istekleri"
+    },
+    {
+      "question": "Büşra Ersanlı ne kadar süre hapiste kalmıştır?",
+      "answer": "9 ay"
+    },
+    {
+      "question": "1932-1935 yılları arasında yayımladığı Kadro dergisi ile ne yapmaya çalıştı",
+      "answer": "Kemalizmi sistemli bir ideoloji haline getirmeye"
+    },
+    {
+      "question": "Evliya Çelebi, gördüğü rüyada hangi ilde geçmektedir?",
+      "answer": "İstanbul"
+    },
+    {
+      "question": "Türkiye hangi yılda 255 tane Panter teslim almıştır?",
+      "answer": "2012"
+    },
+    {
+      "question": "Akşemseddin'in, fethin ilk Cuma namazını kıldırmasını kim istemiştir?",
+      "answer": "II. Mehmed"
+    },
+    {
+      "question": "Battanî'nin lakabı nedir?",
+      "answer": " es-Sabi'dir "
+    },
+    {
+      "question": "KORAL'ı hangi kimler geliştirmiştir?",
+      "answer": "Ana yüklenici Aselsan olup 50 alt yüklenici ile birlikte geliştirilmiştir"
+    },
+    {
+      "question": "Şakir Kocabaş 1970 yılında hangi İTÜ fakültesinden mezun olmuştur?",
+      "answer": "Kimya ve Metalurji"
+    },
+    {
+      "question": "Ptoleme Coğrafya’sının Yunanca’dan Latince’ye çevirisinin  ilk baskısı hangi yılda yapılmıştır?",
+      "answer": "(1477)"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı testte kaç adet füze atmıştır?",
+      "answer": "2 adet"
+    },
+    {
+      "question": "Yasemin İnceoğlu hangi gazetenin Yayın Kurulu üyesidir?",
+      "answer": "Aujourd'hui la Turquie gazetesi"
+    },
+    {
+      "question": "Hakkı Ögelman'ın üçüncü evliliğinden doğan oğlunun adı nedir?",
+      "answer": "Roberto"
+    },
+    {
+      "question": "Ali Cevan 1955 yılında Townes ile birlike ne üzerinde çalıştı?",
+      "answer": "atomik saat"
+    },
+    {
+      "question": "Ali bin İsa dünyanın çevresini kimle beraber ölçmüştür ?",
+      "answer": "Halid bin Abdülmelik"
+    },
+    {
+      "question": "Koç Üniversitesi'nde ki internet verici sayısı kaçtır?",
+      "answer": "63 tane"
+    },
+    {
+      "question": "Ayten Arcasoy kaç yılında fakülteden mezun olmuştur?",
+      "answer": "1953"
+    },
+    {
+      "question": "Engin Umut Akkaya hangi yılda doğmuştur?",
+      "answer": "1961"
+    },
+    {
+      "question": "Evliya Çelebi'nin sarayda geçirdiği dönemde IV. Murad'ın beğenisini nasıl kazanmıştır?",
+      "answer": " zeka ve güzel konuşma kabiliyeti sayesinde "
+    },
+    {
+      "question": "Jili ne anlama gelir?",
+      "answer": "Gilan"
+    },
+    {
+      "question": "Ebu Abdallah Muhammed b. İbrahim er-Rakkam hangi dönemde faaliyet göstermiştir?",
+      "answer": "Nasiriler döneminde"
+    },
+    {
+      "question": "Seydi Ali Reis’in 34 parçalık Portekiz donanmasıyla savaşı hangi şehrin yakınlarında gerçekleşmiştir?",
+      "answer": "Maskat "
+    },
+    {
+      "question": "dilhan eryurt goddard enstitüsünde yaptığı çalışmalar ile hangi yanlış bilinen gerçeği ortaya koydu",
+      "answer": "Güneş'in parlaklığının oluşumundan bu yana gittikçe artmadığını, geçmişte çok daha parlak ve sıcak olduğunu ortaya koydu"
+    },
+    {
+      "question": "Erol Tümertekin İstanbul ile ilgili çeşitli coğrafi konularda kaç eser yayımlamıştır?",
+      "answer": "4 ayrı kitap ve 23 makale"
+    },
+    {
+      "question": "Super libri introductionum Porphyrii adlı eserin İngilizce çevirisi kim tarafından yayımlanmıştır?",
+      "answer": "Herbert A. Davidson"
+    },
+    {
+      "question": "Taktik İnsansız Hava Aracı Sistemi Geliştirme programında rekabet usulü ne demektir?",
+      "answer": "herhangi bir Ar-Ge desteği olmaksızın"
+    },
+    {
+      "question": "Yarışlarda kullanılabilecek çeşitli akü tipleri nedir?",
+      "answer": "ityum-İyon, Lityum Polimer, Ni-Cd, Ni-Mh ve Kurşun-Asid"
+    },
+    {
+      "question": "Evliya Çelebi, Şeyhülislam Hamit Efendi Medresesi'nden sonra devam ettiği okul neresidir?",
+      "answer": "Enderun"
+    },
+    {
+      "question": "Büşra Ersanlı lisans eğitimini nerede tamamlamıştır?",
+      "answer": "Boğaziçi Üniversitesi'nde"
+    },
+    {
+      "question": "Mühendishane’i Bahri Hümayun'da Türk Resim Sanatının başlangıcı sayılan kuşak hangi adla nitelendirilmişlerdir?",
+      "answer": "Asker Ressamlar Kuşağı"
+    },
+    {
+      "question": "Fuat Sezgin, J.W.Goethe Üniversitesi'ne bağlı Arap-İslam Bilimleri Tarihi Müzesi'ni kaç yılında kurmuştur?",
+      "answer": "1983'te"
+    },
+    {
+      "question": "Notebook of Oculist'in Almanca çevirisi ne zaman yapılmıştır?",
+      "answer": "1904 yılında"
+    },
+    {
+      "question": "Kenan Tevfik Erim'in ölüm tarihi nedir? ",
+      "answer": "3 Kasım 1990"
+    },
+    {
+      "question": "Aziz Sancar nerede fotoliyaz enzimi çalışmalarına ara verip nükleotid kesim onarımı araştırmalarına başlamıştır?",
+      "answer": "Yale Üniversitesi Tıp Fakültesi'nde"
+    },
+    {
+      "question": "Fuat Sezgin, Şarkiyat Enstitüsü'nde hangi alanlarda öğrenim görmüştür?",
+      "answer": "İslami bilimler ve orientalistik"
+    },
+    {
+      "question": "Biruni hangi eserinde Razi'nin dini görüşlerini eleştirir?",
+      "answer": "Risale"
+    },
+    {
+      "question": "İbn_Bacce nerede doğmuştur?",
+      "answer": "Zaragoza"
+    },
+    {
+      "question": "Nijer Nehri'nin kaynağı olarak haritada neresi görülmektedir?",
+      "answer": "Nijer Nehri'nin kaynağı olarak, Sahra Çölü'nde görünen göller vardır."
+    },
+    {
+      "question": "Güneş arabalarında neden DC motorları kullanılmaktadır?",
+      "answer": "verimi daha yüksek olduğu için ve aküden çıkacak doğru gerilimle çalışabildiği için"
+    },
+    {
+      "question": "İbn-i Batuta'nın Mekke'de kalırken hizmetine girmeye karar verdiği kişi kimdir?",
+      "answer": "Delhi Sultanı"
+    },
+    {
+      "question": "İstanbul Üniversitesi Gözlemevinin ne gibi amaçları vardır?",
+      "answer": "Gerek yurt dışından alınan gerekse İstanbul Üniversitesi Gözlemevi'nde elde edilen verileri kullanarak ve gerekli bilgisayar programlarını yazarak araştırmalar yapıp yayınlamak"
+    },
+    {
+      "question": "İsenbike Togan Hacettepe Üniversitesinde çalışırken yurtdışındaki araştırmalarına hangi kurumda devam etmiştir?",
+      "answer": "Harvard Orta Doğu Çalışmaları Merkezi'nde"
+    },
+    {
+      "question": "Derin Orhon kaç yılında doğmuştur?",
+      "answer": "1942'de"
+    },
+    {
+      "question": "Mustafa Şekip Tunç mülkiyeden ne zaman mezun olmuştur ?",
+      "answer": " İkinci Meşrutiyet’in ilanından bir gün önce"
+    },
+    {
+      "question": "ÇAAM nerede bulunmaktadır ?",
+      "answer": "Çanakkale merkezine 10km uzaklıkta \"Radar Tepesi\" nin güney yamacında Ulupınar Köyü'ne yakın bir bölgede, 410 m yükseklikte"
+    },
+    {
+      "question": "Abdus Salam Nobel Fizik Ödülünü hangi çalışması sayesinde almıştır?",
+      "answer": " elektrozayıf etkileşim ile ilgili çalışma"
+    },
+    {
+      "question": "Ahmed Cevdet Paşa kaç yılında müderris olarak İstanbul camilerinde ders vermeyi elde etti ?",
+      "answer": "1845 yılı"
+    },
+    {
+      "question": "Ülkü Azrak'ın ?",
+      "answer": "2000"
+    },
+    {
+      "question": "SAGUAR X5’in motorun Tepe Gücü kaç?",
+      "answer": "10 Beygir"
+    },
+    {
+      "question": "Mustafa Behçet Efendi ‘nin mesleği nedir?",
+      "answer": "Osmanlı saray  hekimi"
+    },
+    {
+      "question": "İlk matbaanın ismi nedir?",
+      "answer": "Darü't-Tıbâati'l Amire"
+    },
+    {
+      "question": "Ali Kuşçu hayatının son kaç yılını İstanbul’da Osmanlı Devleti hizmetinde geçirmiştir",
+      "answer": "iki"
+    },
+    {
+      "question": "Baykar ne geliştirdi? ",
+      "answer": "Türkiye’nin yazılımı ve donanımı tamamen yerli ilk sinyal istihbarat cihazını "
+    },
+    {
+      "question": "SAGUAR X5’in yüksekliği kaç?",
+      "answer": "Standart 70cm,Tepe 110cm"
+    },
+    {
+      "question": "Kandilli Rasathanenisinin 2015 tarihinden itibaren kim genel müdür görevindedir?",
+      "answer": "Prof. Dr. Haluk Özener"
+    },
+    {
+      "question": "Çalışmalar sonucu hazırlanan F klavye ilk olarak nereye sunulmuştur?",
+      "answer": "Devlet Malzeme Ofisine"
+    },
+    {
+      "question": "Hibetallāh b. el-Hüseyn el-Bedīʿ el-Asṭurlābī kaç yılında ölmüştür?",
+      "answer": "534/1140"
+    },
+    {
+      "question": "Ahmet Arif Ergin hangi tarihler arasında TÜBİTAK başkanlığı yapmıştır?",
+      "answer": "12 Haziran 2015 - 22 Şubat 2018"
+    },
+    {
+      "question": "Altay projesinin modüler zırh paketini kim üretecektir?",
+      "answer": "Roketsan"
+    },
+    {
+      "question": "Abdullah Mahir Büyükpamukçu'nun ölümü kaç yılındadır?",
+      "answer": "ölümü 11 Nisan 1997"
+    },
+    {
+      "question": "Anıtsal Tören Kapısı Kenan Erim ölmeden ne kadar zaman önce bitirilmiştir?",
+      "answer": "3 hafta"
+    },
+    {
+      "question": "Türkiye toplamda kaç panter teslim alacaktır?",
+      "answer": "400"
+    },
+    {
+      "question": "İbn Tağrıberdî nerelidir?",
+      "answer": "Mısırlı"
+    },
+    {
+      "question": "Altay Projesinin hangi tarihte proje ana yüklenicisi seçilmiştir?",
+      "answer": "30 Mart 2007'de"
+    },
+    {
+      "question": "Ribera ve Farmer’ın  Arap müzisyenlerin uygulamalarına  hem de etno- müzikolojinin kültür-antropolojik problemlerine çok fazla vakıf olmadıklarını söyleyen kimdir?",
+      "answer": "Eva Ruth Perkuhn"
+    },
+    {
+      "question": "İbn-i Heysem çalıştığı eserlerde hangi fiziksel görüngülere ilişkin kuramları geliştirmiştir?",
+      "answer": " Gölge, tutulma olayları ve gökkuşağı"
+    },
+    {
+      "question": "Piri Reis' i kim yetiştirmiştir?",
+      "answer": "amcası Kemal Reis"
+    },
+    {
+      "question": "HAVELSAN'ın merkezi nerededir?",
+      "answer": "Ankara"
+    },
+    {
+      "question": "Mehmet Nadir Bey 1915 yılında hangi okula atandı ?",
+      "answer": "Darülfünun"
+    },
+    {
+      "question": "Besim Atalay kimden icazet almıştır?",
+      "answer": "Hacı Ahmed Ef.’den"
+    },
+    {
+      "question": "Taghaza'daki altınlar hangi ülkede yapılanlardı?",
+      "answer": "Mali"
+    },
+    {
+      "question": "WGO'nun türkçe açılımı nedir",
+      "answer": "Dünya Gastroenteroloji Örgütü"
+    },
+    {
+      "question": "Bursalı Kadızade Rumi 1407 yılında neden yola çıkmıştır?",
+      "answer": " Molla Fenari'nin ziyaret etmesini önerdiği Buhara ve Semerkant şehirlerini görmek için"
+    },
+    {
+      "question": "Aydın Sayılı nasıl vefat etmiştir?",
+      "answer": "sokakta kalp krizi geçirerek"
+    },
+    {
+      "question": "Halil İnalcık'ın çalışma alanı nedir?",
+      "answer": "kültür ve medeniyet tarihi"
+    },
+    {
+      "question": "Emre Kongar'ın okuduğu üniversite bölümü nedir?",
+      "answer": "Maliye ve İktisat Bölümü"
+    },
+    {
+      "question": "Tüm daktilo makinelerinin F klavyeye dönüştürülmesi hangi kanuna eklenmiştir?",
+      "answer": "Gümrükler Kanunu'na"
+    },
+    {
+      "question": "SAGUAR X5’in şasi tipi nedir?",
+      "answer": "Al-Gr"
+    },
+    {
+      "question": "Türksat A.Ş'nin hisseleri hangi kuruluşa aittir ? ",
+      "answer": "Hazine Müsteşarlığı"
+    },
+    {
+      "question": "TAI Sivrisinek'te kullanılan Cirit adlı füze kaç km menzillidir?",
+      "answer": "8"
+    },
+    {
+      "question": "İhsan Ketin hangi üniversitede jeoloji eğitimine başlamıştır?",
+      "answer": "Berlin Üniversitesi'nde"
+    },
+    {
+      "question": "Zaman terazisinin sahibi Abdurrahman el-Hazini elimizde bulunan eserlerde ne olarak bilinmektedir?",
+      "answer": "fizikçi"
+    },
+    {
+      "question": "İbn Kesir ne zaman meşhur Eşrefiyye Dâr'ul Hadis'i hocalığına geçmiştir?",
+      "answer": "Subki'nin ölümünden sonra"
+    },
+    {
+      "question": "İbn-i Batuta Mekke'de kaldıktan sonra yaptığı iş ne oldu?",
+      "answer": "ikinci büyük yolculuğuna hazırlandı"
+    },
+    {
+      "question": "Hoca Sadeddin Efendi, Abdülkadir Geylani’nin hangi eserini Türkçeye tercüme etmiştir?",
+      "answer": "Menakıb"
+    },
+    {
+      "question": "Günümüzdeki hangi okullar Mühendishane’i Bahri Hümayun’un bünyesinden çıkmıştır?",
+      "answer": "İstanbul Teknik Üniversitesi ve Deniz Harp Okulu"
+    },
+    {
+      "question": "Hangi alanlara çalışmaya yönlendirmektedir ?",
+      "answer": "Nükleer Bilimler ve Teknoloji Alanlarında"
+    },
+    {
+      "question": "Kutbeddin Şirazi \"dîbâc en iyi taç incisi\" kitabını kime ithaf etmiştir?",
+      "answer": "Batı Gilanın hakimi Filşah bin Rüstemşah oğlu emir dîbâc"
+    },
+    {
+      "question": "Çengelhan Rahmi M. Koç Müzesi hangi ilçede yer almaktadır?",
+      "answer": "Altındağ"
+    },
+    {
+      "question": "Şemseddin Semerkandi hangi eserinde muhakeme yöntemini tartışmıştır?",
+      "answer": "Risâle fi adab al-bahth"
+    },
+    {
+      "question": "Ahmet Cevdet Paşa Mecelle'nin on altıncı kitabını ne zaman tamamladı ?",
+      "answer": "1876"
+    },
+    {
+      "question": "Uluğ Bey kaç nerede doğmuştur?",
+      "answer": "Sultaniye"
+    },
+    {
+      "question": "Fergani'nin Mısır'a gönderilme nedeni nedir ?",
+      "answer": "Nil kıyısındaki ölçümleri yapabilmek için"
+    },
+    {
+      "question": "Ahmet Arif Ergin hangi tarihler arasında TÜBİTAK başkanlığı yapmıştır?",
+      "answer": "12 Haziran 2015 - 22 Şubat 2018"
+    },
+    {
+      "question": "Yunus Söylet hangi dilleri bilmektedir?",
+      "answer": "İngilizce ve Almanca"
+    },
+    {
+      "question": "Hakkı Ögelman ilk eşinden kaç yılında ayrıldı?",
+      "answer": "1977"
+    },
+    {
+      "question": "İbni Bacce zihninde nasıl ütopya kurmuştur?",
+      "answer": "her fert sağlıklı bir yaşam sürmekte etrafındakilere güçlü sevgi bağlarıyla bağlanmıştır."
+    },
+    {
+      "question": "Kara Harp Okulunda hangi tip subay yetiştirilmektedir?",
+      "answer": "piyade, tank, topçu, hava savunma, kara havacılık, istihkam, muhabere, ulaştırma, ikmal, bakım, personel, maliye ve harita sınıflarından subay yetiştirilmektedir"
+    },
+    {
+      "question": "4283 sayılı yasa Yap-İşlet modeline uygun olarak ne için yayınlanmıştır ?",
+      "answer": "yeni üretim tesislerinin yapımı için"
+    },
+    {
+      "question": "el cezerinin kupa saatinde  kapağın  daire  çevresinde  hareket    etmekte olan cisim nedir? ",
+      "answer": "Hâkkedilmiş  bir  galeri  (şurfa)"
+    },
+    {
+      "question": "Turkcell TV+ nedir?",
+      "answer": "bilgisayar, tablet, telefon ve televizyondan izlenebilen, internet üzerinden yayın yapan dijital TV platfromudur"
+    },
+    {
+      "question": "Erol Tümertekin’in \"Türkiye’de İç Göçler\" adlı kitabının özelliği nedir?",
+      "answer": "yalnız coğrafyada değil, Türkiye’deki sosyal bilimlerde bu konudaki kitap çapındaki ilk çalışmalardan biridir"
+    },
+    {
+      "question": "İbn Tağrıberdî'nin ölümü neden kaynaklanmıştır?",
+      "answer": "kulunç hastalığından"
+    },
+    {
+      "question": "Necip Camuşcu kimdir?",
+      "answer": " Türk bilim insanı"
+    },
+    {
+      "question": "Abdullah Mahir Büyükpamukçu nerede doğmuştur?",
+      "answer": "Diyarbakır"
+    },
+    {
+      "question": "Halil İnalcık Ankara Üniversitesi'nin hangi fakültesinde görev almıştır?",
+      "answer": "Dil ve Tarih-Coğrafya Fakültesi’nde"
+    },
+    {
+      "question": " Menahem Hodara'nın Bahriye Merkez Hastanesi'ndeki görevi nedir? ",
+      "answer": "emraz-i cildiye (deri) ve zühreviye (Cinsel yolla bulaşan hastalıklar) hekimi"
+    },
+    {
+      "question": "AHMED Cevdet Bey  zamanının en önemli gazetesi nedir?",
+      "answer": " İkdam"
+    },
+    {
+      "question": "SOCRAT'ın açılımı nedir?",
+      "answer": "Solar Car Racing Team"
+    },
+    {
+      "question": "Bayraktar Taktik İnsansız Hava Aracı'na bulunan kontrol bilgisayarı hariç diğer bilgisayar nedir?",
+      "answer": "görev bilgisayarı"
+    },
+    {
+      "question": "Fahira Battalgazi Şam'da gördüğü orta öğretimi nerede yapmıştır?",
+      "answer": "Bezmi Alem Lisesi'nde"
+    },
+    {
+      "question": "Ahmed Ağaoğlu orta öğrenimininden sonra nereye gitmiştir?",
+      "answer": "Paris’e gitti"
+    },
+    {
+      "question": "Abbas Vesim Efendi hangi bilim üzerine eğitim almıştır ?",
+      "answer": "tıp eğitimi"
+    },
+    {
+      "question": "Proje kapsamında milli olan tasarımlar nelerdir?",
+      "answer": "platform, elektronik donanım ve yazılım"
+    },
+    {
+      "question": "Hulusi Behçet ne zaman serbest çalışmaya başlamıştır?",
+      "answer": "Türkiye'ye döndükten sonra"
+    },
+    {
+      "question": "Nusret Hızır hangi düşünürlerin yapıtlarını Türkçe'ye çevirmiştir?",
+      "answer": "Erasmus, Leibniz, Nietzsche"
+    },
+    {
+      "question": "Feza Günergun hangi tarihte yardımcı doçent olmuştur?",
+      "answer": "1987 "
+    },
+    {
+      "question": "Bir dönem bulunduğu Hindistan’da sayıları ifade etmek için harfler ya da heceler yerine basamaklı sayı sisteminin kullanıldığını saptanan tanınmış kişi kimdir?",
+      "answer": "Harezmi"
+    },
+    {
+      "question": "Ali bin İsa dünyanın çevresini kimle birlikte ölçmüştür?",
+      "answer": " Abdülmelik ile birlikte"
+    },
+    {
+      "question": "Uygulanan metotta Akdeniz ve Karadeniz kaç kareye bölünmüştür?",
+      "answer": "1200"
+    },
+    {
+      "question": "Yusuf Yağcı'nın kaç tane patenti vardır?",
+      "answer": "5 patenti"
+    },
+    {
+      "question": "el-Menhelü's-Sâfî ve'l-Müstevfî Ba‘de'l-Vâfî kaç ciltlik bir eserdir?",
+      "answer": "yedi ciltlik eserdir"
+    },
+    {
+      "question": "Ebu'l Vefa el-Buzcani'nin doğduğu yer neresidir?",
+      "answer": "İran'da bulunan Buzgan kasabası"
+    },
+    {
+      "question": "Oktay Sinanoğlu'nun çözdüğü Hilbert uzayının topolojisi ve içerdiği yüksek simetrileri hangi mekanikte bulunur?",
+      "answer": "Kuantum mekaniği"
+    },
+    {
+      "question": "HAVELSAN bir ilke imza atarak ne tür bir simülatör geliştirmiştir?",
+      "answer": "pilot uçuş eğitim simülatörü"
+    },
+    {
+      "question": "Mekteb-i Erkan-ı Harbiye'de ne için muvakkaten öğretime son verilmiştir?",
+      "answer": "İstiklâl Savaşı'na katılmak üzere Anadolu’ya geçtikleri için"
+    },
+    {
+      "question": "İbn-i Heysem'in ışık hakkındaki uygulamalı düşüncesini 17. yüzyyılda tekrarlayan bilim insanı kimdir?",
+      "answer": " Kepler"
+    },
+    {
+      "question": "cüneyt budak üniversitede hangi bölümü okumuştur",
+      "answer": " Mimarlık Bölümü"
+    },
+    {
+      "question": "Vamık Volkan hangi yıl mezun oldu ?",
+      "answer": "1956"
+    },
+    {
+      "question": "Sencer Divitçioğlu ne zaman  Paris Üniversitesi'nde konuk profesör olarak dersler verdi?",
+      "answer": "1983 yılında"
+    },
+    {
+      "question": "Volitan kaç deniz mili ile gece gündüz sürekli yolculuk yapabilmektedir?",
+      "answer": "18-20"
+    },
+    {
+      "question": "Türkiye Matematik Derneği Ankara'da hangi yılda kurulmuştur?",
+      "answer": "1999'da"
+    },
+    {
+      "question": "Türk Hava Kuvvetleri envanterine 2008 yılı itibariyle giren insansız uçaklar nelerdir?",
+      "answer": "Turna-g"
+    },
+    {
+      "question": "Dilhan Eryurt hangi kurumda çalışarak tek kadın astronom oldu?",
+      "answer": "Goddard Uzay Araştırma Ensitütüsü"
+    },
+    {
+      "question": "el cezerinin kupa saatinde en kısa güne eden yay hangi yaydır?",
+      "answer": " en  iç "
+    },
+    {
+      "question": "21 kasım 2009'da yapılan Gastro 2009 Kongresi nerede yapılmıştır",
+      "answer": "Londra'da"
+    },
+    {
+      "question": "Umran İnan doktorasını hangi alanda aldı?",
+      "answer": "Jeofizik ve Çok düşük frekans Radyo Bilimi"
+    },
+    {
+      "question": "dilhan eryurt kanada'da kim ile çalışmıştır",
+      "answer": "Prof. Dr. Alastari G. W. Cameron"
+    },
+    {
+      "question": "2000 Yılından Sonra Kurulan Üniversiteler Genel Sıralaması'nı URAP ne zaman yapmıştır?",
+      "answer": "2013"
+    },
+    {
+      "question": "Gazete yazarlığına kaç yılında  başlamıştır ?",
+      "answer": " 1913"
+    },
+    {
+      "question": "Necip Camuşcu nerelidir?",
+      "answer": "Türk "
+    },
+    {
+      "question": "Mīzān el-Ḥikme1 kimin eseridir?",
+      "answer": "Abdurraḥmān el-Ḫāzinī"
+    },
+    {
+      "question": "İbn-i Yunus'un şöhreti hangi sebeple bu denli yayılmıştır ?",
+      "answer": "İbn-i Yunus 978 yılında Kahire'de yaptığı astronomi gözlemler neticesinde ay ve güneş tutulmalarını en ince hesaplarla tespit etmesiyle şöhreti yayıldı. "
+    },
+    {
+      "question": "Evliya Çelebi yılı olarak bilinen yıl hangi yıldır? ",
+      "answer": "2011 yılı"
+    },
+    {
+      "question": "İbn-i Cübeyr'in ölümü nasıl gerçekleşmiştir?",
+      "answer": "üçüncü bir hac yolculuğuna daha çıktı ve bu seyahatinde İskenderiye'den ilerisine gidemedi ve orada öldü"
+    },
+    {
+      "question": "Takiyyeddin efendinin diğer saatlerden gayrı alakadar olduğu konu nedir?",
+      "answer": "su ve kumun yanında başka bir hareket düzeneği"
+    },
+    {
+      "question": "2014 yılında gerçekleşen uçuş testinde çıktığı irtifa ne kadardır?",
+      "answer": "27,030"
+    },
+    {
+      "question": "Pardus’un Google Summer of Code'a katıldığı yıllar nelerdir?",
+      "answer": "2008 ve 2009"
+    },
+    {
+      "question": "el-Hasan b. Muhammed el-Vezzan’ın Afrika kitabında toplam kaç yer tanıtılmaktadır ?",
+      "answer": "400"
+    },
+    {
+      "question": "Altay projesinin güç grubu üretim sürecinin ne kadar sürmesi planlanmaktadır?",
+      "answer": "54 ay "
+    },
+    {
+      "question": "Rauf Saygın TÜSAD’da hangi görevleri üstlenmiştir?",
+      "answer": " ilk yönetim kurulunda ikinci başkan olarak görev almıştır"
+    },
+    {
+      "question": "el-Muradî'nin tasarladığı bu otomat ne tür bir saate benzemektedir?",
+      "answer": "su saati"
+    },
+    {
+      "question": "Hayatı ve tarihçiliğini anlattığı söyleyişi kitabının ismi nedir?",
+      "answer": "Tarihçilerin Kutbu Halil İnalcık Kitabı"
+    },
+    {
+      "question": "Evliya Çelebi 'nin kabri hangi mezarlıktadır?",
+      "answer": "Meyyit Mezarlığı"
+    },
+    {
+      "question": "Hangi halife 861 yılında Fergânî'yi Mısır'a göndermiştir?",
+      "answer": "Halife Mütevekkil"
+    },
+    {
+      "question": "Feza Günergun profesör ünvanını kaç yılında almıştır?",
+      "answer": "1998 "
+    },
+    {
+      "question": "Salih Zeki hayatını nerede kaybetmiştir?",
+      "answer": "Fransız Hastanesi’nde"
+    },
+    {
+      "question": "SAGUAR X5’in batarya tipi nedir?",
+      "answer": " Ni-Mh"
+    },
+    {
+      "question": "Namaz pusulasının orijinali nerede bulunur?",
+      "answer": "Köln’deki  Rautenstrauch-Joest-Museum  für  Völkerkunde  müzesinde"
+    },
+    {
+      "question": "SAGUAR X5’in yüksekliği kaç?",
+      "answer": "Standart 70cm,Tepe 110cm"
+    },
+    {
+      "question": "Ali bin İsa Orta Çağ Avrupası'nda ne olarak bilinirdi?",
+      "answer": "Jesu Occulist"
+    },
+    {
+      "question": "Engin Umut Akkaya hangi üniversiteden diploma almıştır?",
+      "answer": "Orta Doğu Teknik Üniversitesi"
+    },
+    {
+      "question": "Asuman Özdağlar yaptığı hangi çalışmalarla tanınmaktadır?",
+      "answer": "oyun ve optimizasyon teorisi üzerine yaptığı araştırma ve çalışmalarıyla"
+    },
+    {
+      "question": "TOBB ETÜ 2004-2005 eğitim-öğretim yılında açtığı fakülteler hangileridir?",
+      "answer": "Mühendislik Fakültesi, İktisadi ve İdari Bilimler Fakültesi, Fen Edebiyat Fakültesi"
+    },
+    {
+      "question": "Bilkent Üniversitesi'ne mali kaynak sağlama ve bu noktada meydana gelen sorunların çözümü için nasıl bir yol izlenmiştir?",
+      "answer": "Fabrikanın kurulumu oldukça zorlu geçti. Çünkü fabrikanın makinelerinin yurtdışından gelmesi gerekiyordu, fakat Türkiye'deki döviz kıtlığı, üretim tesislerinin kurulmasını imkansız hale getiriyordu. Buna karşın, İhsan Doğramacı, yurtdışında bulunan döviz rezervlerini arkadaşlarının kullanımına açar ve onları anlaşmaları yapmak üzere Almanya'ya yollanır. Yapılan pazarlıklarla makine alımları tamamlanır."
+    },
+    {
+      "question": "cihan yurdaydın Dünya Gastroenteroloji Örgütü genel sekreterliğine hangi yılda seçildi",
+      "answer": "2009"
+    },
+    {
+      "question": "Havâdisü'd-Duhûr fî Mede'l-Eyyâm ve'ş-Şuhûr içinde hangi yıldan itibaren olaylara yer verilmiştir?",
+      "answer": "1436 "
+    },
+    {
+      "question": "Ne zaman bir yenileme ve güçlendirme geçirmiştir?",
+      "answer": "1945 yılında"
+    },
+    {
+      "question": "Ss. Cyril and Methodius Üniversitesi'nde Rektör Prof. Velimir Stojkovski tarafından fahri doktorasını Aziz Sancar hangi tarihte almıştır?",
+      "answer": "7 Aralık 2012 tarihinde"
+    }
+  ],
+  "validation": []
+}
