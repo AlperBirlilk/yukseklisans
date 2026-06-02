@@ -1,0 +1,9 @@
+http://huggingface.co/datasets/ytu-ce-cosmos/gsm8k_tr nin soruları üzerinde çalışınız.
+Bir soru için üretilen 10 cevabın 2’lilerini oluştur. Bu 2 lilerin her biri için ortalama doğruluk ve benzerlik değerleriyle 2 koordinatını elde et. 
+X ekseni cevapların birbirinden farklılığı, Y ekseni doğruluğu göstermek üzere, mükemmel yer: sağ üst. 
+
+Base model için ve aşağıdaki eğitimler yapıldıktan sonraki her bir model için, bu noktaların dağılımı hangi yöne doğru ilerliyor? Bu grafiği, hem eğitimde kullanılan sorular için hem de test soruları için oluşturunuz. Eğitim en az 1000, test en az 500 sorudan oluşmalıdır. Grafiğin anlaşılabilir olması için maksimum çaba sarf ediniz.
+SFT, multiSFT, GRPO, SFT+GRPO, multiSFT+GRPO
+Base modelden SFT eğitimi ile en az %10, SFT + GRPO eğitim ile en az %20 doğruluk  artışı olacak şekilde base model, hiperparametre seçiniz. Özetle, eğitimleriniz işe yarıyor olmalı. 
+SFT çözümlerini db den hazır almayınız, gpt-oss-120b vb. gibi modellerle elde ediniz. 
+Base model olarak https://huggingface.co/Qwen/Qwen3.5-4B kullanabilirsiniz.
