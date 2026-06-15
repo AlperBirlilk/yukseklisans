@@ -1,0 +1,3728 @@
+{
+  "data": [
+    {
+      "original_id": 776,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "For the reaction 2H2(g) + O2(g) -> 2H2O(l), delta-H = -572 kJ/mol. Which statement about thermal energy is correct?",
+      "choices": [
+        "Energy is released to the surroundings.",
+        "Energy is absorbed from the surroundings.",
+        "Energy flows from products to reactants.",
+        "No energy transfer occurs."
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 507,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "A point (x,y) is chosen uniformly from [0,2]x[0,2]. What is P(x+y<2)?",
+      "choices": [
+        "1/4",
+        "1/2",
+        "3/4",
+        "1"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 895,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "A gas occupies 4.0 L at 3.0 atm. If it expands against a constant external pressure of 1.0 atm to 10.0 L, what is the work done by the gas?",
+      "choices": [
+        "-6.0 L atm",
+        "+6.0 L atm",
+        "-4.0 L atm",
+        "+12.0 L atm"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 922,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "In a titration, five samples required 20.1, 19.9, 20.0, 20.2, and 28.5 mL of NaOH. What most likely explains the outlier?",
+      "choices": [
+        "Wrong indicator used",
+        "Indicator added too late",
+        "An acid contaminated the beaker",
+        "A base contaminated the beaker"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 483,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "Today is Friday. What day will it be 3^(3^3) days from now?",
+      "choices": [
+        "Sunday",
+        "Monday",
+        "Tuesday",
+        "Wednesday"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 354,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "A fair coin is flipped 8 times. P(at least 6 heads)?",
+      "choices": [
+        "9/256",
+        "37/256",
+        "37/128",
+        "9/64"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 523,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Ball thrown horizontally at 20 m/s from 45m cliff. Horizontal distance? (g=10)",
+      "choices": [
+        "20 m",
+        "40 m",
+        "60 m",
+        "80 m"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 809,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is a catalyst in a reaction mechanism?",
+      "choices": [
+        "A species consumed and not regenerated",
+        "A species consumed in one step and regenerated in another",
+        "A transition state species",
+        "A product of the rate-determining step"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 418,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "A shipment of 30 items has 6 defective. If 4 are chosen randomly, what is P(exactly 2 defective)?",
+      "choices": [
+        "0.188",
+        "0.254",
+        "0.312",
+        "0.165"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 615,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Charges +4 uC each, 0.4m apart. Distance reduced to 0.1m. Force ratio new/old?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "32"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 682,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Wavelength of electron at v=10^6 m/s: h=6.63e-34, m=9.11e-31?",
+      "choices": [
+        "7.3e-10 m",
+        "7.3e-11 m",
+        "3.6e-10 m",
+        "1.5e-9 m"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 49,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "How many subgroups does Z_8 have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 450,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "Evaluate integral from 0 to 2 of (x^2+1)dx.",
+      "choices": [
+        "10/3",
+        "8/3",
+        "14/3",
+        "4"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 350,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Arithmetic sequence with a1=5, d=4. Sum of first 8 terms?",
+      "choices": [
+        "96",
+        "104",
+        "152",
+        "160"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 476,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "How many elements of order 3 does Z_9 have?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "6"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 554,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "3 kg cart at 5 m/s collides inelastically with 2 kg stationary cart. Final velocity?",
+      "choices": [
+        "1 m/s",
+        "2 m/s",
+        "3 m/s",
+        "5 m/s"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 630,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "6 kg block pushed by 30 N over frictionless 4 m. Final KE?",
+      "choices": [
+        "60 J",
+        "120 J",
+        "180 J",
+        "240 J"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 797,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which element has ground-state config [Ne]3s2 3p5?",
+      "choices": [
+        "S",
+        "Cl",
+        "Ar",
+        "P"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 496,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "What is 5^200 mod 7?",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 596,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Wave 400 Hz, v=320 m/s. Wavelength?",
+      "choices": [
+        "0.4 m",
+        "0.8 m",
+        "1.25 m",
+        "1.6 m"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 772,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which molecule has polar bonds but nonpolar geometry?",
+      "choices": [
+        "HCl",
+        "H2O",
+        "BF3",
+        "NH3"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 174,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "System: 3x-y=5 and x+2y=8. Find x.",
+      "choices": [
+        "2",
+        "3",
+        "18/7",
+        "4"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 150,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "LCM of 15 and 20?",
+      "choices": [
+        "60",
+        "40",
+        "30",
+        "5"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 741,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "0.3 kg ball at 5 m/s hits wall, bounces at 5 m/s. Impulse magnitude?",
+      "choices": [
+        "0 N*s",
+        "1.5 N*s",
+        "3 N*s",
+        "6 N*s"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 965,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Ksp of BaSO4 = 1.1e-10. What is its molar solubility in pure water?",
+      "choices": [
+        "1.05e-5 M",
+        "1.1e-10 M",
+        "2.1e-5 M",
+        "5.5e-11 M"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 763,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Box falls 20m in vacuum. KE just before impact (m=1kg, g=10)?",
+      "choices": [
+        "100 J",
+        "150 J",
+        "200 J",
+        "250 J"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 221,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "3x+5=20. Value of 9x-7?",
+      "choices": [
+        "38",
+        "28",
+        "40",
+        "37"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 581,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Cyclist from rest, a=2 m/s^2. Distance in 8 s?",
+      "choices": [
+        "32 m",
+        "64 m",
+        "128 m",
+        "16 m"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 299,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Committee of 4 from 5 men and 3 women. P(at least 2 women)?",
+      "choices": [
+        "3/7",
+        "4/7",
+        "11/14",
+        "3/14"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 638,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "5 kg block, mu_k=0.3, pushed by 25 N. Acceleration? (g=10)",
+      "choices": [
+        "2 m/s^2",
+        "3 m/s^2",
+        "5 m/s^2",
+        "8 m/s^2"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 364,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Smallest positive integer n with n^(1/4) an integer?",
+      "choices": [
+        "4",
+        "8",
+        "16",
+        "64"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 879,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "In Fe+CuSO4->FeSO4+Cu, which species is oxidized?",
+      "choices": [
+        "Cu2+",
+        "Fe",
+        "SO4^2-",
+        "Cu"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 202,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "If 5x-3=22, value of 10x+4?",
+      "choices": [
+        "45",
+        "50",
+        "54",
+        "58"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 1,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "G=Z_18, H=<6>={0,6,12}. Order of G/H?",
+      "choices": [
+        "3",
+        "6",
+        "9",
+        "18"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 896,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "How many moles of CO2 are produced when 88 g of C3H8 (MW=44) burns completely?",
+      "choices": [
+        "2 mol",
+        "4 mol",
+        "6 mol",
+        "8 mol"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 891,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which has the largest atomic radius?",
+      "choices": [
+        "F",
+        "N",
+        "O",
+        "C"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 792,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "A radioactive sample has half-life 20 yr. After 80 yr, what fraction remains?",
+      "choices": [
+        "1/4",
+        "1/8",
+        "1/16",
+        "1/32"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 177,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Rolling 5 dice. P(all odd)?",
+      "choices": [
+        "1/32",
+        "1/16",
+        "1/8",
+        "1/4"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 842,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "How many structural isomers does C5H12 have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 909,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "How many mL of 3.0 M HCl are needed to make 300 mL of 0.20 M HCl?",
+      "choices": [
+        "15 mL",
+        "20 mL",
+        "25 mL",
+        "30 mL"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 210,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Smallest n s.t. sqrt(n) is integer and n>50?",
+      "choices": [
+        "51",
+        "64",
+        "81",
+        "100"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 34,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "What is the characteristic of Z_5 x Z_5?",
+      "choices": [
+        "0",
+        "5",
+        "10",
+        "25"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 928,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which has strongest intermolecular forces?",
+      "choices": [
+        "CH4",
+        "C2H6",
+        "C3H8",
+        "CH3CH2OH"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 944,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which of the following is a Lewis acid?",
+      "choices": [
+        "NH3",
+        "H2O",
+        "BF3",
+        "OH-"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 959,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the oxidation state of Mn in KMnO4?",
+      "choices": [
+        "+ 5",
+        "+6",
+        "+7",
+        "+8"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 934,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which orbital has the highest energy in a many-electron atom?",
+      "choices": [
+        "3d",
+        "4s",
+        "4p",
+        "5s"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 28,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "The kernel of a ring homomorphism f: R->S is?",
+      "choices": [
+        "An ideal of R",
+        "A subring of R",
+        "An ideal of S",
+        "A field"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 316,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "2 kg cart at 6 m/s collides and sticks with stationary 4 kg cart. Final velocity?",
+      "choices": [
+        "1 m/s",
+        "2 m/s",
+        "3 m/s",
+        "4 m/s"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 560,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Block 4 kg, 15 N force, mu_k=0.25, g=10. Acceleration?",
+      "choices": [
+        "1.25 m/s^2",
+        "2.5 m/s^2",
+        "3.75 m/s^2",
+        "5 m/s^2"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 241,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Block 8 kg pushed 5 m by 40 N over frictionless floor. Final KE from rest?",
+      "choices": [
+        "100 J",
+        "200 J",
+        "300 J",
+        "400 J"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 949,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Electronegativity generally increases in which direction on the periodic table?",
+      "choices": [
+        "Down a group, left to right",
+        "Up a group, right to left",
+        "Down a group, right to left",
+        "Up a group, left to right"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 877,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which gas law relates pressure and temperature at constant volume?",
+      "choices": [
+        "Boyle's Law",
+        "Charles's Law",
+        "Gay-Lussac's Law",
+        "Avogadro's Law"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 788,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "A weak acid has Ka=1.0e-5. What is the pKa?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 799,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which substance is a Bronsted-Lowry base?",
+      "choices": [
+        "HCl",
+        "H2SO4",
+        "NH3",
+        "HNO3"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 920,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the hybridization of carbon in CO2?",
+      "choices": [
+        "sp3",
+        "sp2",
+        "sp",
+        "sp3d"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 393,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "5 students chosen from group of 7. How many ways?",
+      "choices": [
+        "12",
+        "21",
+        "35",
+        "42"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 680,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Electron impinges on crystal with d=0.2 nm. At which angle is 1st-order Bragg diffraction if lambda=0.1 nm?",
+      "choices": [
+        "14.5 deg",
+        "30 deg",
+        "45 deg",
+        "90 deg"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 490,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "Let f(z) be entire and bounded. Then f is?",
+      "choices": [
+        "A polynomial",
+        "Constant",
+        "Periodic",
+        "Zero"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 256,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "How many real roots: 3x^5+5x-2=0?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 740,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Particle E=4 GeV, p=3 GeV/c. Rest mass energy?",
+      "choices": [
+        "1 GeV",
+        "sqrt(7) GeV",
+        "sqrt(16-9)=sqrt(7) GeV",
+        "2 GeV"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 612,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Disk radius 0.2m, starts rest, angular acceleration 3 rad/s^2. Angular velocity after 5s?",
+      "choices": [
+        "15 rad/s",
+        "10 rad/s",
+        "6 rad/s",
+        "3 rad/s"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 969,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the conjugate base of H2PO4-?",
+      "choices": [
+        "H3PO4",
+        "HPO4^2-",
+        "PO4^3-",
+        "H2PO4^2-"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 816,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which of the following is a product of the alpha decay of Ra-226?",
+      "choices": [
+        "Rn-222",
+        "Rn-226",
+        "Ra-222",
+        "Fr-222"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 489,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "For random variable X on positive integers with P(X=n)=1/2^n, E[X]=?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 251,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the area of a triangle with base 8 and height 5?",
+      "choices": [
+        "20",
+        "40",
+        "13",
+        "80"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 653,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Velocity of man on elevator accelerating up: normal force is?",
+      "choices": [
+        "Less than weight",
+        "Equal to weight",
+        "Greater than weight",
+        "Zero"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 769,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which type of isomers have the same connectivity but different spatial arrangements?",
+      "choices": [
+        "Constitutional isomers",
+        "Stereoisomers",
+        "Structural isomers",
+        "Resonance structures"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 342,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is 25% of 240?",
+      "choices": [
+        "48",
+        "54",
+        "60",
+        "72"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 136,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "How many diagonals does a hexagon have?",
+      "choices": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 88,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Statement 1: Every finite integral domain is a field. Statement 2: Z is a field.",
+      "choices": [
+        "True,True",
+        "False,False",
+        "True,False",
+        "False,True"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 178,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "A square has perimeter 48. What is its area?",
+      "choices": [
+        "96",
+        "120",
+        "144",
+        "168"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 26,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Find all zeros of x^2+1 in Z_5.",
+      "choices": [
+        "No zeros",
+        "2 and 3",
+        "1 and 4",
+        "0 and 1"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 697,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Capacitor C1=3uF and C2=6uF in series, charged to 12V. Charge on each?",
+      "choices": [
+        "24 uC",
+        "36 uC",
+        "72 uC",
+        "12 uC"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 50,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "The group Z_2 x Z_2 x Z_2 has order?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 774,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which spectral line series for hydrogen falls in the visible range?",
+      "choices": [
+        "Lyman",
+        "Balmer",
+        "Paschen",
+        "Brackett"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 840,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the pH of a 0.001 M NaOH solution at 25C?",
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 29,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Statement 1: Every free abelian group is torsion-free. Statement 2: Q under addition is a free abelian group.",
+      "choices": [
+        "True,True",
+        "False,False",
+        "True,False",
+        "False,True"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 5,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "What does it mean for a subgroup H to be normal in G?",
+      "choices": [
+        "H is abelian",
+        "gHg^{-1}=H for all g in G",
+        "H has prime order",
+        "H is cyclic"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 926,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which subatomic particle has negligible mass?",
+      "choices": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Quark"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 752,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Electron at 0.5c. Kinetic energy in units of rest mass energy?",
+      "choices": [
+        "0.155 m_e c^2",
+        "0.5 m_e c^2",
+        "0.25 m_e c^2",
+        "0.75 m_e c^2"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 191,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "A number increased by 40% gives 84. What is the original number?",
+      "choices": [
+        "50",
+        "55",
+        "60",
+        "65"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 4,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Which of the following groups is cyclic?",
+      "choices": [
+        "S_3",
+        "D_4",
+        "Z_12",
+        "Klein four-group"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 20,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Polynomial x^3-2 is irreducible over Q by?",
+      "choices": [
+        "Eisenstein with p=3",
+        "Eisenstein with p=2",
+        "Rational root theorem",
+        "Degree argument"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 64,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "What is the number of automorphisms of Z_8?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 411,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "The curve x=cos(t), y=sin(t) for 0<=t<=2pi is?",
+      "choices": [
+        "A spiral",
+        "An ellipse",
+        "A unit circle",
+        "A parabola"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 301,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the GCD of 48 and 72?",
+      "choices": [
+        "12",
+        "16",
+        "24",
+        "36"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 333,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "The median of {3,7,2,9,5} is?",
+      "choices": [
+        "5",
+        "7",
+        "4.5",
+        "3"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 810,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "How many neutrons does carbon-14 have?",
+      "choices": [
+        "6",
+        "7",
+        "8",
+        "14"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 804,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which gas law states P1V1=P2V2 at constant T?",
+      "choices": [
+        "Charles's Law",
+        "Boyle's Law",
+        "Gay-Lussac's Law",
+        "Avogadro's Law"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 360,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Solve for x: sqrt(x+4)=6.",
+      "choices": [
+        "8",
+        "16",
+        "32",
+        "40"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 172,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Evaluate: C(10,3)?",
+      "choices": [
+        "120",
+        "60",
+        "210",
+        "30"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 318,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "A number is tripled and then decreased by 5. Result is 22. Find the number.",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 180,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the product of (x+3)(x-3)?",
+      "choices": [
+        "x^2+9",
+        "x^2-9",
+        "x^2+6x+9",
+        "x^2-6x+9"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 557,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "A charge +Q creates potential V at distance r. At distance 3r, potential is?",
+      "choices": [
+        "V/3",
+        "V/9",
+        "3V",
+        "V"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 10,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Statement 1: Every homomorphic image of G is isomorphic to a quotient of G. Statement 2: Every subgroup of an abelian group is normal.",
+      "choices": [
+        "True,True",
+        "False,False",
+        "True,False",
+        "False,True"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 199,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Bacteria double every 3 hours. Starting with 100, how many after 12 hours?",
+      "choices": [
+        "400",
+        "800",
+        "1600",
+        "1200"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 534,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "A 10 kg object hangs from two ropes at 45 degrees each. Tension in each rope?",
+      "choices": [
+        "50sqrt(2) N",
+        "50 N",
+        "100/sqrt(2) N",
+        "100 N"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 372,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "How many multiples of 4 are between 10 and 50?",
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 548,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "What is the power dissipated in a 10-ohm resistor with 2 A current?",
+      "choices": [
+        "20 W",
+        "40 W",
+        "5 W",
+        "200 W"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 858,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the product of photosynthesis?",
+      "choices": [
+        "CO2 and H2O",
+        "C6H12O6 and O2",
+        "O2 and H2",
+        "CO and H2O"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 385,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "If y varies inversely with x, and y=8 when x=3, find y when x=12.",
+      "choices": [
+        "2",
+        "3",
+        "6",
+        "24"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 932,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which of the following is NOT a greenhouse gas?",
+      "choices": [
+        "CO2",
+        "CH4",
+        "N2O",
+        "N2"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 817,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the hybridization of nitrogen in NH3?",
+      "choices": [
+        "sp",
+        "sp2",
+        "sp3",
+        "sp3d"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 397,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the area of a sector with radius 5 and central angle 72Â°?",
+      "choices": [
+        "5pi",
+        "10pi",
+        "25pi",
+        "pi"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 993,
+      "original_category": "college_chemistry",
+      "original_split": "train",
+      "question": "2nd-order reaction k=0.05 L/mol*s, [A]0=1.0 M. Half-life?",
+      "choices": [
+        "10 s",
+        "20 s",
+        "40 s",
+        "5 s"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 258,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "How many prime factors does 360 have? (counting multiplicity)",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 286,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the equation of a circle centered at (2,-3) with radius 5?",
+      "choices": [
+        "(x-2)^2+(y+3)^2=25",
+        "(x+2)^2+(y-3)^2=25",
+        "(x-2)^2+(y-3)^2=5",
+        "(x+2)^2+(y+3)^2=25"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 68,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "What is the order of element 5 in Z_20?",
+      "choices": [
+        "2",
+        "4",
+        "5",
+        "10"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 833,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which of the following reactions is endothermic?",
+      "choices": [
+        "Combustion of methane",
+        "Freezing of water",
+        "Decomposition of CaCO3",
+        "Neutralization of acid"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 935,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the chemical formula for rust?",
+      "choices": [
+        "FeO",
+        "Fe2O3",
+        "Fe3O4",
+        "FeCl3"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 237,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "The mean of {5,8,x,12,15} is 10. Find x.",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 835,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What type of bond forms between two nonmetal atoms with very different electronegativities?",
+      "choices": [
+        "Nonpolar covalent",
+        "Polar covalent",
+        "Ionic",
+        "Metallic"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 54,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Is every subgroup of an abelian group normal?",
+      "choices": [
+        "Yes",
+        "No, only cyclic subgroups",
+        "No, only finite subgroups",
+        "Only if G is finite"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 657,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "What is the potential energy of charge q at potential V?",
+      "choices": [
+        "qV",
+        "q/V",
+        "q^2V",
+        "V/q"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 430,
+      "original_category": "college_mathematics",
+      "original_split": "train",
+      "question": "What is the dimension of the space of 3x3 symmetric matrices?",
+      "choices": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 703,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "Maxwell-Boltzmann: which statement is TRUE?",
+      "choices": [
+        "All molecules have the same speed",
+        "Distribution is asymmetric (right-skewed)",
+        "Peak is at rms speed",
+        "Distribution is symmetric"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 212,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Simplify: (x^2-9)/(x-3) for xâ‰ 3.",
+      "choices": [
+        "x+3",
+        "x-3",
+        "x^2",
+        "x"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 23,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "What is the order of Aut(Z_7)?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 839,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which of the following is an amphoteric substance?",
+      "choices": [
+        "HCl",
+        "NaOH",
+        "Water",
+        "NaCl"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 950,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which element has symbol W?",
+      "choices": [
+        "Tungsten",
+        "Wolfram",
+        "Both (same element)",
+        "Neither"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 120,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the perimeter of a rectangle with area 36 and length 9?",
+      "choices": [
+        "20",
+        "22",
+        "26",
+        "30"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 47,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Let G=Z_2 x Z_2. What is the order of every non-identity element?",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "Varies"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 171,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the range of y=x^2+1?",
+      "choices": [
+        "y>0",
+        "y>=1",
+        "y>=0",
+        "All reals"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 530,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "A 4 kg block on a frictionless surface is attached to wall by spring k=100 N/m. Period?",
+      "choices": [
+        "pi s",
+        "pi/5 s",
+        "2pi/5 s",
+        "pi/10 s"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 984,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What happens to the half-life of a first-order reaction as concentration decreases?",
+      "choices": [
+        "Increases",
+        "Decreases",
+        "Remains constant",
+        "Doubles"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 851,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which gas has the smallest molar mass?",
+      "choices": [
+        "H2",
+        "He",
+        "Ne",
+        "CH4"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 107,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "What is the Galois group of x^2-2 over Q?",
+      "choices": [
+        "Z_2",
+        "Z_4",
+        "S_2",
+        "Trivial"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 856,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "Which of the following is the weakest acid?",
+      "choices": [
+        "HCl",
+        "HF",
+        "H2SO4",
+        "HNO3"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 207,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the sum of digits of 3^8?",
+      "choices": [
+        "9",
+        "18",
+        "27",
+        "36"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 587,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "Speed of sound at 0C is 331 m/s. At 25C (approx +0.6 m/s per C)?",
+      "choices": [
+        "~346 m/s",
+        "~331 m/s",
+        "~356 m/s",
+        "~325 m/s"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 757,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "What is the de Broglie wavelength of proton at v=2e5 m/s? (h=6.63e-34, m=1.67e-27)",
+      "choices": [
+        "2e-12 m",
+        "2e-10 m",
+        "2e-14 m",
+        "4e-12 m"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 801,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "The rate of a reaction depends on which of the following?",
+      "choices": [
+        "Concentration of products only",
+        "Concentration of reactants only",
+        "Both concentration of reactants and temperature",
+        "Volume of container only"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 648,
+      "original_category": "high_school_physics",
+      "original_split": "train",
+      "question": "A 500 W motor lifts 100 kg at what speed? (g=10)",
+      "choices": [
+        "0.5 m/s",
+        "5 m/s",
+        "10 m/s",
+        "50 m/s"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 259,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "Simplify: (2^3)^2.",
+      "choices": [
+        "8",
+        "32",
+        "64",
+        "128"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 63,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "How many conjugacy classes does S_3 have?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 952,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the maximum number of electrons in the 3rd energy level?",
+      "choices": [
+        "8",
+        "18",
+        "32",
+        "2"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 275,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the value of (a-b)^2 if a=7 and b=3?",
+      "choices": [
+        "16",
+        "8",
+        "4",
+        "32"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 782,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "What is the Kw of water at 25C?",
+      "choices": [
+        "1e-7",
+        "1e-14",
+        "1e-12",
+        "1e-10"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 97,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "If G acts on X and |G|=10, |X|=4, what are possible orbit sizes?",
+      "choices": [
+        "1,2,4,5,10",
+        "1,2,5",
+        "1,2,10",
+        "1,4"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 176,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "The product of two consecutive integers is 56. The larger is?",
+      "choices": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 726,
+      "original_category": "college_physics",
+      "original_split": "train",
+      "question": "An LC circuit has L=2 H, C=0.5 F. What is the resonant frequency?",
+      "choices": [
+        "1 Hz",
+        "1 rad/s",
+        "2 rad/s",
+        "0.5 Hz"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 297,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the lateral surface area of a cylinder radius 3, height 5?",
+      "choices": [
+        "15pi",
+        "30pi",
+        "45pi",
+        "90pi"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 91,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Statement 1: Q is a field. Statement 2: Z is a field.",
+      "choices": [
+        "True,True",
+        "False,False",
+        "True,False",
+        "False,True"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 868,
+      "original_category": "high_school_chemistry",
+      "original_split": "train",
+      "question": "How many grams of NaCl (MW=58.5) are in 2.0 L of 0.50 M solution?",
+      "choices": [
+        "29.25 g",
+        "58.5 g",
+        "117 g",
+        "14.6 g"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 395,
+      "original_category": "high_school_mathematics",
+      "original_split": "train",
+      "question": "What is the maximum value of 3-2x^2?",
+      "choices": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 35,
+      "original_category": "abstract_algebra",
+      "original_split": "train",
+      "question": "Let R=Z[x]. Is R a UFD?",
+      "choices": [
+        "No",
+        "Yes",
+        "Only if x is prime",
+        "Only for polynomials of degree<2"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 927,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which noble gas has the largest atomic number in period 3?",
+      "choices": [
+        "He",
+        "Ne",
+        "Ar",
+        "Kr"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 98,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "What is the order of GL(2,Z_3)?",
+      "choices": [
+        "48",
+        "16",
+        "24",
+        "36"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 116,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "Evaluate: 4^1.5?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 446,
+      "original_category": "college_mathematics",
+      "original_split": "test",
+      "question": "What is the order of GL(2,Z_2)?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 815,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the charge of a hydrogen ion in solution?",
+      "choices": [
+        "0",
+        "-1",
+        "+1",
+        "+2"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 204,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the nth term of the sequence 2, 5, 10, 17, 26, ...?",
+      "choices": [
+        "n^2",
+        "n^2+1",
+        "2n+1",
+        "n^2+n"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 39,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "In which group does every element have order dividing 2?",
+      "choices": [
+        "Z_4",
+        "Z_2 x Z_2",
+        "Z_8",
+        "S_3"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 110,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "What is the number of ideals in Z_12?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 832,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following is an anion?",
+      "choices": [
+        "Na+",
+        "Ca2+",
+        "Cl-",
+        "Mg2+"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 812,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "The half-reaction at a cathode involves?",
+      "choices": [
+        "Oxidation",
+        "Reduction",
+        "No electron transfer",
+        "Ionization"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 183,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the perimeter of a right triangle with legs 5 and 12?",
+      "choices": [
+        "17",
+        "24",
+        "30",
+        "34"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 700,
+      "original_category": "college_physics",
+      "original_split": "test",
+      "question": "In photoelectric effect, which factor determines the maximum kinetic energy of emitted electrons?",
+      "choices": [
+        "Intensity of light",
+        "Frequency of light",
+        "Area of metal",
+        "All of the above"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 651,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "An object is in equilibrium. The sum of all torques about any point is?",
+      "choices": [
+        "Maximum",
+        "Minimum",
+        "Zero",
+        "Equal to weight"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 366,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the value of phi (golden ratio) to 2 decimal places?",
+      "choices": [
+        "1.41",
+        "1.62",
+        "2.00",
+        "1.73"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 905,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which element is a noble gas?",
+      "choices": [
+        "Cl",
+        "Br",
+        "Xe",
+        "I"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 315,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "The volume of a cone with radius 3 and height 4 is?",
+      "choices": [
+        "12pi",
+        "16pi",
+        "36pi",
+        "4pi"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 42,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Let H be a subgroup of G with [G:H]=2. Then H is?",
+      "choices": [
+        "Cyclic",
+        "Normal",
+        "Abelian",
+        "Trivial"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 151,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many positive divisors does 60 have?",
+      "choices": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 152,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the value of 2*3^2 - 4*2 + 1?",
+      "choices": [
+        "7",
+        "9",
+        "11",
+        "13"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 676,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "Which quantity is conserved in all collisions?",
+      "choices": [
+        "Kinetic energy",
+        "Potential energy",
+        "Momentum",
+        "Mechanical energy"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 268,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "A geometric sequence has first term 2 and ratio 3. What is the 5th term?",
+      "choices": [
+        "54",
+        "81",
+        "162",
+        "243"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 283,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the probability that a randomly chosen 2-digit number is prime?",
+      "choices": [
+        "21/90",
+        "21/100",
+        "23/90",
+        "23/100"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 652,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "A spring is stretched 5 cm by 10 N. How much work to stretch it 10 cm?",
+      "choices": [
+        "0.5 J",
+        "1 J",
+        "2 J",
+        "0.25 J"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 52,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "What is the number of elements of order 2 in Z_2 x Z_4?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 821,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following is a Lewis base?",
+      "choices": [
+        "BF3",
+        "H+",
+        "Fe3+",
+        "NH3"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 941,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What happens to equilibrium when temperature increases for an exothermic reaction?",
+      "choices": [
+        "Shifts right",
+        "Shifts left",
+        "No change",
+        "K increases"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 306,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many integers satisfy 2 <= x^2 <= 20?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 357,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is floor(7.9) + ceil(2.1)?",
+      "choices": [
+        "9",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 102,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "How many automorphisms does Z_12 have?",
+      "choices": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 576,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "A 2 kg ball moves in a circle of radius 3 m with period 6 s. Centripetal force?",
+      "choices": [
+        "~6.6 N",
+        "~4.4 N",
+        "~2.2 N",
+        "~13.2 N"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 9,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Statement 1: Every PID is a UFD. Statement 2: Every UFD is a PID.",
+      "choices": [
+        "True,True",
+        "False,False",
+        "True,False",
+        "False,True"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 134,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is lim(x->2) (x^2-4)/(x-2)?",
+      "choices": [
+        "0",
+        "2",
+        "4",
+        "Undefined"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 884,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the vapor pressure of water most directly related to?",
+      "choices": [
+        "Surface area",
+        "Temperature",
+        "Volume",
+        "Pressure"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 244,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many 4-digit numbers have all distinct digits?",
+      "choices": [
+        "4536",
+        "5040",
+        "9000",
+        "4500"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 578,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "The unit of electric field intensity is?",
+      "choices": [
+        "V*m",
+        "V/m",
+        "A/m",
+        "C/m"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 583,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "What is the gravitational potential energy of a 2 kg mass at 10 m height? (g=10)",
+      "choices": [
+        "20 J",
+        "100 J",
+        "200 J",
+        "400 J"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 240,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the area of an isosceles right triangle with hypotenuse 8?",
+      "choices": [
+        "16",
+        "8",
+        "32",
+        "4sqrt(2)"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 609,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "Two forces 3 N and 4 N act at 90 degrees. Resultant?",
+      "choices": [
+        "5 N",
+        "7 N",
+        "12 N",
+        "1 N"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 805,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the name of the process by which a radioactive nucleus emits a beta particle?",
+      "choices": [
+        "Alpha decay",
+        "Beta decay",
+        "Gamma emission",
+        "Electron capture"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 222,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many terms in the AP: 7, 13, 19, ..., 67?",
+      "choices": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 716,
+      "original_category": "college_physics",
+      "original_split": "test",
+      "question": "A proton and alpha particle enter B field with same v. Ratio of radii r_alpha/r_proton?",
+      "choices": [
+        "1",
+        "2",
+        "4",
+        "0.5"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 2,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Which statement about the direct product G x H is FALSE?",
+      "choices": [
+        "G x H is a group",
+        "G x H is abelian iff G and H are abelian",
+        "G x H has order |G|*|H|",
+        "G x H is always cyclic"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 886,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the Gibbs free energy equation?",
+      "choices": [
+        "G=H+TS",
+        "G=H-TS",
+        "G=TS-H",
+        "G=H/TS"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 170,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many terms does the expansion of (x+y+z)^3 have?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 15,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "What is gcd in Z[i] (Gaussian integers) of 2 and 1+i?",
+      "choices": [
+        "1",
+        "2",
+        "1+i",
+        "Cannot be computed"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 553,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "What is the speed of electromagnetic waves in vacuum?",
+      "choices": [
+        "3e6 m/s",
+        "3e8 m/s",
+        "3e10 m/s",
+        "c varies"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 51,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "How many groups of order 6 are there (up to isomorphism)?",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 989,
+      "original_category": "college_chemistry",
+      "original_split": "test",
+      "question": "sp2 hybridized carbon has bond angles of?",
+      "choices": [
+        "90 deg",
+        "109.5 deg",
+        "120 deg",
+        "180 deg"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 912,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the oxidation state of carbon in CO32-?",
+      "choices": [
+        "+2",
+        "+3",
+        "+4",
+        "+6"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 829,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Increasing temperature generally does what to solubility of gases?",
+      "choices": [
+        "Increases it",
+        "Decreases it",
+        "Has no effect",
+        "Doubles it"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 669,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "What is the relation between wavelength lambda, frequency f, and wave speed v?",
+      "choices": [
+        "v=f/lambda",
+        "v=lambda/f",
+        "v=f*lambda",
+        "v=f+lambda"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 55,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Let phi: G->H be surjective with |ker phi|=3. If |G|=21, what is |H|?",
+      "choices": [
+        "3",
+        "7",
+        "9",
+        "21"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 478,
+      "original_category": "college_mathematics",
+      "original_split": "test",
+      "question": "Which of the following is true about the empty set?",
+      "choices": [
+        "It has no subsets",
+        "It is a subset of every set",
+        "It contains one element",
+        "It equals zero"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 96,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Statement 1: Z is a Euclidean domain. Statement 2: Every Euclidean domain is a PID.",
+      "choices": [
+        "True,True",
+        "False,False",
+        "True,False",
+        "False,True"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 248,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many integers n satisfy 1<=n<=100 and n^2 ends in 1?",
+      "choices": [
+        "10",
+        "20",
+        "40",
+        "50"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 69,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Which of the following groups is its own center?",
+      "choices": [
+        "S_3",
+        "D_4",
+        "Z_5",
+        "Q_8"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 874,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the formula for baking soda?",
+      "choices": [
+        "Na2CO3",
+        "NaHCO3",
+        "NaCl",
+        "NaOH"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 646,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "A mass hangs from two equal springs in parallel (k each). Effective spring constant?",
+      "choices": [
+        "k/2",
+        "k",
+        "2k",
+        "4k"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 72,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "In a group G, the number of elements of order k must divide?",
+      "choices": [
+        "k",
+        "phi(k)",
+        "|G|",
+        "Both phi(k) and |G|"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 21,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Which group has presentation <a,b|a^3=b^2=e, ba=a^2 b>?",
+      "choices": [
+        "Z_6",
+        "S_3",
+        "D_3",
+        "Both S_3 and D_3"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 827,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following has the longest C-C bond?",
+      "choices": [
+        "Ethane",
+        "Ethene",
+        "Ethyne",
+        "Benzene"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 462,
+      "original_category": "college_mathematics",
+      "original_split": "test",
+      "question": "What is the Maclaurin series for cos(x)?",
+      "choices": [
+        "1-x^2/2!+x^4/4!-...",
+        "1+x+x^2/2+...",
+        "x-x^3/3!+...",
+        "1-x+x^2/2-..."
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 831,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the product of alpha decay of U-238?",
+      "choices": [
+        "Th-234",
+        "Ra-234",
+        "Th-238",
+        "Pa-234"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 319,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the maximum value of sin(x)+cos(x)?",
+      "choices": [
+        "1",
+        "sqrt(2)",
+        "2",
+        "pi"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 938,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the number of lone pairs on the oxygen atom in H2O?",
+      "choices": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 855,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following is a diprotic acid?",
+      "choices": [
+        "HCl",
+        "H2SO4",
+        "H3PO4",
+        "HNO3"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 169,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the value of log(2)+log(50)?",
+      "choices": [
+        "2",
+        "3",
+        "4",
+        "log(100)"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 545,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "On a frictionless surface, two equal masses m at rest. One given impulse J. Final KE?",
+      "choices": [
+        "J^2/2m",
+        "J^2/m",
+        "J^2/4m",
+        "2J^2/m"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 87,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "What does Lagrange's theorem state?",
+      "choices": [
+        "Every group has a normal subgroup.",
+        "The order of a subgroup divides the order of the group.",
+        "Every finite group is cyclic.",
+        "Groups of prime order are abelian."
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 246,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the number of onto functions from {1,2,3} to {a,b}?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 371,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "A convex polygon has 9 diagonals. How many sides?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "9"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 808,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following oxoacids is the weakest?",
+      "choices": [
+        "HClO4",
+        "HClO3",
+        "HClO2",
+        "HClO"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 331,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the value of n if C(n,2)=15?",
+      "choices": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 613,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "Which of the following increases when temperature of an ideal gas at constant V increases?",
+      "choices": [
+        "Pressure",
+        "Volume",
+        "Moles",
+        "Molecular mass"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 165,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many integers between 50 and 150 are divisible by 7?",
+      "choices": [
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 894,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following reduces Cu2+ to Cu?",
+      "choices": [
+        "Zn",
+        "Ag",
+        "Au",
+        "Pt"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 999,
+      "original_category": "college_chemistry",
+      "original_split": "test",
+      "question": "Which of the following is a nucleophile?",
+      "choices": [
+        "BF3",
+        "AlCl3",
+        "H2O",
+        "H+"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 161,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the value of sum from n=0 to infinity of (1/3)^n?",
+      "choices": [
+        "3/2",
+        "3",
+        "1/2",
+        "2/3"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 931,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following is NOT a property of acids?",
+      "choices": [
+        "Sour taste",
+        "Turn litmus red",
+        "React with bases to form salt and water",
+        "Slippery feel"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 955,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Reaction 2A->B has rate law rate=k[A]^2. If [A] doubles, rate changes by?",
+      "choices": [
+        "2x",
+        "4x",
+        "8x",
+        "16x"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 656,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "A 5 kg object on frictionless surface pulled by 20 N at 30 deg above horizontal. Horizontal acceleration?",
+      "choices": [
+        "2sqrt(3) m/s^2",
+        "4 m/s^2",
+        "4sqrt(3)/5 m/s^2",
+        "2 m/s^2"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 768,
+      "original_category": "college_physics",
+      "original_split": "test",
+      "question": "For a simple pendulum, if length quadruples, period changes by?",
+      "choices": [
+        "factor 2",
+        "factor 4",
+        "factor 1/2",
+        "factor 1/4"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 117,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "The area of a circle inscribed in a square of side 6 is?",
+      "choices": [
+        "6pi",
+        "9pi",
+        "12pi",
+        "36pi"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 830,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "A saturated solution is in equilibrium with?",
+      "choices": [
+        "Dissolved ions only",
+        "Undissolved solid",
+        "Pure solvent",
+        "Supersaturated solution"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 394,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the nth term of 1, 4, 9, 16, ...?",
+      "choices": [
+        "n",
+        "n+1",
+        "n^2",
+        "2n-1"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 956,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which compound has the highest lattice energy?",
+      "choices": [
+        "NaCl",
+        "MgO",
+        "KBr",
+        "CsI"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 156,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "How many integers from 1 to 1000 are NOT divisible by 2, 3, or 5?",
+      "choices": [
+        "233",
+        "266",
+        "300",
+        "267"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 112,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "If the sum of n odd numbers starting from 1 is n^2, what is the sum of first 12 odd numbers?",
+      "choices": [
+        "120",
+        "132",
+        "144",
+        "156"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 925,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which sublevel fills first according to Aufbau: 4s or 3d?",
+      "choices": [
+        "3d",
+        "4s",
+        "They fill together",
+        "4p"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 597,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "Which of the following is NOT a vector quantity?",
+      "choices": [
+        "Velocity",
+        "Force",
+        "Mass",
+        "Acceleration"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 598,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "What is the power dissipated in a 10-ohm resistor with 2 A current?",
+      "choices": [
+        "20 W",
+        "40 W",
+        "5 W",
+        "200 W"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 252,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "Solve for x: log(x+3)+log(x-2)=log(14)?",
+      "choices": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 658,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "A 0.2 kg ball on 0.5 m string moves in circle at 4 m/s. Centripetal force?",
+      "choices": [
+        "6.4 N",
+        "3.2 N",
+        "12.8 N",
+        "1.6 N"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 786,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "How many valence electrons does phosphorus have?",
+      "choices": [
+        "3",
+        "5",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 907,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What type of reaction is HCl + NaOH -> NaCl + H2O?",
+      "choices": [
+        "Redox",
+        "Precipitation",
+        "Neutralization",
+        "Complexation"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 623,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "A 500 W motor lifts 100 kg at what speed? (g=10)",
+      "choices": [
+        "0.5 m/s",
+        "5 m/s",
+        "10 m/s",
+        "50 m/s"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 373,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "If 2^x * 3^x = 6^4, then x=?",
+      "choices": [
+        "4",
+        "3",
+        "2",
+        "8"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 854,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following affects the equilibrium constant K?",
+      "choices": [
+        "Adding more reactant",
+        "Changing temperature",
+        "Adding catalyst",
+        "Changing pressure for gases"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 947,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "In which reaction does oxidation number of sulfur change from +4 to +6?",
+      "choices": [
+        "SO2+O->SO3",
+        "S+O2->SO2",
+        "SO3->SO2+O",
+        "H2S+O2->SO2+H2O"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 81,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "How many homomorphisms are there from Z to Z_n?",
+      "choices": [
+        "n",
+        "1",
+        "phi(n)",
+        "n-1"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 296,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the maximum value of 4sinx+3cosx?",
+      "choices": [
+        "3",
+        "4",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 791,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the main product when ethene reacts with Br2?",
+      "choices": [
+        "1,2-dibromoethane",
+        "Bromoethene",
+        "Ethyne",
+        "Vinyl bromide"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 721,
+      "original_category": "college_physics",
+      "original_split": "test",
+      "question": "What is the energy of the n=3 state in hydrogen atom (E_1=-13.6 eV)?",
+      "choices": [
+        "-1.51 eV",
+        "-3.4 eV",
+        "-0.85 eV",
+        "-4.53 eV"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 196,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is phi(30)?",
+      "choices": [
+        "6",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 370,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "Solve: 3^(2x-1)=27.",
+      "choices": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 882,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which statement about Le Chatelier's principle and pressure is correct?",
+      "choices": [
+        "Increasing pressure shifts equilibrium to the side with fewer moles of gas.",
+        "Decreasing pressure shifts equilibrium to fewer moles.",
+        "Pressure only affects liquids.",
+        "Pressure never affects equilibrium."
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 906,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "What is the formula for ammonium nitrate?",
+      "choices": [
+        "NH4NO3",
+        "NH3NO3",
+        "(NH4)2NO3",
+        "NH4NO2"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 849,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which of the following is NOT a type of chemical reaction?",
+      "choices": [
+        "Synthesis",
+        "Decomposition",
+        "Dissolution",
+        "Combustion"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 300,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "The angle subtended by an arc at center is twice the angle at?",
+      "choices": [
+        "Another arc",
+        "Circumference",
+        "The center",
+        "Another chord"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 44,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Which of the following is a solvable group?",
+      "choices": [
+        "S_5",
+        "A_5",
+        "S_4",
+        "All non-abelian groups"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 867,
+      "original_category": "high_school_chemistry",
+      "original_split": "test",
+      "question": "Which element has the highest boiling point?",
+      "choices": [
+        "Tungsten",
+        "Carbon",
+        "Osmium",
+        "Rhenium"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 94,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "If G is a group with |G|=p*q for distinct primes p<q where q is not 1 mod p, then G is?",
+      "choices": [
+        "Non-abelian",
+        "Cyclic",
+        "Simple",
+        "Not solvable"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 220,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the sum of all numbers formed by the digits 1, 2, 3 using each once?",
+      "choices": [
+        "1332",
+        "1440",
+        "1332",
+        "999"
+      ],
+      "answer": 0,
+      "answer_letter": "A"
+    },
+    {
+      "original_id": 348,
+      "original_category": "high_school_mathematics",
+      "original_split": "test",
+      "question": "What is the number of ways to write 10 as an ordered sum of two positive integers?",
+      "choices": [
+        "8",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 6,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "Which of the following is true about Z_2 x Z_2?",
+      "choices": [
+        "It is cyclic",
+        "It has order 4 with no element of order 4",
+        "All elements have order 2",
+        "Both B and C"
+      ],
+      "answer": 3,
+      "answer_letter": "D"
+    },
+    {
+      "original_id": 718,
+      "original_category": "college_physics",
+      "original_split": "test",
+      "question": "A photon in vacuum always travels at c regardless of?",
+      "choices": [
+        "Wavelength",
+        "Frequency",
+        "Frame of reference",
+        "Energy"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 517,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "What force keeps a car moving in a circular path?",
+      "choices": [
+        "Gravity",
+        "Normal force",
+        "Friction",
+        "Air resistance"
+      ],
+      "answer": 2,
+      "answer_letter": "C"
+    },
+    {
+      "original_id": 758,
+      "original_category": "college_physics",
+      "original_split": "test",
+      "question": "Which phenomenon is explained by quantum tunneling?",
+      "choices": [
+        "Photoelectric effect",
+        "Nuclear alpha decay",
+        "Compton effect",
+        "Diffraction"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 25,
+      "original_category": "abstract_algebra",
+      "original_split": "test",
+      "question": "What is the order of GL(2, Z_2)?",
+      "choices": [
+        "4",
+        "6",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    },
+    {
+      "original_id": 654,
+      "original_category": "high_school_physics",
+      "original_split": "test",
+      "question": "What is the speed of electromagnetic waves in vacuum?",
+      "choices": [
+        "3e6 m/s",
+        "3e8 m/s",
+        "3e10 m/s",
+        "c varies"
+      ],
+      "answer": 1,
+      "answer_letter": "B"
+    }
+  ]
+}
